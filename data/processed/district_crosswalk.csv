@@ -1,0 +1,638 @@
+district_id,nfhs4_present,nfhs5_present,mapping_decision
+andaman and nicobar islands::nicobar,True,False,exact normalized name; review boundary changes manually
+andaman and nicobar islands::north and middle andaman,True,False,exact normalized name; review boundary changes manually
+andaman and nicobar islands::south andaman,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::anantapur,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::chittoor,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::east godavari,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::guntur,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::krishna,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::kurnool,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::prakasam,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::sri potti sriramulu nellore,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::srikakulam,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::visakhapatnam,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::vizianagaram,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::west godavari,True,False,exact normalized name; review boundary changes manually
+andhra pradesh::y s r cuddapah,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::anjaw,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::changlang,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::dibang valley,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::east kameng,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::east siang,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::kurung kumey,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::lohit,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::lower dibang valley,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::lower subansiri,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::papumpare,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::tawang,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::tirap,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::upper siang,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::upper subansiri,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::west kameng,True,False,exact normalized name; review boundary changes manually
+arunachal pradesh::west siang,True,False,exact normalized name; review boundary changes manually
+assam::baksa,True,False,exact normalized name; review boundary changes manually
+assam::barpeta,True,False,exact normalized name; review boundary changes manually
+assam::bongaigaon,True,False,exact normalized name; review boundary changes manually
+assam::cachar,True,False,exact normalized name; review boundary changes manually
+assam::chirang,True,False,exact normalized name; review boundary changes manually
+assam::darrang,True,False,exact normalized name; review boundary changes manually
+assam::dhemaji,True,False,exact normalized name; review boundary changes manually
+assam::dhubri,True,False,exact normalized name; review boundary changes manually
+assam::dibrugarh,True,False,exact normalized name; review boundary changes manually
+assam::dima hasao,True,False,exact normalized name; review boundary changes manually
+assam::goalpara,True,False,exact normalized name; review boundary changes manually
+assam::golaghat,True,False,exact normalized name; review boundary changes manually
+assam::hailakandi,True,False,exact normalized name; review boundary changes manually
+assam::jorhat,True,False,exact normalized name; review boundary changes manually
+assam::kamrup,True,False,exact normalized name; review boundary changes manually
+assam::kamrup metropolitan,True,False,exact normalized name; review boundary changes manually
+assam::karbi anglong,True,False,exact normalized name; review boundary changes manually
+assam::karimganj,True,False,exact normalized name; review boundary changes manually
+assam::kokrajhar,True,False,exact normalized name; review boundary changes manually
+assam::lakhimpur,True,False,exact normalized name; review boundary changes manually
+assam::morigaon,True,False,exact normalized name; review boundary changes manually
+assam::nagaon,True,False,exact normalized name; review boundary changes manually
+assam::nalbari,True,False,exact normalized name; review boundary changes manually
+assam::sivasagar,True,False,exact normalized name; review boundary changes manually
+assam::sonitpur,True,False,exact normalized name; review boundary changes manually
+assam::tinsukia,True,False,exact normalized name; review boundary changes manually
+assam::udalguri,True,False,exact normalized name; review boundary changes manually
+bihar::araria,True,False,exact normalized name; review boundary changes manually
+bihar::arwal,True,False,exact normalized name; review boundary changes manually
+bihar::aurangabad,True,False,exact normalized name; review boundary changes manually
+bihar::banka,True,False,exact normalized name; review boundary changes manually
+bihar::begusarai,True,False,exact normalized name; review boundary changes manually
+bihar::bhagalpur,True,False,exact normalized name; review boundary changes manually
+bihar::bhojpur,True,False,exact normalized name; review boundary changes manually
+bihar::buxar,True,False,exact normalized name; review boundary changes manually
+bihar::darbhanga,True,False,exact normalized name; review boundary changes manually
+bihar::gaya,True,False,exact normalized name; review boundary changes manually
+bihar::gopalganj,True,False,exact normalized name; review boundary changes manually
+bihar::jamui,True,False,exact normalized name; review boundary changes manually
+bihar::jehanabad,True,False,exact normalized name; review boundary changes manually
+bihar::kaimur,True,False,exact normalized name; review boundary changes manually
+bihar::katihar,True,False,exact normalized name; review boundary changes manually
+bihar::khagaria,True,False,exact normalized name; review boundary changes manually
+bihar::kishanganj,True,False,exact normalized name; review boundary changes manually
+bihar::lakhisarai,True,False,exact normalized name; review boundary changes manually
+bihar::madhepura,True,False,exact normalized name; review boundary changes manually
+bihar::madhubani,True,False,exact normalized name; review boundary changes manually
+bihar::munger,True,False,exact normalized name; review boundary changes manually
+bihar::muzaffarpur,True,False,exact normalized name; review boundary changes manually
+bihar::nalanda,True,False,exact normalized name; review boundary changes manually
+bihar::nawada,True,False,exact normalized name; review boundary changes manually
+bihar::pashchim champaran,True,False,exact normalized name; review boundary changes manually
+bihar::patna,True,False,exact normalized name; review boundary changes manually
+bihar::purba champaran,True,False,exact normalized name; review boundary changes manually
+bihar::purnia,True,False,exact normalized name; review boundary changes manually
+bihar::rohtas,True,False,exact normalized name; review boundary changes manually
+bihar::saharsa,True,False,exact normalized name; review boundary changes manually
+bihar::samastipur,True,False,exact normalized name; review boundary changes manually
+bihar::saran,True,False,exact normalized name; review boundary changes manually
+bihar::sheikhpura,True,False,exact normalized name; review boundary changes manually
+bihar::sheohar,True,False,exact normalized name; review boundary changes manually
+bihar::sitamarhi,True,False,exact normalized name; review boundary changes manually
+bihar::siwan,True,False,exact normalized name; review boundary changes manually
+bihar::supaul,True,False,exact normalized name; review boundary changes manually
+bihar::vaishali,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::bastar,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::bijapur,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::bilaspur,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::dakshin bastar dantewada,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::dhamtari,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::durg,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::janjgir champa,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::jashpur,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::kabirdham,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::korba,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::korea,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::mahasamund,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::narayanpur,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::raigarh,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::raipur,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::rajnandgaon,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::surguja,True,False,exact normalized name; review boundary changes manually
+chhattisgarh::uttar bastar kanker,True,False,exact normalized name; review boundary changes manually
+daman and diu::daman,True,False,exact normalized name; review boundary changes manually
+daman and diu::diu,True,False,exact normalized name; review boundary changes manually
+goa::north goa,True,False,exact normalized name; review boundary changes manually
+goa::south goa,True,False,exact normalized name; review boundary changes manually
+gujarat::ahmadabad,True,False,exact normalized name; review boundary changes manually
+gujarat::amreli,True,False,exact normalized name; review boundary changes manually
+gujarat::anand,True,False,exact normalized name; review boundary changes manually
+gujarat::banaskantha,True,False,exact normalized name; review boundary changes manually
+gujarat::bharuch,True,False,exact normalized name; review boundary changes manually
+gujarat::bhavnagar,True,False,exact normalized name; review boundary changes manually
+gujarat::dohad,True,False,exact normalized name; review boundary changes manually
+gujarat::gandhinagar,True,False,exact normalized name; review boundary changes manually
+gujarat::jamnagar,True,False,exact normalized name; review boundary changes manually
+gujarat::junagadh,True,False,exact normalized name; review boundary changes manually
+gujarat::kachchh,True,False,exact normalized name; review boundary changes manually
+gujarat::kheda,True,False,exact normalized name; review boundary changes manually
+gujarat::mahesena,True,False,exact normalized name; review boundary changes manually
+gujarat::narmada,True,False,exact normalized name; review boundary changes manually
+gujarat::navsari,True,False,exact normalized name; review boundary changes manually
+gujarat::panchmahal,True,False,exact normalized name; review boundary changes manually
+gujarat::patan,True,False,exact normalized name; review boundary changes manually
+gujarat::porbandar,True,False,exact normalized name; review boundary changes manually
+gujarat::rajkot,True,False,exact normalized name; review boundary changes manually
+gujarat::sabarkantha,True,False,exact normalized name; review boundary changes manually
+gujarat::surat,True,False,exact normalized name; review boundary changes manually
+gujarat::surendranagar,True,False,exact normalized name; review boundary changes manually
+gujarat::tapi,True,False,exact normalized name; review boundary changes manually
+gujarat::the dangs,True,False,exact normalized name; review boundary changes manually
+gujarat::vadodara,True,False,exact normalized name; review boundary changes manually
+gujarat::valsad,True,False,exact normalized name; review boundary changes manually
+haryana::ambala,True,False,exact normalized name; review boundary changes manually
+haryana::bhiwani,True,False,exact normalized name; review boundary changes manually
+haryana::faridabad,True,False,exact normalized name; review boundary changes manually
+haryana::fatehabad,True,False,exact normalized name; review boundary changes manually
+haryana::gurgaon,True,False,exact normalized name; review boundary changes manually
+haryana::hisar,True,False,exact normalized name; review boundary changes manually
+haryana::jhajjar,True,False,exact normalized name; review boundary changes manually
+haryana::jind,True,False,exact normalized name; review boundary changes manually
+haryana::kaithal,True,False,exact normalized name; review boundary changes manually
+haryana::karnal,True,False,exact normalized name; review boundary changes manually
+haryana::kurukshetra,True,False,exact normalized name; review boundary changes manually
+haryana::mahendragarh,True,False,exact normalized name; review boundary changes manually
+haryana::mewat,True,False,exact normalized name; review boundary changes manually
+haryana::palwal,True,False,exact normalized name; review boundary changes manually
+haryana::panchkula,True,False,exact normalized name; review boundary changes manually
+haryana::panipat,True,False,exact normalized name; review boundary changes manually
+haryana::rewari,True,False,exact normalized name; review boundary changes manually
+haryana::rohtak,True,False,exact normalized name; review boundary changes manually
+haryana::sirsa,True,False,exact normalized name; review boundary changes manually
+haryana::sonipat,True,False,exact normalized name; review boundary changes manually
+haryana::yamunanagar,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::bilaspur,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::chamba,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::hamirpur,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::kangra,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::kinnaur,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::kullu,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::lahul and spiti,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::mandi,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::shimla,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::sirmaur,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::solan,True,False,exact normalized name; review boundary changes manually
+himachal pradesh::una,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::anantnag,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::badgam,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::bandipore,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::baramula,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::doda,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::ganderbal,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::jammu,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::kargil,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::kathua,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::kishtwar,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::kulgam,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::kupwara,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::leh(ladakh),True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::pulwama,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::punch,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::rajouri,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::ramban,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::reasi,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::samba,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::shupiyan,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::srinagar,True,False,exact normalized name; review boundary changes manually
+jammu and kashmir::udhampur,True,False,exact normalized name; review boundary changes manually
+jharkhand::bokaro,True,False,exact normalized name; review boundary changes manually
+jharkhand::chatra,True,False,exact normalized name; review boundary changes manually
+jharkhand::deoghar,True,False,exact normalized name; review boundary changes manually
+jharkhand::dhanbad,True,False,exact normalized name; review boundary changes manually
+jharkhand::dumka,True,False,exact normalized name; review boundary changes manually
+jharkhand::garhwa,True,False,exact normalized name; review boundary changes manually
+jharkhand::giridih,True,False,exact normalized name; review boundary changes manually
+jharkhand::godda,True,False,exact normalized name; review boundary changes manually
+jharkhand::gumla,True,False,exact normalized name; review boundary changes manually
+jharkhand::hazaribagh,True,False,exact normalized name; review boundary changes manually
+jharkhand::jamtara,True,False,exact normalized name; review boundary changes manually
+jharkhand::khunti,True,False,exact normalized name; review boundary changes manually
+jharkhand::kodarma,True,False,exact normalized name; review boundary changes manually
+jharkhand::latehar,True,False,exact normalized name; review boundary changes manually
+jharkhand::lohardaga,True,False,exact normalized name; review boundary changes manually
+jharkhand::pakur,True,False,exact normalized name; review boundary changes manually
+jharkhand::palamu,True,False,exact normalized name; review boundary changes manually
+jharkhand::pashchimi singhbhum,True,False,exact normalized name; review boundary changes manually
+jharkhand::purbi singhbhum,True,False,exact normalized name; review boundary changes manually
+jharkhand::ramgarh,True,False,exact normalized name; review boundary changes manually
+jharkhand::ranchi,True,False,exact normalized name; review boundary changes manually
+jharkhand::sahibganj,True,False,exact normalized name; review boundary changes manually
+jharkhand::saraikela kharsawan,True,False,exact normalized name; review boundary changes manually
+jharkhand::simdega,True,False,exact normalized name; review boundary changes manually
+karnataka::bagalkot,True,False,exact normalized name; review boundary changes manually
+karnataka::bangalore,True,False,exact normalized name; review boundary changes manually
+karnataka::bangalore rural,True,False,exact normalized name; review boundary changes manually
+karnataka::belgaum,True,False,exact normalized name; review boundary changes manually
+karnataka::bellary,True,False,exact normalized name; review boundary changes manually
+karnataka::bidar,True,False,exact normalized name; review boundary changes manually
+karnataka::bijapur,True,False,exact normalized name; review boundary changes manually
+karnataka::chamarajanagar,True,False,exact normalized name; review boundary changes manually
+karnataka::chikkaballapura,True,False,exact normalized name; review boundary changes manually
+karnataka::chikmagalur,True,False,exact normalized name; review boundary changes manually
+karnataka::chitradurga,True,False,exact normalized name; review boundary changes manually
+karnataka::dakshina kannada,True,False,exact normalized name; review boundary changes manually
+karnataka::davanagere,True,False,exact normalized name; review boundary changes manually
+karnataka::dharwad,True,False,exact normalized name; review boundary changes manually
+karnataka::gadag,True,False,exact normalized name; review boundary changes manually
+karnataka::gulbarga,True,False,exact normalized name; review boundary changes manually
+karnataka::hassan,True,False,exact normalized name; review boundary changes manually
+karnataka::haveri,True,False,exact normalized name; review boundary changes manually
+karnataka::kodagu,True,False,exact normalized name; review boundary changes manually
+karnataka::kolar,True,False,exact normalized name; review boundary changes manually
+karnataka::koppal,True,False,exact normalized name; review boundary changes manually
+karnataka::mandya,True,False,exact normalized name; review boundary changes manually
+karnataka::mysore,True,False,exact normalized name; review boundary changes manually
+karnataka::raichur,True,False,exact normalized name; review boundary changes manually
+karnataka::ramanagara,True,False,exact normalized name; review boundary changes manually
+karnataka::shimoga,True,False,exact normalized name; review boundary changes manually
+karnataka::tumkur,True,False,exact normalized name; review boundary changes manually
+karnataka::udupi,True,False,exact normalized name; review boundary changes manually
+karnataka::uttara kannada,True,False,exact normalized name; review boundary changes manually
+karnataka::yadgir,True,False,exact normalized name; review boundary changes manually
+kerala::alappuzha,True,False,exact normalized name; review boundary changes manually
+kerala::ernakulam,True,False,exact normalized name; review boundary changes manually
+kerala::idukki,True,False,exact normalized name; review boundary changes manually
+kerala::kannur,True,False,exact normalized name; review boundary changes manually
+kerala::kasaragod,True,False,exact normalized name; review boundary changes manually
+kerala::kollam,True,False,exact normalized name; review boundary changes manually
+kerala::kottayam,True,False,exact normalized name; review boundary changes manually
+kerala::kozhikode,True,False,exact normalized name; review boundary changes manually
+kerala::malappuram,True,False,exact normalized name; review boundary changes manually
+kerala::palakkad,True,False,exact normalized name; review boundary changes manually
+kerala::pathanamthitta,True,False,exact normalized name; review boundary changes manually
+kerala::thiruvananthapuram,True,False,exact normalized name; review boundary changes manually
+kerala::thrissur,True,False,exact normalized name; review boundary changes manually
+kerala::wayanad,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::alirajpur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::anuppur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::ashoknagar,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::balaghat,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::barwani,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::betul,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::bhind,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::bhopal,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::burhanpur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::chhatarpur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::chhindwara,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::damoh,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::datia,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::dewas,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::dhar,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::dindori,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::guna,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::gwalior,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::harda,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::hoshangabad,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::indore,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::jabalpur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::jhabua,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::katni,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::khandwa (east nimar),True,False,exact normalized name; review boundary changes manually
+madhya pradesh::khargone (west nimar),True,False,exact normalized name; review boundary changes manually
+madhya pradesh::mandla,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::mandsaur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::morena,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::narsimhapur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::neemuch,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::panna,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::raisen,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::rajgarh,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::ratlam,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::rewa,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::sagar,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::satna,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::sehore,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::seoni,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::shahdol,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::shajapur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::sheopur,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::shivpuri,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::sidhi,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::singrauli,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::tikamgarh,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::ujjain,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::umaria,True,False,exact normalized name; review boundary changes manually
+madhya pradesh::vidisha,True,False,exact normalized name; review boundary changes manually
+maharashtra::ahmednagar,True,False,exact normalized name; review boundary changes manually
+maharashtra::akola,True,False,exact normalized name; review boundary changes manually
+maharashtra::amravati,True,False,exact normalized name; review boundary changes manually
+maharashtra::aurangabad,True,False,exact normalized name; review boundary changes manually
+maharashtra::bhandara,True,False,exact normalized name; review boundary changes manually
+maharashtra::bid,True,False,exact normalized name; review boundary changes manually
+maharashtra::buldhana,True,False,exact normalized name; review boundary changes manually
+maharashtra::chandrapur,True,False,exact normalized name; review boundary changes manually
+maharashtra::dhule,True,False,exact normalized name; review boundary changes manually
+maharashtra::gadchiroli,True,False,exact normalized name; review boundary changes manually
+maharashtra::gondiya,True,False,exact normalized name; review boundary changes manually
+maharashtra::hingoli,True,False,exact normalized name; review boundary changes manually
+maharashtra::jalgaon,True,False,exact normalized name; review boundary changes manually
+maharashtra::jalna,True,False,exact normalized name; review boundary changes manually
+maharashtra::kolhapur,True,False,exact normalized name; review boundary changes manually
+maharashtra::latur,True,False,exact normalized name; review boundary changes manually
+maharashtra::mumbai,True,False,exact normalized name; review boundary changes manually
+maharashtra::mumbai suburban,True,False,exact normalized name; review boundary changes manually
+maharashtra::nagpur,True,False,exact normalized name; review boundary changes manually
+maharashtra::nanded,True,False,exact normalized name; review boundary changes manually
+maharashtra::nandurbar,True,False,exact normalized name; review boundary changes manually
+maharashtra::nashik,True,False,exact normalized name; review boundary changes manually
+maharashtra::osmanabad,True,False,exact normalized name; review boundary changes manually
+maharashtra::parbhani,True,False,exact normalized name; review boundary changes manually
+maharashtra::pune,True,False,exact normalized name; review boundary changes manually
+maharashtra::raigarh,True,False,exact normalized name; review boundary changes manually
+maharashtra::ratnagiri,True,False,exact normalized name; review boundary changes manually
+maharashtra::sangli,True,False,exact normalized name; review boundary changes manually
+maharashtra::satara,True,False,exact normalized name; review boundary changes manually
+maharashtra::sindhudurg,True,False,exact normalized name; review boundary changes manually
+maharashtra::solapur,True,False,exact normalized name; review boundary changes manually
+maharashtra::thane,True,False,exact normalized name; review boundary changes manually
+maharashtra::wardha,True,False,exact normalized name; review boundary changes manually
+maharashtra::washim,True,False,exact normalized name; review boundary changes manually
+maharashtra::yavatmal,True,False,exact normalized name; review boundary changes manually
+manipur::bishnupur,True,False,exact normalized name; review boundary changes manually
+manipur::chandel,True,False,exact normalized name; review boundary changes manually
+manipur::churachandpur,True,False,exact normalized name; review boundary changes manually
+manipur::imphal east,True,False,exact normalized name; review boundary changes manually
+manipur::imphal west,True,False,exact normalized name; review boundary changes manually
+manipur::senapati,True,False,exact normalized name; review boundary changes manually
+manipur::tamenglong,True,False,exact normalized name; review boundary changes manually
+manipur::thoubal,True,False,exact normalized name; review boundary changes manually
+manipur::ukhrul,True,False,exact normalized name; review boundary changes manually
+meghalaya::east garo hills,True,False,exact normalized name; review boundary changes manually
+meghalaya::east khasi hills,True,False,exact normalized name; review boundary changes manually
+meghalaya::jaintia hills,True,False,exact normalized name; review boundary changes manually
+meghalaya::ribhoi,True,False,exact normalized name; review boundary changes manually
+meghalaya::south garo hills,True,False,exact normalized name; review boundary changes manually
+meghalaya::west garo hills,True,False,exact normalized name; review boundary changes manually
+meghalaya::west khasi hills,True,False,exact normalized name; review boundary changes manually
+mizoram::aizawl,True,False,exact normalized name; review boundary changes manually
+mizoram::champhai,True,False,exact normalized name; review boundary changes manually
+mizoram::kolasib,True,False,exact normalized name; review boundary changes manually
+mizoram::lawngtlai,True,False,exact normalized name; review boundary changes manually
+mizoram::lunglei,True,False,exact normalized name; review boundary changes manually
+mizoram::mamit,True,False,exact normalized name; review boundary changes manually
+mizoram::saiha,True,False,exact normalized name; review boundary changes manually
+mizoram::serchhip,True,False,exact normalized name; review boundary changes manually
+nagaland::dimapur,True,False,exact normalized name; review boundary changes manually
+nagaland::kiphire,True,False,exact normalized name; review boundary changes manually
+nagaland::kohima,True,False,exact normalized name; review boundary changes manually
+nagaland::longleng,True,False,exact normalized name; review boundary changes manually
+nagaland::mokokchung,True,False,exact normalized name; review boundary changes manually
+nagaland::mon,True,False,exact normalized name; review boundary changes manually
+nagaland::peren,True,False,exact normalized name; review boundary changes manually
+nagaland::phek,True,False,exact normalized name; review boundary changes manually
+nagaland::tuensang,True,False,exact normalized name; review boundary changes manually
+nagaland::wokha,True,False,exact normalized name; review boundary changes manually
+nagaland::zunheboto,True,False,exact normalized name; review boundary changes manually
+nct delhi::central,True,False,exact normalized name; review boundary changes manually
+nct delhi::east,True,False,exact normalized name; review boundary changes manually
+nct delhi::new delhi,True,False,exact normalized name; review boundary changes manually
+nct delhi::north,True,False,exact normalized name; review boundary changes manually
+nct delhi::north east,True,False,exact normalized name; review boundary changes manually
+nct delhi::north west,True,False,exact normalized name; review boundary changes manually
+nct delhi::south,True,False,exact normalized name; review boundary changes manually
+nct delhi::south west,True,False,exact normalized name; review boundary changes manually
+nct delhi::west,True,False,exact normalized name; review boundary changes manually
+odisha::anugul,True,False,exact normalized name; review boundary changes manually
+odisha::balangir,True,False,exact normalized name; review boundary changes manually
+odisha::baleshwar,True,False,exact normalized name; review boundary changes manually
+odisha::bargarh,True,False,exact normalized name; review boundary changes manually
+odisha::baudh,True,False,exact normalized name; review boundary changes manually
+odisha::bhadrak,True,False,exact normalized name; review boundary changes manually
+odisha::cuttack,True,False,exact normalized name; review boundary changes manually
+odisha::debagarh,True,False,exact normalized name; review boundary changes manually
+odisha::dhenkanal,True,False,exact normalized name; review boundary changes manually
+odisha::gajapati,True,False,exact normalized name; review boundary changes manually
+odisha::ganjam,True,False,exact normalized name; review boundary changes manually
+odisha::jagatsinghapur,True,False,exact normalized name; review boundary changes manually
+odisha::jajapur,True,False,exact normalized name; review boundary changes manually
+odisha::jharsuguda,True,False,exact normalized name; review boundary changes manually
+odisha::kalahandi,True,False,exact normalized name; review boundary changes manually
+odisha::kandhamal,True,False,exact normalized name; review boundary changes manually
+odisha::kendrapara,True,False,exact normalized name; review boundary changes manually
+odisha::kendujhar,True,False,exact normalized name; review boundary changes manually
+odisha::khordha,True,False,exact normalized name; review boundary changes manually
+odisha::koraput,True,False,exact normalized name; review boundary changes manually
+odisha::malkangiri,True,False,exact normalized name; review boundary changes manually
+odisha::mayurbhanj,True,False,exact normalized name; review boundary changes manually
+odisha::nabarangapur,True,False,exact normalized name; review boundary changes manually
+odisha::nayagarh,True,False,exact normalized name; review boundary changes manually
+odisha::nuapada,True,False,exact normalized name; review boundary changes manually
+odisha::puri,True,False,exact normalized name; review boundary changes manually
+odisha::rayagada,True,False,exact normalized name; review boundary changes manually
+odisha::sambalpur,True,False,exact normalized name; review boundary changes manually
+odisha::subarnapur,True,False,exact normalized name; review boundary changes manually
+odisha::sundargarh,True,False,exact normalized name; review boundary changes manually
+puducherry::karaikal,True,False,exact normalized name; review boundary changes manually
+puducherry::mahe,True,False,exact normalized name; review boundary changes manually
+puducherry::puducherry,True,False,exact normalized name; review boundary changes manually
+puducherry::yanam,True,False,exact normalized name; review boundary changes manually
+punjab::amritsar,True,False,exact normalized name; review boundary changes manually
+punjab::barnala,True,False,exact normalized name; review boundary changes manually
+punjab::bathinda,True,False,exact normalized name; review boundary changes manually
+punjab::faridkot,True,False,exact normalized name; review boundary changes manually
+punjab::fatehgarh sahib,True,False,exact normalized name; review boundary changes manually
+punjab::firozpur,True,False,exact normalized name; review boundary changes manually
+punjab::gurdaspur,True,False,exact normalized name; review boundary changes manually
+punjab::hoshiarpur,True,False,exact normalized name; review boundary changes manually
+punjab::jalandhar,True,False,exact normalized name; review boundary changes manually
+punjab::kapurthala,True,False,exact normalized name; review boundary changes manually
+punjab::ludhiana,True,False,exact normalized name; review boundary changes manually
+punjab::mansa,True,False,exact normalized name; review boundary changes manually
+punjab::moga,True,False,exact normalized name; review boundary changes manually
+punjab::muktsar,True,False,exact normalized name; review boundary changes manually
+punjab::patiala,True,False,exact normalized name; review boundary changes manually
+punjab::rup nagar,True,False,exact normalized name; review boundary changes manually
+punjab::sahibzada ajit singh nagar,True,False,exact normalized name; review boundary changes manually
+punjab::sahid bhagat singh nagar,True,False,exact normalized name; review boundary changes manually
+punjab::sangrur,True,False,exact normalized name; review boundary changes manually
+punjab::tarn taran,True,False,exact normalized name; review boundary changes manually
+rajasthan::ajmer,True,False,exact normalized name; review boundary changes manually
+rajasthan::alwar,True,False,exact normalized name; review boundary changes manually
+rajasthan::banswara,True,False,exact normalized name; review boundary changes manually
+rajasthan::baran,True,False,exact normalized name; review boundary changes manually
+rajasthan::barmer,True,False,exact normalized name; review boundary changes manually
+rajasthan::bharatpur,True,False,exact normalized name; review boundary changes manually
+rajasthan::bhilwara,True,False,exact normalized name; review boundary changes manually
+rajasthan::bikaner,True,False,exact normalized name; review boundary changes manually
+rajasthan::bundi,True,False,exact normalized name; review boundary changes manually
+rajasthan::chittaurgarh,True,False,exact normalized name; review boundary changes manually
+rajasthan::churu,True,False,exact normalized name; review boundary changes manually
+rajasthan::dausa,True,False,exact normalized name; review boundary changes manually
+rajasthan::dhaulpur,True,False,exact normalized name; review boundary changes manually
+rajasthan::dungarpur,True,False,exact normalized name; review boundary changes manually
+rajasthan::ganganagar,True,False,exact normalized name; review boundary changes manually
+rajasthan::hanumangarh,True,False,exact normalized name; review boundary changes manually
+rajasthan::jaipur,True,False,exact normalized name; review boundary changes manually
+rajasthan::jaisalmer,True,False,exact normalized name; review boundary changes manually
+rajasthan::jalor,True,False,exact normalized name; review boundary changes manually
+rajasthan::jhalawar,True,False,exact normalized name; review boundary changes manually
+rajasthan::jhunjhunun,True,False,exact normalized name; review boundary changes manually
+rajasthan::jodhpur,True,False,exact normalized name; review boundary changes manually
+rajasthan::karauli,True,False,exact normalized name; review boundary changes manually
+rajasthan::kota,True,False,exact normalized name; review boundary changes manually
+rajasthan::nagaur,True,False,exact normalized name; review boundary changes manually
+rajasthan::pali,True,False,exact normalized name; review boundary changes manually
+rajasthan::pratapgarh,True,False,exact normalized name; review boundary changes manually
+rajasthan::rajsamand,True,False,exact normalized name; review boundary changes manually
+rajasthan::sawai madhopur,True,False,exact normalized name; review boundary changes manually
+rajasthan::sikar,True,False,exact normalized name; review boundary changes manually
+rajasthan::sirohi,True,False,exact normalized name; review boundary changes manually
+rajasthan::tonk,True,False,exact normalized name; review boundary changes manually
+rajasthan::udaipur,True,False,exact normalized name; review boundary changes manually
+sikkim::east district,True,False,exact normalized name; review boundary changes manually
+sikkim::north district,True,False,exact normalized name; review boundary changes manually
+sikkim::south district,True,False,exact normalized name; review boundary changes manually
+sikkim::west district,True,False,exact normalized name; review boundary changes manually
+tamil nadu::ariyalur,True,False,exact normalized name; review boundary changes manually
+tamil nadu::chennai,True,False,exact normalized name; review boundary changes manually
+tamil nadu::coimbatore,True,False,exact normalized name; review boundary changes manually
+tamil nadu::cuddalore,True,False,exact normalized name; review boundary changes manually
+tamil nadu::dharmapuri,True,False,exact normalized name; review boundary changes manually
+tamil nadu::dindigul,True,False,exact normalized name; review boundary changes manually
+tamil nadu::erode,True,False,exact normalized name; review boundary changes manually
+tamil nadu::kancheepuram,True,False,exact normalized name; review boundary changes manually
+tamil nadu::kanniyakumari,True,False,exact normalized name; review boundary changes manually
+tamil nadu::karur,True,False,exact normalized name; review boundary changes manually
+tamil nadu::krishnagiri,True,False,exact normalized name; review boundary changes manually
+tamil nadu::madurai,True,False,exact normalized name; review boundary changes manually
+tamil nadu::nagapattinam,True,False,exact normalized name; review boundary changes manually
+tamil nadu::namakkal,True,False,exact normalized name; review boundary changes manually
+tamil nadu::perambalur,True,False,exact normalized name; review boundary changes manually
+tamil nadu::pudukkottai,True,False,exact normalized name; review boundary changes manually
+tamil nadu::ramanathapuram,True,False,exact normalized name; review boundary changes manually
+tamil nadu::salem,True,False,exact normalized name; review boundary changes manually
+tamil nadu::sivaganga,True,False,exact normalized name; review boundary changes manually
+tamil nadu::thanjavur,True,False,exact normalized name; review boundary changes manually
+tamil nadu::the nilgiris,True,False,exact normalized name; review boundary changes manually
+tamil nadu::theni,True,False,exact normalized name; review boundary changes manually
+tamil nadu::thiruvallur,True,False,exact normalized name; review boundary changes manually
+tamil nadu::thiruvarur,True,False,exact normalized name; review boundary changes manually
+tamil nadu::thoothukkudi,True,False,exact normalized name; review boundary changes manually
+tamil nadu::tiruchirappalli,True,False,exact normalized name; review boundary changes manually
+tamil nadu::tirunelveli,True,False,exact normalized name; review boundary changes manually
+tamil nadu::tiruppur,True,False,exact normalized name; review boundary changes manually
+tamil nadu::tiruvannamalai,True,False,exact normalized name; review boundary changes manually
+tamil nadu::vellore,True,False,exact normalized name; review boundary changes manually
+tamil nadu::viluppuram,True,False,exact normalized name; review boundary changes manually
+tamil nadu::virudhunagar,True,False,exact normalized name; review boundary changes manually
+telangana::adilabad,True,False,exact normalized name; review boundary changes manually
+telangana::hyderabad,True,False,exact normalized name; review boundary changes manually
+telangana::karimnagar,True,False,exact normalized name; review boundary changes manually
+telangana::khammam,True,False,exact normalized name; review boundary changes manually
+telangana::mahbubnagar,True,False,exact normalized name; review boundary changes manually
+telangana::medak,True,False,exact normalized name; review boundary changes manually
+telangana::nalgonda,True,False,exact normalized name; review boundary changes manually
+telangana::nizamabad,True,False,exact normalized name; review boundary changes manually
+telangana::rangareddy,True,False,exact normalized name; review boundary changes manually
+telangana::warangal,True,False,exact normalized name; review boundary changes manually
+tripura::dhalai,True,False,exact normalized name; review boundary changes manually
+tripura::north tripura,True,False,exact normalized name; review boundary changes manually
+tripura::south tripura,True,False,exact normalized name; review boundary changes manually
+tripura::west tripura,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::agra,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::aligarh,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::allahabad,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::ambedkar nagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::auraiya,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::azamgarh,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::baghpat,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::bahraich,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::ballia,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::balrampur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::banda,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::bara banki,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::bareilly,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::basti,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::bijnor,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::budaun,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::bulandshahr,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::chandauli,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::chitrakoot,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::deoria,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::etah,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::etawah,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::faizabad,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::farrukhabad,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::fatehpur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::firozabad,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::gautam buddha nagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::ghaziabad,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::ghazipur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::gonda,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::gorakhpur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::hamirpur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::hardoi,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::jalaun,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::jaunpur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::jhansi,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::jyotiba phule nagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::kannauj,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::kanpur dehat,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::kanpur nagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::kanshiram nagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::kaushambi,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::kheri,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::kushinagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::lalitpur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::lucknow,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::mahamaya nagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::maharajganj,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::mahoba,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::mainpuri,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::mathura,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::mau,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::meerut,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::mirzapur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::moradabad,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::muzaffarnagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::pilibhit,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::pratapgarh,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::rae bareli,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::rampur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::saharanpur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::sant kabir nagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::sant ravidas nagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::shahjahanpur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::shrawasti,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::siddharthnagar,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::sitapur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::sonbhadra,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::sultanpur,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::unnao,True,False,exact normalized name; review boundary changes manually
+uttar pradesh::varanasi,True,False,exact normalized name; review boundary changes manually
+uttarakhand::almora,True,False,exact normalized name; review boundary changes manually
+uttarakhand::bageshwar,True,False,exact normalized name; review boundary changes manually
+uttarakhand::chamoli,True,False,exact normalized name; review boundary changes manually
+uttarakhand::champawat,True,False,exact normalized name; review boundary changes manually
+uttarakhand::dehradun,True,False,exact normalized name; review boundary changes manually
+uttarakhand::garhwal,True,False,exact normalized name; review boundary changes manually
+uttarakhand::hardwar,True,False,exact normalized name; review boundary changes manually
+uttarakhand::nainital,True,False,exact normalized name; review boundary changes manually
+uttarakhand::pithoragarh,True,False,exact normalized name; review boundary changes manually
+uttarakhand::rudraprayag,True,False,exact normalized name; review boundary changes manually
+uttarakhand::tehri garhwal,True,False,exact normalized name; review boundary changes manually
+uttarakhand::udham singh nagar,True,False,exact normalized name; review boundary changes manually
+uttarakhand::uttarkashi,True,False,exact normalized name; review boundary changes manually
+west bengal::bankura,True,False,exact normalized name; review boundary changes manually
+west bengal::barddhaman,True,False,exact normalized name; review boundary changes manually
+west bengal::birbhum,True,False,exact normalized name; review boundary changes manually
+west bengal::dakshin dinajpur,True,False,exact normalized name; review boundary changes manually
+west bengal::darjiling,True,False,exact normalized name; review boundary changes manually
+west bengal::haora,True,False,exact normalized name; review boundary changes manually
+west bengal::hugli,True,False,exact normalized name; review boundary changes manually
+west bengal::jalpaiguri,True,False,exact normalized name; review boundary changes manually
+west bengal::koch bihar,True,False,exact normalized name; review boundary changes manually
+west bengal::kolkata,True,False,exact normalized name; review boundary changes manually
+west bengal::maldah,True,False,exact normalized name; review boundary changes manually
+west bengal::murshidabad,True,False,exact normalized name; review boundary changes manually
+west bengal::nadia,True,False,exact normalized name; review boundary changes manually
+west bengal::north twenty four parganas,True,False,exact normalized name; review boundary changes manually
+west bengal::paschim medinipur,True,False,exact normalized name; review boundary changes manually
+west bengal::purba medinipur,True,False,exact normalized name; review boundary changes manually
+west bengal::puruliya,True,False,exact normalized name; review boundary changes manually
+west bengal::south twenty four parganas,True,False,exact normalized name; review boundary changes manually
+west bengal::uttar dinajpur,True,False,exact normalized name; review boundary changes manually

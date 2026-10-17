@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.cache/
+.cache*/
+data/raw/docs/*.pdf
+*.parquet
+*.pkl
+*.pickle
+*.sqlite
+*.db
+.DS_Store
