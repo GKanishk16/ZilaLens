@@ -14,6 +14,15 @@ Acquisition date: 2026-10-18 (UTC date). Source URLs and status are recorded her
 
 The two source files share four comparable indicators used for change analysis: women’s literacy, women’s schooling (10+ years), marriage before age 18, and clean cooking fuel. Sanitation is excluded because NFHS-4 and NFHS-5 use different denominators. Bank-account-use and mobile-phone indicators are absent from both factsheet sources, so a finance-linked index cannot be estimated. The project reports a separate four-indicator outcome typology, which is not finance-specific.
 
+| Harmonized indicator | NFHS-4 source label | NFHS-5 source label |
+|---|---|---|
+| Women’s literacy | `Women who are literate (%)` | `Women (age 15-49) who are literate4 (%)` |
+| Women with 10+ years of schooling | `Women with 10 or more years of schooling (%)` | `Women (age 15-49)  with 10 or more years of schooling (%)` |
+| Women age 20–24 married before 18 | `Women age 20-24 years married before age 18 years (%)` | `Women age 20-24 years married before age 18 years (%)` |
+| Clean cooking fuel | `Households using clean fuel for cooking` | `Households using clean fuel for cooking3 (%)` |
+
+The bank-account-use and own-mobile-use indicators specified in the project request were not found in either factsheet’s indicator columns. `source_indicator` in `data/processed/tidy_panel.csv` retains the original label for each observation.
+
 Underlying survey data belong to their original publishers (IIPS/MoHFW NFHS, data.gov.in, and NITI Aayog). This repository's MIT licence applies to code, not source data.
 
 Additional files downloaded to `data/raw/docs/` on 2026-10-18:
