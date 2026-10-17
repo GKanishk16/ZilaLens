@@ -67,7 +67,7 @@ def harmonise_names(df):
     out['geography_status']=out.district_id.map(lambda k:'changed_or_new_per_Harvard_Appendix_A' if k in changed_keys else 'unchanged_name_candidate')
     # Keep unresolved geography out of direct comparisons. Parent values are not
     # imputed because Appendix A does not identify the relevant parent(s).
-    out['comparison_eligible']=out.geography_status.eq('unchanged_name_candidate')
+    out['geography_eligible']=out.geography_status.eq('unchanged_name_candidate')
     return out,changed
 
 def build():
@@ -78,8 +78,10 @@ def build():
     if not frames: raise RuntimeError('No NFHS data files found')
     panel,changed=harmonise_names(pd.concat(frames,ignore_index=True))
     r4=set(panel.loc[panel['round']=='NFHS-4','district_id']); r5=set(panel.loc[panel['round']=='NFHS-5','district_id'])
-    cross=pd.DataFrame([{'district_id':x,'nfhs4_present':x in r4,'nfhs5_present':x in r5,'geography_status':panel.loc[panel.district_id.eq(x),'geography_status'].iloc[0],'comparison_eligible':bool(panel.loc[panel.district_id.eq(x),'comparison_eligible'].all()),'mapping_decision':'normalized exact name; changed/new geographies excluded per Harvard Appendix A'} for x in sorted(r4|r5)])
-    for col in ('nfhs4_present','nfhs5_present','comparison_eligible'): cross[col]=cross[col].astype(bool)
+    paired=r4&r5
+    panel['comparison_eligible']=panel.district_id.isin(paired)&panel.geography_eligible
+    cross=pd.DataFrame([{'district_id':x,'nfhs4_present':x in r4,'nfhs5_present':x in r5,'geography_status':panel.loc[panel.district_id.eq(x),'geography_status'].iloc[0],'geography_eligible':bool(panel.loc[panel.district_id.eq(x),'geography_eligible'].all()),'comparison_eligible':x in paired and bool(panel.loc[panel.district_id.eq(x),'geography_eligible'].all()),'mapping_decision':'normalized exact name; changed/new geographies excluded per Harvard Appendix A'} for x in sorted(r4|r5)])
+    for col in ('nfhs4_present','nfhs5_present','geography_eligible','comparison_eligible'): cross[col]=cross[col].astype(bool)
     outdir=ROOT/'data'/'processed'; outdir.mkdir(parents=True,exist_ok=True)
     changed.to_csv(outdir/'harvard_changed_geographies.csv',index=False)
     asp_path=outdir/'aspirational_districts_112.csv'; panel['aspirational_flag']=pd.array([pd.NA]*len(panel),dtype='boolean')
