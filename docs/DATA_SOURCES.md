@@ -25,3 +25,5 @@ Additional files downloaded to `data/raw/docs/` on 2026-10-18:
 | NITI Aayog / UNDP, Aspirational Districts Programme: An Appraisal | https://www.niti.gov.in/sites/default/files/2023-03/Aspirational-Districts-Programme-An-Appraisal.pdf | `data/raw/docs/adp_appraisal.pdf` | Downloaded (4.0 MB); text extracted with physical page markers. |
 
 PMJDY material is a 2014 mission brochure. The coded excerpts are paraphrases, cited by physical PDF page, and should be read as policy design statements rather than independent evidence of district-level results.
+
+| District boundaries, HindustanTimesLabs | https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/india/district/india_district.json | `data/raw/india_districts.geojson` | Downloaded 2026-10-18 (752 KB), 645 district features; README describes source accuracy as not guaranteed. Used for illustrative NFHS-4 preview maps only; boundary vintage is not assured to match either survey round. |

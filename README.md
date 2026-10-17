@@ -38,6 +38,14 @@ python run_all.py
 
 Raw files over 50 MB must not be committed. Keep them reproducible through source links/download scripts. Never commit API keys or tokens. Data belongs to IIPS/MoHFW NFHS, data.gov.in, and NITI Aayog; the MIT licence covers code only.
 
+## Preview maps
+
+NFHS-4 baseline maps are included as interim previews; NFHS-5 levels and round-to-round change maps are pending the official workbook.
+
+![NFHS-4 women literacy by district](outputs/maps/women_literate_nfhs4.png)
+
+![NFHS-4 improved sanitation by district](outputs/maps/improved_sanitation_nfhs4.png)
+
 ## Deliverables
 
 - [Research report](outputs/reports/ZilaLens_Research_Report.docx) — pending two-round dataset
