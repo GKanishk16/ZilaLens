@@ -1,742 +1,734 @@
-district_id,state,district,aspirational_flag
-jammukashmir::kupwara,Jammu & Kashmir,Kupwara,True
-jammukashmir::badgam,Jammu & Kashmir,Badgam,
-jammukashmir::lehladakh,Jammu & Kashmir,Leh(Ladakh),
-jammukashmir::kargil,Jammu & Kashmir,Kargil,
-jammukashmir::punch,Jammu & Kashmir,Punch,
-jammukashmir::rajouri,Jammu & Kashmir,Rajouri,
-jammukashmir::kathua,Jammu & Kashmir,Kathua,
-jammukashmir::baramula,Jammu & Kashmir,Baramula,
-jammukashmir::bandipore,Jammu & Kashmir,Bandipore,
-jammukashmir::srinagar,Jammu & Kashmir,Srinagar,
-jammukashmir::ganderbal,Jammu & Kashmir,Ganderbal,
-jammukashmir::pulwama,Jammu & Kashmir,Pulwama,
-jammukashmir::shupiyan,Jammu & Kashmir,Shupiyan,
-jammukashmir::anantnag,Jammu & Kashmir,Anantnag,
-jammukashmir::kulgam,Jammu & Kashmir,Kulgam,
-jammukashmir::doda,Jammu & Kashmir,Doda,
-jammukashmir::ramban,Jammu & Kashmir,Ramban,
-jammukashmir::kishtwar,Jammu & Kashmir,Kishtwar,
-jammukashmir::udhampur,Jammu & Kashmir,Udhampur,
-jammukashmir::reasi,Jammu & Kashmir,Reasi,
-jammukashmir::jammu,Jammu & Kashmir,Jammu,
-jammukashmir::samba,Jammu & Kashmir,Samba,
-himachalpradesh::chamba,Himachal Pradesh,Chamba,True
-himachalpradesh::kangra,Himachal Pradesh,Kangra,False
-himachalpradesh::lahulandspiti,Himachal Pradesh,Lahul and Spiti,False
-himachalpradesh::kullu,Himachal Pradesh,Kullu,False
-himachalpradesh::mandi,Himachal Pradesh,Mandi,False
-himachalpradesh::hamirpur,Himachal Pradesh,Hamirpur,False
-himachalpradesh::una,Himachal Pradesh,Una,False
-himachalpradesh::bilaspur,Himachal Pradesh,Bilaspur,False
-himachalpradesh::solan,Himachal Pradesh,Solan,False
-himachalpradesh::sirmaur,Himachal Pradesh,Sirmaur,False
-himachalpradesh::shimla,Himachal Pradesh,Shimla,False
-himachalpradesh::kinnaur,Himachal Pradesh,Kinnaur,False
-punjab::gurdaspur,Punjab,Gurdaspur,False
-punjab::kapurthala,Punjab,Kapurthala,False
-punjab::jalandhar,Punjab,Jalandhar,False
-punjab::hoshiarpur,Punjab,Hoshiarpur,False
-punjab::sahidbhagatsinghnagar,Punjab,Sahid Bhagat Singh Nagar,False
-punjab::fatehgarhsahib,Punjab,Fatehgarh Sahib,False
-punjab::ludhiana,Punjab,Ludhiana,False
-punjab::moga,Punjab,Moga,True
-punjab::firozpur,Punjab,Firozpur,True
-punjab::muktsar,Punjab,Muktsar,False
-punjab::faridkot,Punjab,Faridkot,False
-punjab::bathinda,Punjab,Bathinda,False
-punjab::mansa,Punjab,Mansa,False
-punjab::patiala,Punjab,Patiala,False
-punjab::amritsar,Punjab,Amritsar,False
-punjab::tarntaran,Punjab,Tarn Taran,False
-punjab::rupnagar,Punjab,Rup Nagar,False
-punjab::sahibzadaajitsinghnagar,Punjab,Sahibzada Ajit Singh Nagar,False
-punjab::sangrur,Punjab,Sangrur,False
-punjab::barnala,Punjab,Barnala,False
-uttarakhand::uttarkashi,Uttarakhand,Uttarkashi,
-uttarakhand::chamoli,Uttarakhand,Chamoli,
-uttarakhand::rudraprayag,Uttarakhand,Rudraprayag,
-uttarakhand::tehrigarhwal,Uttarakhand,Tehri Garhwal,
-uttarakhand::dehradun,Uttarakhand,Dehradun,
-uttarakhand::garhwal,Uttarakhand,Garhwal,
-uttarakhand::pithoragarh,Uttarakhand,Pithoragarh,
-uttarakhand::bageshwar,Uttarakhand,Bageshwar,
-uttarakhand::almora,Uttarakhand,Almora,
-uttarakhand::champawat,Uttarakhand,Champawat,
-uttarakhand::nainital,Uttarakhand,Nainital,
-uttarakhand::udhamsinghnagar,Uttarakhand,Udham Singh Nagar,True
-uttarakhand::hardwar,Uttarakhand,Hardwar,
-haryana::panchkula,Haryana,Panchkula,False
-haryana::ambala,Haryana,Ambala,False
-haryana::yamunanagar,Haryana,Yamunanagar,False
-haryana::kurukshetra,Haryana,Kurukshetra,False
-haryana::kaithal,Haryana,Kaithal,False
-haryana::karnal,Haryana,Karnal,False
-haryana::panipat,Haryana,Panipat,False
-haryana::sonipat,Haryana,Sonipat,False
-haryana::jind,Haryana,Jind,False
-haryana::fatehabad,Haryana,Fatehabad,False
-haryana::sirsa,Haryana,Sirsa,False
-haryana::hisar,Haryana,Hisar,False
-haryana::bhiwani,Haryana,Bhiwani,False
-haryana::rohtak,Haryana,Rohtak,False
-haryana::jhajjar,Haryana,Jhajjar,False
-haryana::mahendragarh,Haryana,Mahendragarh,False
-haryana::rewari,Haryana,Rewari,False
-haryana::gurgaon,Haryana,Gurgaon,False
-haryana::mewat,Haryana,Mewat,True
-haryana::faridabad,Haryana,Faridabad,False
-haryana::palwal,Haryana,Palwal,False
-nctdelhi::northwest,NCT Delhi,North West,False
-nctdelhi::north,NCT Delhi,North,False
-nctdelhi::northeast,NCT Delhi,North East,False
-nctdelhi::east,NCT Delhi,East,False
-nctdelhi::newdelhi,NCT Delhi,New Delhi,False
-nctdelhi::central,NCT Delhi,Central,False
-nctdelhi::west,NCT Delhi,West,False
-nctdelhi::southwest,NCT Delhi,South West,False
-nctdelhi::south,NCT Delhi,South,False
-rajasthan::ganganagar,Rajasthan,Ganganagar,
-rajasthan::hanumangarh,Rajasthan,Hanumangarh,
-rajasthan::bikaner,Rajasthan,Bikaner,
-rajasthan::churu,Rajasthan,Churu,
-rajasthan::jhunjhunun,Rajasthan,Jhunjhunun,
-rajasthan::alwar,Rajasthan,Alwar,
-rajasthan::bharatpur,Rajasthan,Bharatpur,
-rajasthan::dhaulpur,Rajasthan,Dhaulpur,
-rajasthan::karauli,Rajasthan,Karauli,True
-rajasthan::sawaimadhopur,Rajasthan,Sawai Madhopur,
-rajasthan::dausa,Rajasthan,Dausa,
-rajasthan::jaipur,Rajasthan,Jaipur,
-rajasthan::sikar,Rajasthan,Sikar,
-rajasthan::nagaur,Rajasthan,Nagaur,
-rajasthan::jodhpur,Rajasthan,Jodhpur,
-rajasthan::jaisalmer,Rajasthan,Jaisalmer,True
-rajasthan::barmer,Rajasthan,Barmer,
-rajasthan::jalor,Rajasthan,Jalor,
-rajasthan::sirohi,Rajasthan,Sirohi,True
-rajasthan::pali,Rajasthan,Pali,
-rajasthan::ajmer,Rajasthan,Ajmer,
-rajasthan::tonk,Rajasthan,Tonk,
-rajasthan::bundi,Rajasthan,Bundi,
-rajasthan::bhilwara,Rajasthan,Bhilwara,
-rajasthan::rajsamand,Rajasthan,Rajsamand,
-rajasthan::dungarpur,Rajasthan,Dungarpur,
-rajasthan::banswara,Rajasthan,Banswara,
-rajasthan::chittaurgarh,Rajasthan,Chittaurgarh,
-rajasthan::kota,Rajasthan,Kota,
-rajasthan::baran,Rajasthan,Baran,True
-rajasthan::jhalawar,Rajasthan,Jhalawar,
-rajasthan::udaipur,Rajasthan,Udaipur,
-rajasthan::pratapgarh,Rajasthan,Pratapgarh,
-uttarpradesh::saharanpur,Uttar Pradesh,Saharanpur,False
-uttarpradesh::muzaffarnagar,Uttar Pradesh,Muzaffarnagar,False
-uttarpradesh::bijnor,Uttar Pradesh,Bijnor,False
-uttarpradesh::moradabad,Uttar Pradesh,Moradabad,False
-uttarpradesh::rampur,Uttar Pradesh,Rampur,False
-uttarpradesh::jyotibaphulenagar,Uttar Pradesh,Jyotiba Phule Nagar,False
-uttarpradesh::meerut,Uttar Pradesh,Meerut,False
-uttarpradesh::baghpat,Uttar Pradesh,Baghpat,False
-uttarpradesh::ghaziabad,Uttar Pradesh,Ghaziabad,False
-uttarpradesh::gautambuddhanagar,Uttar Pradesh,Gautam Buddha Nagar,False
-uttarpradesh::bulandshahr,Uttar Pradesh,Bulandshahr,False
-uttarpradesh::aligarh,Uttar Pradesh,Aligarh,False
-uttarpradesh::mahamayanagar,Uttar Pradesh,Mahamaya Nagar,False
-uttarpradesh::mathura,Uttar Pradesh,Mathura,False
-uttarpradesh::agra,Uttar Pradesh,Agra,False
-uttarpradesh::firozabad,Uttar Pradesh,Firozabad,False
-uttarpradesh::mainpuri,Uttar Pradesh,Mainpuri,False
-uttarpradesh::budaun,Uttar Pradesh,Budaun,False
-uttarpradesh::bareilly,Uttar Pradesh,Bareilly,False
-uttarpradesh::pilibhit,Uttar Pradesh,Pilibhit,False
-uttarpradesh::shahjahanpur,Uttar Pradesh,Shahjahanpur,False
-uttarpradesh::kheri,Uttar Pradesh,Kheri,False
-uttarpradesh::sitapur,Uttar Pradesh,Sitapur,False
-uttarpradesh::hardoi,Uttar Pradesh,Hardoi,False
-uttarpradesh::unnao,Uttar Pradesh,Unnao,False
-uttarpradesh::lucknow,Uttar Pradesh,Lucknow,False
-uttarpradesh::raebareli,Uttar Pradesh,Rae Bareli,False
-uttarpradesh::farrukhabad,Uttar Pradesh,Farrukhabad,False
-uttarpradesh::kannauj,Uttar Pradesh,Kannauj,False
-uttarpradesh::etawah,Uttar Pradesh,Etawah,False
-uttarpradesh::auraiya,Uttar Pradesh,Auraiya,False
-uttarpradesh::kanpurdehat,Uttar Pradesh,Kanpur Dehat,False
-uttarpradesh::kanpurnagar,Uttar Pradesh,Kanpur Nagar,False
-uttarpradesh::jalaun,Uttar Pradesh,Jalaun,False
-uttarpradesh::jhansi,Uttar Pradesh,Jhansi,False
-uttarpradesh::lalitpur,Uttar Pradesh,Lalitpur,False
-uttarpradesh::hamirpur,Uttar Pradesh,Hamirpur,False
-uttarpradesh::mahoba,Uttar Pradesh,Mahoba,False
-uttarpradesh::banda,Uttar Pradesh,Banda,False
-uttarpradesh::chitrakoot,Uttar Pradesh,Chitrakoot,True
-uttarpradesh::fatehpur,Uttar Pradesh,Fatehpur,True
-uttarpradesh::pratapgarh,Uttar Pradesh,Pratapgarh,False
-uttarpradesh::kaushambi,Uttar Pradesh,Kaushambi,False
-uttarpradesh::allahabad,Uttar Pradesh,Allahabad,False
-uttarpradesh::barabanki,Uttar Pradesh,Bara Banki,False
-uttarpradesh::faizabad,Uttar Pradesh,Faizabad,False
-uttarpradesh::ambedkarnagar,Uttar Pradesh,Ambedkar Nagar,False
-uttarpradesh::sultanpur,Uttar Pradesh,Sultanpur,False
-uttarpradesh::bahraich,Uttar Pradesh,Bahraich,True
-uttarpradesh::shrawasti,Uttar Pradesh,Shrawasti,True
-uttarpradesh::balrampur,Uttar Pradesh,Balrampur,True
-uttarpradesh::gonda,Uttar Pradesh,Gonda,False
-uttarpradesh::siddharthnagar,Uttar Pradesh,Siddharthnagar,True
-uttarpradesh::basti,Uttar Pradesh,Basti,False
-uttarpradesh::santkabirnagar,Uttar Pradesh,Sant Kabir Nagar,False
-uttarpradesh::maharajganj,Uttar Pradesh,Maharajganj,False
-uttarpradesh::gorakhpur,Uttar Pradesh,Gorakhpur,False
-uttarpradesh::kushinagar,Uttar Pradesh,Kushinagar,False
-uttarpradesh::deoria,Uttar Pradesh,Deoria,False
-uttarpradesh::azamgarh,Uttar Pradesh,Azamgarh,False
-uttarpradesh::mau,Uttar Pradesh,Mau,False
-uttarpradesh::ballia,Uttar Pradesh,Ballia,False
-uttarpradesh::jaunpur,Uttar Pradesh,Jaunpur,False
-uttarpradesh::ghazipur,Uttar Pradesh,Ghazipur,False
-uttarpradesh::chandauli,Uttar Pradesh,Chandauli,True
-uttarpradesh::varanasi,Uttar Pradesh,Varanasi,False
-uttarpradesh::santravidasnagar,Uttar Pradesh,Sant Ravidas Nagar,False
-uttarpradesh::mirzapur,Uttar Pradesh,Mirzapur,False
-uttarpradesh::sonbhadra,Uttar Pradesh,Sonbhadra,True
-uttarpradesh::etah,Uttar Pradesh,Etah,False
-uttarpradesh::kanshiramnagar,Uttar Pradesh,Kanshiram Nagar,False
-bihar::pashchimchamparan,Bihar,Pashchim Champaran,False
-bihar::purbachamparan,Bihar,Purba Champaran,False
-bihar::sheohar,Bihar,Sheohar,False
-bihar::sitamarhi,Bihar,Sitamarhi,True
-bihar::madhubani,Bihar,Madhubani,False
-bihar::supaul,Bihar,Supaul,False
-bihar::araria,Bihar,Araria,True
-bihar::kishanganj,Bihar,Kishanganj,False
-bihar::purnia,Bihar,Purnia,True
-bihar::katihar,Bihar,Katihar,True
-bihar::madhepura,Bihar,Madhepura,False
-bihar::saharsa,Bihar,Saharsa,False
-bihar::darbhanga,Bihar,Darbhanga,False
-bihar::muzaffarpur,Bihar,Muzaffarpur,True
-bihar::gopalganj,Bihar,Gopalganj,False
-bihar::siwan,Bihar,Siwan,False
-bihar::saran,Bihar,Saran,False
-bihar::vaishali,Bihar,Vaishali,False
-bihar::samastipur,Bihar,Samastipur,False
-bihar::begusarai,Bihar,Begusarai,True
-bihar::khagaria,Bihar,Khagaria,True
-bihar::bhagalpur,Bihar,Bhagalpur,False
-bihar::banka,Bihar,Banka,True
-bihar::munger,Bihar,Munger,False
-bihar::lakhisarai,Bihar,Lakhisarai,False
-bihar::sheikhpura,Bihar,Sheikhpura,True
-bihar::nalanda,Bihar,Nalanda,False
-bihar::patna,Bihar,Patna,False
-bihar::bhojpur,Bihar,Bhojpur,False
-bihar::buxar,Bihar,Buxar,False
-bihar::kaimur,Bihar,Kaimur,False
-bihar::rohtas,Bihar,Rohtas,False
-bihar::aurangabad,Bihar,Aurangabad,True
-bihar::gaya,Bihar,Gaya,True
-bihar::nawada,Bihar,Nawada,True
-bihar::jamui,Bihar,Jamui,True
-bihar::jehanabad,Bihar,Jehanabad,False
-bihar::arwal,Bihar,Arwal,False
-sikkim::northdistrict,Sikkim,North District,
-sikkim::westdistrict,Sikkim,West District,
-sikkim::southdistrict,Sikkim,South District,
-sikkim::eastdistrict,Sikkim,East District,
-arunachalpradesh::tawang,Arunachal Pradesh,Tawang,
-arunachalpradesh::westkameng,Arunachal Pradesh,West Kameng,
-arunachalpradesh::eastkameng,Arunachal Pradesh,East Kameng,
-arunachalpradesh::papumpare,Arunachal Pradesh,Papumpare,
-arunachalpradesh::uppersubansiri,Arunachal Pradesh,Upper Subansiri,
-arunachalpradesh::westsiang,Arunachal Pradesh,West Siang,
-arunachalpradesh::eastsiang,Arunachal Pradesh,East Siang,
-arunachalpradesh::uppersiang,Arunachal Pradesh,Upper Siang,
-arunachalpradesh::changlang,Arunachal Pradesh,Changlang,
-arunachalpradesh::tirap,Arunachal Pradesh,Tirap,
-arunachalpradesh::lowersubansiri,Arunachal Pradesh,Lower Subansiri,
-arunachalpradesh::kurungkumey,Arunachal Pradesh,Kurung Kumey,
-arunachalpradesh::dibangvalley,Arunachal Pradesh,Dibang Valley,
-arunachalpradesh::lowerdibangvalley,Arunachal Pradesh,Lower Dibang Valley,
-arunachalpradesh::lohit,Arunachal Pradesh,Lohit,
-arunachalpradesh::anjaw,Arunachal Pradesh,Anjaw,
-nagaland::mon,Nagaland,Mon,False
-nagaland::mokokchung,Nagaland,Mokokchung,False
-nagaland::zunheboto,Nagaland,Zunheboto,False
-nagaland::wokha,Nagaland,Wokha,False
-nagaland::dimapur,Nagaland,Dimapur,False
-nagaland::phek,Nagaland,Phek,False
-nagaland::tuensang,Nagaland,Tuensang,False
-nagaland::longleng,Nagaland,Longleng,False
-nagaland::kiphire,Nagaland,Kiphire,True
-nagaland::kohima,Nagaland,Kohima,False
-nagaland::peren,Nagaland,Peren,False
-manipur::senapati,Manipur,Senapati,False
-manipur::tamenglong,Manipur,Tamenglong,False
-manipur::churachandpur,Manipur,Churachandpur,False
-manipur::bishnupur,Manipur,Bishnupur,False
-manipur::thoubal,Manipur,Thoubal,False
-manipur::imphalwest,Manipur,Imphal West,False
-manipur::imphaleast,Manipur,Imphal East,False
-manipur::ukhrul,Manipur,Ukhrul,False
-manipur::chandel,Manipur,Chandel,True
-mizoram::mamit,Mizoram,Mamit,True
-mizoram::kolasib,Mizoram,Kolasib,False
-mizoram::aizawl,Mizoram,Aizawl,False
-mizoram::champhai,Mizoram,Champhai,False
-mizoram::serchhip,Mizoram,Serchhip,False
-mizoram::lunglei,Mizoram,Lunglei,False
-mizoram::lawngtlai,Mizoram,Lawngtlai,False
-mizoram::saiha,Mizoram,Saiha,False
-tripura::westtripura,Tripura,West Tripura,False
-tripura::southtripura,Tripura,South Tripura,False
-tripura::dhalai,Tripura,Dhalai,True
-tripura::northtripura,Tripura,North Tripura,False
-meghalaya::westgarohills,Meghalaya,West Garo Hills,False
-meghalaya::eastgarohills,Meghalaya,East Garo Hills,False
-meghalaya::southgarohills,Meghalaya,South Garo Hills,False
-meghalaya::westkhasihills,Meghalaya,West Khasi Hills,False
-meghalaya::ribhoi,Meghalaya,Ribhoi,True
-meghalaya::eastkhasihills,Meghalaya,East Khasi Hills,False
-meghalaya::jaintiahills,Meghalaya,Jaintia Hills,False
-assam::kokrajhar,Assam,Kokrajhar,False
-assam::dhubri,Assam,Dhubri,True
-assam::goalpara,Assam,Goalpara,True
-assam::barpeta,Assam,Barpeta,True
-assam::morigaon,Assam,Morigaon,False
-assam::nagaon,Assam,Nagaon,False
-assam::sonitpur,Assam,Sonitpur,False
-assam::lakhimpur,Assam,Lakhimpur,False
-assam::dhemaji,Assam,Dhemaji,False
-assam::tinsukia,Assam,Tinsukia,False
-assam::dibrugarh,Assam,Dibrugarh,False
-assam::sivasagar,Assam,Sivasagar,False
-assam::jorhat,Assam,Jorhat,False
-assam::golaghat,Assam,Golaghat,False
-assam::karbianglong,Assam,Karbi Anglong,False
-assam::dimahasao,Assam,Dima Hasao,False
-assam::cachar,Assam,Cachar,False
-assam::karimganj,Assam,Karimganj,False
-assam::hailakandi,Assam,Hailakandi,True
-assam::bongaigaon,Assam,Bongaigaon,False
-assam::chirang,Assam,Chirang,False
-assam::kamrup,Assam,Kamrup,False
-assam::kamrupmetropolitan,Assam,Kamrup Metropolitan,False
-assam::nalbari,Assam,Nalbari,False
-assam::baksa,Assam,Baksa,True
-assam::darrang,Assam,Darrang,True
-assam::udalguri,Assam,Udalguri,True
-westbengal::darjiling,West Bengal,Darjiling,False
-westbengal::jalpaiguri,West Bengal,Jalpaiguri,False
-westbengal::kochbihar,West Bengal,Koch Bihar,False
-westbengal::uttardinajpur,West Bengal,Uttar Dinajpur,False
-westbengal::dakshindinajpur,West Bengal,Dakshin Dinajpur,False
-westbengal::maldah,West Bengal,Maldah,False
-westbengal::murshidabad,West Bengal,Murshidabad,False
-westbengal::birbhum,West Bengal,Birbhum,False
-westbengal::barddhaman,West Bengal,Barddhaman,False
-westbengal::nadia,West Bengal,Nadia,False
-westbengal::northtwentyfourparganas,West Bengal,North Twenty Four Parganas,False
-westbengal::hugli,West Bengal,Hugli,False
-westbengal::bankura,West Bengal,Bankura,False
-westbengal::puruliya,West Bengal,Puruliya,False
-westbengal::haora,West Bengal,Haora,False
-westbengal::kolkata,West Bengal,Kolkata,False
-westbengal::southtwentyfourparganas,West Bengal,South Twenty Four Parganas,False
-westbengal::paschimmedinipur,West Bengal,Paschim Medinipur,False
-westbengal::purbamedinipur,West Bengal,Purba Medinipur,False
-jharkhand::garhwa,Jharkhand,Garhwa,True
-jharkhand::chatra,Jharkhand,Chatra,True
-jharkhand::kodarma,Jharkhand,Kodarma,False
-jharkhand::giridih,Jharkhand,Giridih,True
-jharkhand::deoghar,Jharkhand,Deoghar,False
-jharkhand::godda,Jharkhand,Godda,True
-jharkhand::sahibganj,Jharkhand,Sahibganj,True
-jharkhand::pakur,Jharkhand,Pakur,True
-jharkhand::dhanbad,Jharkhand,Dhanbad,False
-jharkhand::bokaro,Jharkhand,Bokaro,True
-jharkhand::lohardaga,Jharkhand,Lohardaga,True
-jharkhand::purbisinghbhum,Jharkhand,Purbi Singhbhum,True
-jharkhand::palamu,Jharkhand,Palamu,True
-jharkhand::latehar,Jharkhand,Latehar,True
-jharkhand::hazaribagh,Jharkhand,Hazaribagh,True
-jharkhand::ramgarh,Jharkhand,Ramgarh,True
-jharkhand::dumka,Jharkhand,Dumka,True
-jharkhand::jamtara,Jharkhand,Jamtara,False
-jharkhand::ranchi,Jharkhand,Ranchi,True
-jharkhand::khunti,Jharkhand,Khunti,True
-jharkhand::gumla,Jharkhand,Gumla,True
-jharkhand::simdega,Jharkhand,Simdega,True
-jharkhand::pashchimisinghbhum,Jharkhand,Pashchimi Singhbhum,True
-jharkhand::saraikelakharsawan,Jharkhand,Saraikela Kharsawan,False
-odisha::bargarh,Odisha,Bargarh,
-odisha::jharsuguda,Odisha,Jharsuguda,
-odisha::sambalpur,Odisha,Sambalpur,
-odisha::debagarh,Odisha,Debagarh,
-odisha::sundargarh,Odisha,Sundargarh,
-odisha::kendujhar,Odisha,Kendujhar,
-odisha::mayurbhanj,Odisha,Mayurbhanj,
-odisha::baleshwar,Odisha,Baleshwar,
-odisha::bhadrak,Odisha,Bhadrak,
-odisha::kendrapara,Odisha,Kendrapara,
-odisha::jagatsinghapur,Odisha,Jagatsinghapur,
-odisha::cuttack,Odisha,Cuttack,
-odisha::jajapur,Odisha,Jajapur,
-odisha::dhenkanal,Odisha,Dhenkanal,True
-odisha::anugul,Odisha,Anugul,
-odisha::nayagarh,Odisha,Nayagarh,
-odisha::khordha,Odisha,Khordha,
-odisha::puri,Odisha,Puri,
-odisha::ganjam,Odisha,Ganjam,
-odisha::gajapati,Odisha,Gajapati,True
-odisha::kandhamal,Odisha,Kandhamal,True
-odisha::baudh,Odisha,Baudh,
-odisha::subarnapur,Odisha,Subarnapur,
-odisha::balangir,Odisha,Balangir,True
-odisha::nuapada,Odisha,Nuapada,True
-odisha::kalahandi,Odisha,Kalahandi,True
-odisha::rayagada,Odisha,Rayagada,True
-odisha::nabarangapur,Odisha,Nabarangapur,
-odisha::koraput,Odisha,Koraput,True
-odisha::malkangiri,Odisha,Malkangiri,True
-chhattisgarh::korea,Chhattisgarh,Korea,
-chhattisgarh::surguja,Chhattisgarh,Surguja,
-chhattisgarh::jashpur,Chhattisgarh,Jashpur,
-chhattisgarh::raigarh,Chhattisgarh,Raigarh,
-chhattisgarh::korba,Chhattisgarh,Korba,True
-chhattisgarh::janjgirchampa,Chhattisgarh,Janjgir Champa,
-chhattisgarh::bilaspur,Chhattisgarh,Bilaspur,
-chhattisgarh::kabirdham,Chhattisgarh,Kabirdham,
-chhattisgarh::rajnandgaon,Chhattisgarh,Rajnandgaon,True
-chhattisgarh::durg,Chhattisgarh,Durg,
-chhattisgarh::raipur,Chhattisgarh,Raipur,
-chhattisgarh::mahasamund,Chhattisgarh,Mahasamund,True
-chhattisgarh::dhamtari,Chhattisgarh,Dhamtari,
-chhattisgarh::uttarbastarkanker,Chhattisgarh,Uttar Bastar Kanker,
-chhattisgarh::bastar,Chhattisgarh,Bastar,True
-chhattisgarh::narayanpur,Chhattisgarh,Narayanpur,True
-chhattisgarh::dakshinbastardantewada,Chhattisgarh,Dakshin Bastar Dantewada,
-chhattisgarh::bijapur,Chhattisgarh,Bijapur,True
-madhyapradesh::sheopur,Madhya Pradesh,Sheopur,
-madhyapradesh::morena,Madhya Pradesh,Morena,
-madhyapradesh::bhind,Madhya Pradesh,Bhind,
-madhyapradesh::gwalior,Madhya Pradesh,Gwalior,
-madhyapradesh::datia,Madhya Pradesh,Datia,
-madhyapradesh::shivpuri,Madhya Pradesh,Shivpuri,
-madhyapradesh::tikamgarh,Madhya Pradesh,Tikamgarh,
-madhyapradesh::chhatarpur,Madhya Pradesh,Chhatarpur,True
-madhyapradesh::panna,Madhya Pradesh,Panna,
-madhyapradesh::sagar,Madhya Pradesh,Sagar,
-madhyapradesh::damoh,Madhya Pradesh,Damoh,True
-madhyapradesh::satna,Madhya Pradesh,Satna,
-madhyapradesh::rewa,Madhya Pradesh,Rewa,
-madhyapradesh::umaria,Madhya Pradesh,Umaria,
-madhyapradesh::neemuch,Madhya Pradesh,Neemuch,
-madhyapradesh::mandsaur,Madhya Pradesh,Mandsaur,
-madhyapradesh::ratlam,Madhya Pradesh,Ratlam,
-madhyapradesh::ujjain,Madhya Pradesh,Ujjain,
-madhyapradesh::shajapur,Madhya Pradesh,Shajapur,
-madhyapradesh::dewas,Madhya Pradesh,Dewas,
-madhyapradesh::dhar,Madhya Pradesh,Dhar,
-madhyapradesh::indore,Madhya Pradesh,Indore,
-madhyapradesh::khargonewestnimar,Madhya Pradesh,Khargone (West Nimar),
-madhyapradesh::barwani,Madhya Pradesh,Barwani,True
-madhyapradesh::rajgarh,Madhya Pradesh,Rajgarh,True
-madhyapradesh::vidisha,Madhya Pradesh,Vidisha,True
-madhyapradesh::bhopal,Madhya Pradesh,Bhopal,
-madhyapradesh::sehore,Madhya Pradesh,Sehore,
-madhyapradesh::raisen,Madhya Pradesh,Raisen,
-madhyapradesh::betul,Madhya Pradesh,Betul,
-madhyapradesh::harda,Madhya Pradesh,Harda,
-madhyapradesh::hoshangabad,Madhya Pradesh,Hoshangabad,
-madhyapradesh::katni,Madhya Pradesh,Katni,
-madhyapradesh::jabalpur,Madhya Pradesh,Jabalpur,
-madhyapradesh::narsimhapur,Madhya Pradesh,Narsimhapur,
-madhyapradesh::dindori,Madhya Pradesh,Dindori,
-madhyapradesh::mandla,Madhya Pradesh,Mandla,
-madhyapradesh::chhindwara,Madhya Pradesh,Chhindwara,
-madhyapradesh::seoni,Madhya Pradesh,Seoni,
-madhyapradesh::balaghat,Madhya Pradesh,Balaghat,
-madhyapradesh::guna,Madhya Pradesh,Guna,True
-madhyapradesh::ashoknagar,Madhya Pradesh,Ashoknagar,
-madhyapradesh::shahdol,Madhya Pradesh,Shahdol,
-madhyapradesh::anuppur,Madhya Pradesh,Anuppur,
-madhyapradesh::sidhi,Madhya Pradesh,Sidhi,
-madhyapradesh::singrauli,Madhya Pradesh,Singrauli,True
-madhyapradesh::jhabua,Madhya Pradesh,Jhabua,
-madhyapradesh::alirajpur,Madhya Pradesh,Alirajpur,
-madhyapradesh::khandwaeastnimar,Madhya Pradesh,Khandwa (East Nimar),
-madhyapradesh::burhanpur,Madhya Pradesh,Burhanpur,
-gujarat::kachchh,Gujarat,Kachchh,
-gujarat::banaskantha,Gujarat,Banaskantha,
-gujarat::patan,Gujarat,Patan,
-gujarat::mahesena,Gujarat,Mahesena,
-gujarat::sabarkantha,Gujarat,Sabarkantha,
-gujarat::gandhinagar,Gujarat,Gandhinagar,
-gujarat::ahmadabad,Gujarat,Ahmadabad,
-gujarat::surendranagar,Gujarat,Surendranagar,
-gujarat::rajkot,Gujarat,Rajkot,
-gujarat::jamnagar,Gujarat,Jamnagar,
-gujarat::porbandar,Gujarat,Porbandar,
-gujarat::junagadh,Gujarat,Junagadh,
-gujarat::amreli,Gujarat,Amreli,
-gujarat::bhavnagar,Gujarat,Bhavnagar,
-gujarat::anand,Gujarat,Anand,
-gujarat::kheda,Gujarat,Kheda,
-gujarat::panchmahal,Gujarat,Panchmahal,
-gujarat::dohad,Gujarat,Dohad,
-gujarat::vadodara,Gujarat,Vadodara,
-gujarat::narmada,Gujarat,Narmada,True
-gujarat::bharuch,Gujarat,Bharuch,
-gujarat::thedangs,Gujarat,The Dangs,
-gujarat::navsari,Gujarat,Navsari,
-gujarat::valsad,Gujarat,Valsad,
-gujarat::surat,Gujarat,Surat,
-gujarat::tapi,Gujarat,Tapi,
-damandiu::diu,Daman & Diu,Diu,False
-damandiu::daman,Daman & Diu,Daman,False
-maharashtra::nandurbar,Maharashtra,Nandurbar,True
-maharashtra::dhule,Maharashtra,Dhule,False
-maharashtra::jalgaon,Maharashtra,Jalgaon,False
-maharashtra::buldhana,Maharashtra,Buldhana,False
-maharashtra::akola,Maharashtra,Akola,False
-maharashtra::washim,Maharashtra,Washim,True
-maharashtra::amravati,Maharashtra,Amravati,False
-maharashtra::wardha,Maharashtra,Wardha,False
-maharashtra::nagpur,Maharashtra,Nagpur,False
-maharashtra::bhandara,Maharashtra,Bhandara,False
-maharashtra::gondiya,Maharashtra,Gondiya,False
-maharashtra::gadchiroli,Maharashtra,Gadchiroli,True
-maharashtra::chandrapur,Maharashtra,Chandrapur,False
-maharashtra::yavatmal,Maharashtra,Yavatmal,False
-maharashtra::nanded,Maharashtra,Nanded,False
-maharashtra::hingoli,Maharashtra,Hingoli,False
-maharashtra::parbhani,Maharashtra,Parbhani,False
-maharashtra::jalna,Maharashtra,Jalna,False
-maharashtra::aurangabad,Maharashtra,Aurangabad,False
-maharashtra::nashik,Maharashtra,Nashik,False
-maharashtra::thane,Maharashtra,Thane,False
-maharashtra::mumbaisuburban,Maharashtra,Mumbai Suburban,False
-maharashtra::mumbai,Maharashtra,Mumbai,False
-maharashtra::raigarh,Maharashtra,Raigarh,False
-maharashtra::pune,Maharashtra,Pune,False
-maharashtra::ahmednagar,Maharashtra,Ahmednagar,False
-maharashtra::bid,Maharashtra,Bid,False
-maharashtra::latur,Maharashtra,Latur,False
-maharashtra::osmanabad,Maharashtra,Osmanabad,True
-maharashtra::solapur,Maharashtra,Solapur,False
-maharashtra::satara,Maharashtra,Satara,False
-maharashtra::ratnagiri,Maharashtra,Ratnagiri,False
-maharashtra::sindhudurg,Maharashtra,Sindhudurg,False
-maharashtra::kolhapur,Maharashtra,Kolhapur,False
-maharashtra::sangli,Maharashtra,Sangli,False
-telangana::adilabad,Telangana,Adilabad,
-telangana::nizamabad,Telangana,Nizamabad,
-telangana::karimnagar,Telangana,Karimnagar,
-telangana::medak,Telangana,Medak,
-telangana::hyderabad,Telangana,Hyderabad,
-telangana::rangareddy,Telangana,Rangareddy,
-telangana::mahbubnagar,Telangana,Mahbubnagar,
-telangana::nalgonda,Telangana,Nalgonda,
-telangana::warangal,Telangana,Warangal,
-telangana::khammam,Telangana,Khammam,
-andhrapradesh::srikakulam,Andhra Pradesh,Srikakulam,
-andhrapradesh::vizianagaram,Andhra Pradesh,Vizianagaram,True
-andhrapradesh::visakhapatnam,Andhra Pradesh,Visakhapatnam,True
-andhrapradesh::eastgodavari,Andhra Pradesh,East Godavari,
-andhrapradesh::westgodavari,Andhra Pradesh,West Godavari,
-andhrapradesh::krishna,Andhra Pradesh,Krishna,
-andhrapradesh::guntur,Andhra Pradesh,Guntur,
-andhrapradesh::prakasam,Andhra Pradesh,Prakasam,
-andhrapradesh::sripottisriramulunellore,Andhra Pradesh,Sri Potti Sriramulu Nellore,
-andhrapradesh::ysrcuddapah,Andhra Pradesh,Y.S.R. Cuddapah,
-andhrapradesh::kurnool,Andhra Pradesh,Kurnool,
-andhrapradesh::anantapur,Andhra Pradesh,Anantapur,
-andhrapradesh::chittoor,Andhra Pradesh,Chittoor,
-karnataka::belgaum,Karnataka,Belgaum,False
-karnataka::bagalkot,Karnataka,Bagalkot,False
-karnataka::bijapur,Karnataka,Bijapur,False
-karnataka::bidar,Karnataka,Bidar,False
-karnataka::raichur,Karnataka,Raichur,True
-karnataka::koppal,Karnataka,Koppal,False
-karnataka::gadag,Karnataka,Gadag,False
-karnataka::dharwad,Karnataka,Dharwad,False
-karnataka::uttarakannada,Karnataka,Uttara Kannada,False
-karnataka::haveri,Karnataka,Haveri,False
-karnataka::bellary,Karnataka,Bellary,False
-karnataka::chitradurga,Karnataka,Chitradurga,False
-karnataka::davanagere,Karnataka,Davanagere,False
-karnataka::shimoga,Karnataka,Shimoga,False
-karnataka::udupi,Karnataka,Udupi,False
-karnataka::chikmagalur,Karnataka,Chikmagalur,False
-karnataka::tumkur,Karnataka,Tumkur,False
-karnataka::bangalore,Karnataka,Bangalore,False
-karnataka::mandya,Karnataka,Mandya,False
-karnataka::hassan,Karnataka,Hassan,False
-karnataka::dakshinakannada,Karnataka,Dakshina Kannada,False
-karnataka::kodagu,Karnataka,Kodagu,False
-karnataka::mysore,Karnataka,Mysore,False
-karnataka::chamarajanagar,Karnataka,Chamarajanagar,False
-karnataka::gulbarga,Karnataka,Gulbarga,False
-karnataka::yadgir,Karnataka,Yadgir,True
-karnataka::kolar,Karnataka,Kolar,False
-karnataka::chikkaballapura,Karnataka,Chikkaballapura,False
-karnataka::bangalorerural,Karnataka,Bangalore Rural,False
-karnataka::ramanagara,Karnataka,Ramanagara,False
-goa::northgoa,Goa,North Goa,False
-goa::southgoa,Goa,South Goa,False
-kerala::kasaragod,Kerala,Kasaragod,False
-kerala::kannur,Kerala,Kannur,False
-kerala::wayanad,Kerala,Wayanad,True
-kerala::kozhikode,Kerala,Kozhikode,False
-kerala::malappuram,Kerala,Malappuram,False
-kerala::palakkad,Kerala,Palakkad,False
-kerala::thrissur,Kerala,Thrissur,False
-kerala::ernakulam,Kerala,Ernakulam,False
-kerala::idukki,Kerala,Idukki,False
-kerala::kottayam,Kerala,Kottayam,False
-kerala::alappuzha,Kerala,Alappuzha,False
-kerala::pathanamthitta,Kerala,Pathanamthitta,False
-kerala::kollam,Kerala,Kollam,False
-kerala::thiruvananthapuram,Kerala,Thiruvananthapuram,False
-tamilnadu::thiruvallur,Tamil Nadu,Thiruvallur,False
-tamilnadu::chennai,Tamil Nadu,Chennai,False
-tamilnadu::kancheepuram,Tamil Nadu,Kancheepuram,False
-tamilnadu::vellore,Tamil Nadu,Vellore,False
-tamilnadu::tiruvannamalai,Tamil Nadu,Tiruvannamalai,False
-tamilnadu::viluppuram,Tamil Nadu,Viluppuram,False
-tamilnadu::salem,Tamil Nadu,Salem,False
-tamilnadu::namakkal,Tamil Nadu,Namakkal,False
-tamilnadu::erode,Tamil Nadu,Erode,False
-tamilnadu::thenilgiris,Tamil Nadu,The Nilgiris,False
-tamilnadu::dindigul,Tamil Nadu,Dindigul,False
-tamilnadu::karur,Tamil Nadu,Karur,False
-tamilnadu::tiruchirappalli,Tamil Nadu,Tiruchirappalli,False
-tamilnadu::perambalur,Tamil Nadu,Perambalur,False
-tamilnadu::ariyalur,Tamil Nadu,Ariyalur,False
-tamilnadu::cuddalore,Tamil Nadu,Cuddalore,False
-tamilnadu::nagapattinam,Tamil Nadu,Nagapattinam,False
-tamilnadu::thiruvarur,Tamil Nadu,Thiruvarur,False
-tamilnadu::thanjavur,Tamil Nadu,Thanjavur,False
-tamilnadu::pudukkottai,Tamil Nadu,Pudukkottai,False
-tamilnadu::sivaganga,Tamil Nadu,Sivaganga,False
-tamilnadu::madurai,Tamil Nadu,Madurai,False
-tamilnadu::theni,Tamil Nadu,Theni,False
-tamilnadu::virudhunagar,Tamil Nadu,Virudhunagar,True
-tamilnadu::ramanathapuram,Tamil Nadu,Ramanathapuram,True
-tamilnadu::thoothukkudi,Tamil Nadu,Thoothukkudi,False
-tamilnadu::tirunelveli,Tamil Nadu,Tirunelveli,False
-tamilnadu::kanniyakumari,Tamil Nadu,Kanniyakumari,False
-tamilnadu::dharmapuri,Tamil Nadu,Dharmapuri,False
-tamilnadu::krishnagiri,Tamil Nadu,Krishnagiri,False
-tamilnadu::coimbatore,Tamil Nadu,Coimbatore,False
-tamilnadu::tiruppur,Tamil Nadu,Tiruppur,False
-puducherry::yanam,Puducherry,Yanam,False
-puducherry::puducherry,Puducherry,Puducherry,False
-puducherry::mahe,Puducherry,Mahe,False
-puducherry::karaikal,Puducherry,Karaikal,False
-andamannicobarislands::nicobar,Andaman & Nicobar Islands,Nicobar,False
-andamannicobarislands::northmiddleandaman,Andaman & Nicobar Islands,North & Middle Andaman,False
-andamannicobarislands::southandaman,Andaman & Nicobar Islands,South Andaman,False
-andamannicobarislands::nicobars,Andaman & Nicobar Islands,Nicobars,False
-andhrapradesh::sripottisriramulunello,Andhra Pradesh,Sri Potti Sriramulu Nello,
-andhrapradesh::ysr,Andhra Pradesh,Y.S.R.,
-arunachalpradesh::papumpare,Arunachal Pradesh,Papum Pare,
-arunachalpradesh::kradaadi,Arunachal Pradesh,Kra Daadi,
-arunachalpradesh::longding,Arunachal Pradesh,Longding,
-arunachalpradesh::namsai,Arunachal Pradesh,Namsai,True
-arunachalpradesh::siang,Arunachal Pradesh,Siang,
-assam::biswanath,Assam,Biswanath,False
-assam::charaideo,Assam,Charaideo,False
-assam::hojai,Assam,Hojai,False
-assam::majuli,Assam,Majuli,False
-assam::southsalmaramancachar,Assam,South Salmara Mancachar,False
-assam::westkarbianglong,Assam,West Karbi Anglong,False
-bihar::kaimurbhabua,Bihar,Kaimur (Bhabua),False
-chandigarh::chandigarh,Chandigarh,Chandigarh,False
-chhattisgarh::koriya,Chhattisgarh,Koriya,
-chhattisgarh::janjgirchampa,Chhattisgarh,Janjgir - Champa,
-chhattisgarh::kabeerdham,Chhattisgarh,Kabeerdham,
-chhattisgarh::balod,Chhattisgarh,Balod,
-chhattisgarh::balodabazar,Chhattisgarh,Baloda Bazar,
-chhattisgarh::balrampur,Chhattisgarh,Balrampur,
-chhattisgarh::bemetara,Chhattisgarh,Bemetara,
-chhattisgarh::dantewada,Chhattisgarh,Dantewada,True
-chhattisgarh::gariyaband,Chhattisgarh,Gariyaband,
-chhattisgarh::kodagaon,Chhattisgarh,Kodagaon,
-chhattisgarh::mungeli,Chhattisgarh,Mungeli,
-chhattisgarh::sukma,Chhattisgarh,Sukma,True
-chhattisgarh::surajpur,Chhattisgarh,Surajpur,
-dadraandnagarhavelidamananddiu::diu,Dadra and Nagar Haveli & Daman and Diu,Diu,False
-dadraandnagarhavelidamananddiu::daman,Dadra and Nagar Haveli & Daman and Diu,Daman,False
-dadraandnagarhavelidamananddiu::dadranagarhaveli,Dadra and Nagar Haveli & Daman and Diu,Dadra & Nagar Haveli,False
-gujarat::banaskantha,Gujarat,Banas Kantha,
-gujarat::mahesana,Gujarat,Mahesana,
-gujarat::aravali,Gujarat,Aravali,
-gujarat::botad,Gujarat,Botad,
-gujarat::chhotaudaipur,Gujarat,Chhota Udaipur,
-gujarat::devbhumidwarka,Gujarat,Devbhumi Dwarka,
-gujarat::girsomnath,Gujarat,Gir Somnath,
-gujarat::mahisagar,Gujarat,Mahisagar,
-gujarat::morbi,Gujarat,Morbi,
-gujarat::panchmahals,Gujarat,Panch Mahals,
-gujarat::sabarkantha,Gujarat,Sabar Kantha,
-haryana::charkhidadri,Haryana,Charkhi Dadri,False
-himachalpradesh::lahulspiti,Himachal Pradesh,Lahul & Spiti,False
-jharkhand::saraikelakharsawan,Jharkhand,Saraikela-Kharsawan,False
-ladakh::lehladakh,Ladakh,Leh(Ladakh),False
-ladakh::kargil,Ladakh,Kargil,False
-lakshadweep::lakshadweep,Lakshadweep,Lakshadweep,False
-madhyapradesh::agarmalwa,Madhya Pradesh,Agar Malwa,
-maharashtra::buldana,Maharashtra,Buldana,False
-maharashtra::ahmadnagar,Maharashtra,Ahmadnagar,False
-maharashtra::palghar,Maharashtra,Palghar,False
-meghalaya::eastjantiahills,Meghalaya,East Jantia Hills,False
-meghalaya::northgarohills,Meghalaya,North Garo Hills,False
-meghalaya::southwestgarohills,Meghalaya,South West Garo Hills,False
-meghalaya::southwestkhasihills,Meghalaya,South West Khasi Hills,False
-meghalaya::westjaintiahills,Meghalaya,West Jaintia Hills,False
-mizoram::chandel,Mizoram,Chandel,False
-nctdelhi::shahdara,NCT Delhi,Shahdara,False
-nctdelhi::southeast,NCT Delhi,South East,False
-punjab::shahidbhagatsinghnagar,Punjab,Shahid Bhagat Singh Nagar,False
-punjab::rupnagar,Punjab,Rupnagar,False
-punjab::fazilka,Punjab,Fazilka,False
-punjab::pathankot,Punjab,Pathankot,False
-sikkim::northdistrict,Sikkim,North  District,
-telangana::bhadradrikothagudem,Telangana,Bhadradri Kothagudem,True
-telangana::jagitial,Telangana,Jagitial,
-telangana::jangoan,Telangana,Jangoan,
-telangana::jayashankarbhupalapally,Telangana,Jayashankar Bhupalapally,
-telangana::jogulambagadwal,Telangana,Jogulamba Gadwal,
-telangana::kamareddy,Telangana,Kamareddy,
-telangana::komarambheemasifabad,Telangana,Komaram Bheem Asifabad,
-telangana::mahabubabad,Telangana,Mahabubabad,
-telangana::mahabubnagar,Telangana,Mahabubnagar,
-telangana::mancherial,Telangana,Mancherial,
-telangana::medchalmalkajgiri,Telangana,Medchal-Malkajgiri,
-telangana::nagarkurnool,Telangana,Nagarkurnool,
-telangana::nirmal,Telangana,Nirmal,
-telangana::peddapalli,Telangana,Peddapalli,
-telangana::rajannasircilla,Telangana,Rajanna Sircilla,
-telangana::rangareddy,Telangana,Ranga Reddy,
-telangana::sangareddy,Telangana,Sangareddy,
-telangana::siddipet,Telangana,Siddipet,
-telangana::suryapet,Telangana,Suryapet,
-telangana::vikarabad,Telangana,Vikarabad,
-telangana::wanaparthy,Telangana,Wanaparthy,
-telangana::warangalrural,Telangana,Warangal Rural,
-telangana::warangalurban,Telangana,Warangal Urban,
-telangana::yadadribhuvanagiri,Telangana,Yadadri Bhuvanagiri,
-tripura::gomati,Tripura,Gomati,False
-tripura::khowai,Tripura,Khowai,False
-tripura::sepahijala,Tripura,Sepahijala,False
-tripura::unakoti,Tripura,Unakoti,False
-uttarpradesh::mahrajganj,Uttar Pradesh,Mahrajganj,False
-uttarpradesh::santravidasnagarbhadohi,Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),False
-uttarpradesh::amethi,Uttar Pradesh,Amethi,False
-uttarpradesh::hapur,Uttar Pradesh,Hapur,False
-uttarpradesh::sambhal,Uttar Pradesh,Sambhal,False
-uttarpradesh::shamli,Uttar Pradesh,Shamli,False
-westbengal::northtwentyfourpargana,West Bengal,North Twenty Four Pargana,False
-westbengal::southtwentyfourpargana,West Bengal,South Twenty Four Pargana,False
-westbengal::paschimbarddhaman,West Bengal,Paschim Barddhaman,False
-westbengal::purbabarddhaman,West Bengal,Purba Barddhaman,False
+district_id,state,district,aspirational_flag,geography_status,geography_eligible,comparison_eligible
+andamannicobarislands::nicobar,Andaman & Nicobar Islands,Nicobar,False,unchanged_name_candidate,True,False
+andamannicobarislands::nicobars,Andaman & Nicobar Islands,Nicobars,False,unchanged_name_candidate,True,False
+andamannicobarislands::northmiddleandaman,Andaman & Nicobar Islands,North & Middle Andaman,False,unchanged_name_candidate,True,True
+andamannicobarislands::southandaman,Andaman & Nicobar Islands,South Andaman,False,unchanged_name_candidate,True,True
+andhrapradesh::anantapur,Andhra Pradesh,Anantapur,,unchanged_name_candidate,True,True
+andhrapradesh::chittoor,Andhra Pradesh,Chittoor,,unchanged_name_candidate,True,True
+andhrapradesh::eastgodavari,Andhra Pradesh,East Godavari,,unchanged_name_candidate,True,True
+andhrapradesh::guntur,Andhra Pradesh,Guntur,,unchanged_name_candidate,True,True
+andhrapradesh::krishna,Andhra Pradesh,Krishna,,unchanged_name_candidate,True,True
+andhrapradesh::kurnool,Andhra Pradesh,Kurnool,,unchanged_name_candidate,True,True
+andhrapradesh::prakasam,Andhra Pradesh,Prakasam,,unchanged_name_candidate,True,True
+andhrapradesh::srikakulam,Andhra Pradesh,Srikakulam,,unchanged_name_candidate,True,True
+andhrapradesh::sripottisriramulunello,Andhra Pradesh,Sri Potti Sriramulu Nello,,unchanged_name_candidate,True,False
+andhrapradesh::sripottisriramulunellore,Andhra Pradesh,Sri Potti Sriramulu Nellore,,unchanged_name_candidate,True,False
+andhrapradesh::visakhapatnam,Andhra Pradesh,Visakhapatnam,True,unchanged_name_candidate,True,True
+andhrapradesh::vizianagaram,Andhra Pradesh,Vizianagaram,True,unchanged_name_candidate,True,True
+andhrapradesh::westgodavari,Andhra Pradesh,West Godavari,,unchanged_name_candidate,True,True
+andhrapradesh::ysr,Andhra Pradesh,Y.S.R.,,unchanged_name_candidate,True,False
+andhrapradesh::ysrcuddapah,Andhra Pradesh,Y.S.R. Cuddapah,,unchanged_name_candidate,True,False
+arunachalpradesh::anjaw,Arunachal Pradesh,Anjaw,,unchanged_name_candidate,True,True
+arunachalpradesh::changlang,Arunachal Pradesh,Changlang,,unchanged_name_candidate,True,True
+arunachalpradesh::dibangvalley,Arunachal Pradesh,Dibang Valley,,unchanged_name_candidate,True,True
+arunachalpradesh::eastkameng,Arunachal Pradesh,East Kameng,,unchanged_name_candidate,True,True
+arunachalpradesh::eastsiang,Arunachal Pradesh,East Siang,,changed_or_new_per_Harvard_Appendix_A,False,False
+arunachalpradesh::kradaadi,Arunachal Pradesh,Kra Daadi,,changed_or_new_per_Harvard_Appendix_A,False,False
+arunachalpradesh::kurungkumey,Arunachal Pradesh,Kurung Kumey,,changed_or_new_per_Harvard_Appendix_A,False,False
+arunachalpradesh::lohit,Arunachal Pradesh,Lohit,,changed_or_new_per_Harvard_Appendix_A,False,False
+arunachalpradesh::longding,Arunachal Pradesh,Longding,,changed_or_new_per_Harvard_Appendix_A,False,False
+arunachalpradesh::lowerdibangvalley,Arunachal Pradesh,Lower Dibang Valley,,unchanged_name_candidate,True,True
+arunachalpradesh::lowersubansiri,Arunachal Pradesh,Lower Subansiri,,unchanged_name_candidate,True,True
+arunachalpradesh::namsai,Arunachal Pradesh,Namsai,True,changed_or_new_per_Harvard_Appendix_A,False,False
+arunachalpradesh::papumpare,Arunachal Pradesh,Papumpare,,unchanged_name_candidate,True,True
+arunachalpradesh::siang,Arunachal Pradesh,Siang,,changed_or_new_per_Harvard_Appendix_A,False,False
+arunachalpradesh::tawang,Arunachal Pradesh,Tawang,,unchanged_name_candidate,True,True
+arunachalpradesh::tirap,Arunachal Pradesh,Tirap,,changed_or_new_per_Harvard_Appendix_A,False,False
+arunachalpradesh::uppersiang,Arunachal Pradesh,Upper Siang,,unchanged_name_candidate,True,True
+arunachalpradesh::uppersubansiri,Arunachal Pradesh,Upper Subansiri,,unchanged_name_candidate,True,True
+arunachalpradesh::westkameng,Arunachal Pradesh,West Kameng,,unchanged_name_candidate,True,True
+arunachalpradesh::westsiang,Arunachal Pradesh,West Siang,,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::baksa,Assam,Baksa,True,unchanged_name_candidate,True,True
+assam::barpeta,Assam,Barpeta,True,unchanged_name_candidate,True,True
+assam::biswanath,Assam,Biswanath,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::bongaigaon,Assam,Bongaigaon,False,unchanged_name_candidate,True,True
+assam::cachar,Assam,Cachar,False,unchanged_name_candidate,True,True
+assam::charaideo,Assam,Charaideo,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::chirang,Assam,Chirang,False,unchanged_name_candidate,True,True
+assam::darrang,Assam,Darrang,True,unchanged_name_candidate,True,True
+assam::dhemaji,Assam,Dhemaji,False,unchanged_name_candidate,True,True
+assam::dhubri,Assam,Dhubri,True,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::dibrugarh,Assam,Dibrugarh,False,unchanged_name_candidate,True,True
+assam::dimahasao,Assam,Dima Hasao,False,unchanged_name_candidate,True,True
+assam::goalpara,Assam,Goalpara,True,unchanged_name_candidate,True,True
+assam::golaghat,Assam,Golaghat,False,unchanged_name_candidate,True,True
+assam::hailakandi,Assam,Hailakandi,True,unchanged_name_candidate,True,True
+assam::hojai,Assam,Hojai,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::jorhat,Assam,Jorhat,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::kamrup,Assam,Kamrup,False,unchanged_name_candidate,True,True
+assam::kamrupmetropolitan,Assam,Kamrup Metropolitan,False,unchanged_name_candidate,True,True
+assam::karbianglong,Assam,Karbi Anglong,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::karimganj,Assam,Karimganj,False,unchanged_name_candidate,True,True
+assam::kokrajhar,Assam,Kokrajhar,False,unchanged_name_candidate,True,True
+assam::lakhimpur,Assam,Lakhimpur,False,unchanged_name_candidate,True,True
+assam::majuli,Assam,Majuli,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::morigaon,Assam,Morigaon,False,unchanged_name_candidate,True,True
+assam::nagaon,Assam,Nagaon,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::nalbari,Assam,Nalbari,False,unchanged_name_candidate,True,True
+assam::sivasagar,Assam,Sivasagar,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::sonitpur,Assam,Sonitpur,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::southsalmaramancachar,Assam,South Salmara Mancachar,False,changed_or_new_per_Harvard_Appendix_A,False,False
+assam::tinsukia,Assam,Tinsukia,False,unchanged_name_candidate,True,True
+assam::udalguri,Assam,Udalguri,True,unchanged_name_candidate,True,True
+assam::westkarbianglong,Assam,West Karbi Anglong,False,changed_or_new_per_Harvard_Appendix_A,False,False
+bihar::araria,Bihar,Araria,True,unchanged_name_candidate,True,True
+bihar::arwal,Bihar,Arwal,False,unchanged_name_candidate,True,True
+bihar::aurangabad,Bihar,Aurangabad,True,unchanged_name_candidate,True,True
+bihar::banka,Bihar,Banka,True,unchanged_name_candidate,True,True
+bihar::begusarai,Bihar,Begusarai,True,unchanged_name_candidate,True,True
+bihar::bhagalpur,Bihar,Bhagalpur,False,unchanged_name_candidate,True,True
+bihar::bhojpur,Bihar,Bhojpur,False,unchanged_name_candidate,True,True
+bihar::buxar,Bihar,Buxar,False,unchanged_name_candidate,True,True
+bihar::darbhanga,Bihar,Darbhanga,False,unchanged_name_candidate,True,True
+bihar::gaya,Bihar,Gaya,True,unchanged_name_candidate,True,True
+bihar::gopalganj,Bihar,Gopalganj,False,unchanged_name_candidate,True,True
+bihar::jamui,Bihar,Jamui,True,unchanged_name_candidate,True,True
+bihar::jehanabad,Bihar,Jehanabad,False,unchanged_name_candidate,True,True
+bihar::kaimur,Bihar,Kaimur,False,unchanged_name_candidate,True,False
+bihar::kaimurbhabua,Bihar,Kaimur (Bhabua),False,unchanged_name_candidate,True,False
+bihar::katihar,Bihar,Katihar,True,unchanged_name_candidate,True,True
+bihar::khagaria,Bihar,Khagaria,True,unchanged_name_candidate,True,True
+bihar::kishanganj,Bihar,Kishanganj,False,unchanged_name_candidate,True,True
+bihar::lakhisarai,Bihar,Lakhisarai,False,unchanged_name_candidate,True,True
+bihar::madhepura,Bihar,Madhepura,False,unchanged_name_candidate,True,True
+bihar::madhubani,Bihar,Madhubani,False,unchanged_name_candidate,True,True
+bihar::munger,Bihar,Munger,False,unchanged_name_candidate,True,True
+bihar::muzaffarpur,Bihar,Muzaffarpur,True,unchanged_name_candidate,True,True
+bihar::nalanda,Bihar,Nalanda,False,unchanged_name_candidate,True,True
+bihar::nawada,Bihar,Nawada,True,unchanged_name_candidate,True,True
+bihar::pashchimchamparan,Bihar,Pashchim Champaran,False,unchanged_name_candidate,True,True
+bihar::patna,Bihar,Patna,False,unchanged_name_candidate,True,True
+bihar::purbachamparan,Bihar,Purba Champaran,False,unchanged_name_candidate,True,True
+bihar::purnia,Bihar,Purnia,True,unchanged_name_candidate,True,True
+bihar::rohtas,Bihar,Rohtas,False,unchanged_name_candidate,True,True
+bihar::saharsa,Bihar,Saharsa,False,unchanged_name_candidate,True,True
+bihar::samastipur,Bihar,Samastipur,False,unchanged_name_candidate,True,True
+bihar::saran,Bihar,Saran,False,unchanged_name_candidate,True,True
+bihar::sheikhpura,Bihar,Sheikhpura,True,unchanged_name_candidate,True,True
+bihar::sheohar,Bihar,Sheohar,False,unchanged_name_candidate,True,True
+bihar::sitamarhi,Bihar,Sitamarhi,True,unchanged_name_candidate,True,True
+bihar::siwan,Bihar,Siwan,False,unchanged_name_candidate,True,True
+bihar::supaul,Bihar,Supaul,False,unchanged_name_candidate,True,True
+bihar::vaishali,Bihar,Vaishali,False,unchanged_name_candidate,True,True
+chandigarh::chandigarh,Chandigarh,Chandigarh,False,unchanged_name_candidate,True,False
+chhattisgarh::balod,Chhattisgarh,Balod,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::balodabazar,Chhattisgarh,Baloda Bazar,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::balrampur,Chhattisgarh,Balrampur,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::bastar,Chhattisgarh,Bastar,True,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::bemetara,Chhattisgarh,Bemetara,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::bijapur,Chhattisgarh,Bijapur,True,unchanged_name_candidate,True,True
+chhattisgarh::bilaspur,Chhattisgarh,Bilaspur,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::dakshinbastardantewada,Chhattisgarh,Dakshin Bastar Dantewada,,unchanged_name_candidate,True,False
+chhattisgarh::dantewada,Chhattisgarh,Dantewada,True,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::dhamtari,Chhattisgarh,Dhamtari,,unchanged_name_candidate,True,True
+chhattisgarh::durg,Chhattisgarh,Durg,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::gariyaband,Chhattisgarh,Gariyaband,,unchanged_name_candidate,True,False
+chhattisgarh::janjgirchampa,Chhattisgarh,Janjgir Champa,,unchanged_name_candidate,True,True
+chhattisgarh::jashpur,Chhattisgarh,Jashpur,,unchanged_name_candidate,True,True
+chhattisgarh::kabeerdham,Chhattisgarh,Kabeerdham,,unchanged_name_candidate,True,False
+chhattisgarh::kabirdham,Chhattisgarh,Kabirdham,,unchanged_name_candidate,True,False
+chhattisgarh::kodagaon,Chhattisgarh,Kodagaon,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::korba,Chhattisgarh,Korba,True,unchanged_name_candidate,True,True
+chhattisgarh::korea,Chhattisgarh,Korea,,unchanged_name_candidate,True,False
+chhattisgarh::koriya,Chhattisgarh,Koriya,,unchanged_name_candidate,True,False
+chhattisgarh::mahasamund,Chhattisgarh,Mahasamund,True,unchanged_name_candidate,True,True
+chhattisgarh::mungeli,Chhattisgarh,Mungeli,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::narayanpur,Chhattisgarh,Narayanpur,True,unchanged_name_candidate,True,True
+chhattisgarh::raigarh,Chhattisgarh,Raigarh,,unchanged_name_candidate,True,True
+chhattisgarh::raipur,Chhattisgarh,Raipur,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::rajnandgaon,Chhattisgarh,Rajnandgaon,True,unchanged_name_candidate,True,True
+chhattisgarh::sukma,Chhattisgarh,Sukma,True,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::surajpur,Chhattisgarh,Surajpur,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::surguja,Chhattisgarh,Surguja,,changed_or_new_per_Harvard_Appendix_A,False,False
+chhattisgarh::uttarbastarkanker,Chhattisgarh,Uttar Bastar Kanker,,unchanged_name_candidate,True,True
+dadraandnagarhavelidamananddiu::dadranagarhaveli,Dadra and Nagar Haveli & Daman and Diu,Dadra & Nagar Haveli,False,unchanged_name_candidate,True,False
+dadraandnagarhavelidamananddiu::daman,Dadra and Nagar Haveli & Daman and Diu,Daman,False,unchanged_name_candidate,True,False
+dadraandnagarhavelidamananddiu::diu,Dadra and Nagar Haveli & Daman and Diu,Diu,False,unchanged_name_candidate,True,False
+damandiu::daman,Daman & Diu,Daman,False,unchanged_name_candidate,True,False
+damandiu::diu,Daman & Diu,Diu,False,unchanged_name_candidate,True,False
+goa::northgoa,Goa,North Goa,False,unchanged_name_candidate,True,True
+goa::southgoa,Goa,South Goa,False,unchanged_name_candidate,True,True
+gujarat::ahmadabad,Gujarat,Ahmadabad,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::amreli,Gujarat,Amreli,,unchanged_name_candidate,True,True
+gujarat::anand,Gujarat,Anand,,unchanged_name_candidate,True,True
+gujarat::aravali,Gujarat,Aravali,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::banaskantha,Gujarat,Banaskantha,,unchanged_name_candidate,True,True
+gujarat::bharuch,Gujarat,Bharuch,,unchanged_name_candidate,True,True
+gujarat::bhavnagar,Gujarat,Bhavnagar,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::botad,Gujarat,Botad,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::chhotaudaipur,Gujarat,Chhota Udaipur,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::devbhumidwarka,Gujarat,Devbhumi Dwarka,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::dohad,Gujarat,Dohad,,unchanged_name_candidate,True,True
+gujarat::gandhinagar,Gujarat,Gandhinagar,,unchanged_name_candidate,True,True
+gujarat::girsomnath,Gujarat,Gir Somnath,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::jamnagar,Gujarat,Jamnagar,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::junagadh,Gujarat,Junagadh,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::kachchh,Gujarat,Kachchh,,unchanged_name_candidate,True,True
+gujarat::kheda,Gujarat,Kheda,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::mahesana,Gujarat,Mahesana,,unchanged_name_candidate,True,False
+gujarat::mahesena,Gujarat,Mahesena,,unchanged_name_candidate,True,False
+gujarat::mahisagar,Gujarat,Mahisagar,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::morbi,Gujarat,Morbi,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::narmada,Gujarat,Narmada,True,unchanged_name_candidate,True,True
+gujarat::navsari,Gujarat,Navsari,,unchanged_name_candidate,True,True
+gujarat::panchmahal,Gujarat,Panchmahal,,unchanged_name_candidate,True,False
+gujarat::panchmahals,Gujarat,Panch Mahals,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::patan,Gujarat,Patan,,unchanged_name_candidate,True,True
+gujarat::porbandar,Gujarat,Porbandar,,unchanged_name_candidate,True,True
+gujarat::rajkot,Gujarat,Rajkot,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::sabarkantha,Gujarat,Sabarkantha,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::surat,Gujarat,Surat,,unchanged_name_candidate,True,True
+gujarat::surendranagar,Gujarat,Surendranagar,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::tapi,Gujarat,Tapi,,unchanged_name_candidate,True,True
+gujarat::thedangs,Gujarat,The Dangs,,unchanged_name_candidate,True,True
+gujarat::vadodara,Gujarat,Vadodara,,changed_or_new_per_Harvard_Appendix_A,False,False
+gujarat::valsad,Gujarat,Valsad,,unchanged_name_candidate,True,True
+haryana::ambala,Haryana,Ambala,False,unchanged_name_candidate,True,True
+haryana::bhiwani,Haryana,Bhiwani,False,changed_or_new_per_Harvard_Appendix_A,False,False
+haryana::charkhidadri,Haryana,Charkhi Dadri,False,changed_or_new_per_Harvard_Appendix_A,False,False
+haryana::faridabad,Haryana,Faridabad,False,unchanged_name_candidate,True,True
+haryana::fatehabad,Haryana,Fatehabad,False,unchanged_name_candidate,True,True
+haryana::gurgaon,Haryana,Gurgaon,False,unchanged_name_candidate,True,True
+haryana::hisar,Haryana,Hisar,False,unchanged_name_candidate,True,True
+haryana::jhajjar,Haryana,Jhajjar,False,unchanged_name_candidate,True,True
+haryana::jind,Haryana,Jind,False,unchanged_name_candidate,True,True
+haryana::kaithal,Haryana,Kaithal,False,unchanged_name_candidate,True,True
+haryana::karnal,Haryana,Karnal,False,unchanged_name_candidate,True,True
+haryana::kurukshetra,Haryana,Kurukshetra,False,unchanged_name_candidate,True,True
+haryana::mahendragarh,Haryana,Mahendragarh,False,unchanged_name_candidate,True,True
+haryana::mewat,Haryana,Mewat,True,unchanged_name_candidate,True,True
+haryana::palwal,Haryana,Palwal,False,unchanged_name_candidate,True,True
+haryana::panchkula,Haryana,Panchkula,False,unchanged_name_candidate,True,True
+haryana::panipat,Haryana,Panipat,False,unchanged_name_candidate,True,True
+haryana::rewari,Haryana,Rewari,False,unchanged_name_candidate,True,True
+haryana::rohtak,Haryana,Rohtak,False,unchanged_name_candidate,True,True
+haryana::sirsa,Haryana,Sirsa,False,unchanged_name_candidate,True,True
+haryana::sonipat,Haryana,Sonipat,False,unchanged_name_candidate,True,True
+haryana::yamunanagar,Haryana,Yamunanagar,False,unchanged_name_candidate,True,True
+himachalpradesh::bilaspur,Himachal Pradesh,Bilaspur,False,unchanged_name_candidate,True,True
+himachalpradesh::chamba,Himachal Pradesh,Chamba,True,unchanged_name_candidate,True,True
+himachalpradesh::hamirpur,Himachal Pradesh,Hamirpur,False,unchanged_name_candidate,True,True
+himachalpradesh::kangra,Himachal Pradesh,Kangra,False,unchanged_name_candidate,True,True
+himachalpradesh::kinnaur,Himachal Pradesh,Kinnaur,False,unchanged_name_candidate,True,True
+himachalpradesh::kullu,Himachal Pradesh,Kullu,False,unchanged_name_candidate,True,True
+himachalpradesh::lahulandspiti,Himachal Pradesh,Lahul and Spiti,False,unchanged_name_candidate,True,False
+himachalpradesh::lahulspiti,Himachal Pradesh,Lahul & Spiti,False,unchanged_name_candidate,True,False
+himachalpradesh::mandi,Himachal Pradesh,Mandi,False,unchanged_name_candidate,True,True
+himachalpradesh::shimla,Himachal Pradesh,Shimla,False,unchanged_name_candidate,True,True
+himachalpradesh::sirmaur,Himachal Pradesh,Sirmaur,False,unchanged_name_candidate,True,True
+himachalpradesh::solan,Himachal Pradesh,Solan,False,unchanged_name_candidate,True,True
+himachalpradesh::una,Himachal Pradesh,Una,False,unchanged_name_candidate,True,True
+jammukashmir::anantnag,Jammu & Kashmir,Anantnag,,unchanged_name_candidate,True,True
+jammukashmir::badgam,Jammu & Kashmir,Badgam,,unchanged_name_candidate,True,True
+jammukashmir::bandipore,Jammu & Kashmir,Bandipore,,unchanged_name_candidate,True,True
+jammukashmir::baramula,Jammu & Kashmir,Baramula,,unchanged_name_candidate,True,True
+jammukashmir::doda,Jammu & Kashmir,Doda,,unchanged_name_candidate,True,True
+jammukashmir::ganderbal,Jammu & Kashmir,Ganderbal,,unchanged_name_candidate,True,True
+jammukashmir::jammu,Jammu & Kashmir,Jammu,,unchanged_name_candidate,True,True
+jammukashmir::kargil,Jammu & Kashmir,Kargil,,unchanged_name_candidate,True,False
+jammukashmir::kathua,Jammu & Kashmir,Kathua,,unchanged_name_candidate,True,True
+jammukashmir::kishtwar,Jammu & Kashmir,Kishtwar,,unchanged_name_candidate,True,True
+jammukashmir::kulgam,Jammu & Kashmir,Kulgam,,unchanged_name_candidate,True,True
+jammukashmir::kupwara,Jammu & Kashmir,Kupwara,True,unchanged_name_candidate,True,True
+jammukashmir::lehladakh,Jammu & Kashmir,Leh(Ladakh),,unchanged_name_candidate,True,False
+jammukashmir::pulwama,Jammu & Kashmir,Pulwama,,unchanged_name_candidate,True,True
+jammukashmir::punch,Jammu & Kashmir,Punch,,unchanged_name_candidate,True,True
+jammukashmir::rajouri,Jammu & Kashmir,Rajouri,,unchanged_name_candidate,True,True
+jammukashmir::ramban,Jammu & Kashmir,Ramban,,unchanged_name_candidate,True,True
+jammukashmir::reasi,Jammu & Kashmir,Reasi,,unchanged_name_candidate,True,True
+jammukashmir::samba,Jammu & Kashmir,Samba,,unchanged_name_candidate,True,True
+jammukashmir::shupiyan,Jammu & Kashmir,Shupiyan,,unchanged_name_candidate,True,True
+jammukashmir::srinagar,Jammu & Kashmir,Srinagar,,unchanged_name_candidate,True,True
+jammukashmir::udhampur,Jammu & Kashmir,Udhampur,,unchanged_name_candidate,True,True
+jharkhand::bokaro,Jharkhand,Bokaro,True,unchanged_name_candidate,True,True
+jharkhand::chatra,Jharkhand,Chatra,True,unchanged_name_candidate,True,True
+jharkhand::deoghar,Jharkhand,Deoghar,False,unchanged_name_candidate,True,True
+jharkhand::dhanbad,Jharkhand,Dhanbad,False,unchanged_name_candidate,True,True
+jharkhand::dumka,Jharkhand,Dumka,True,unchanged_name_candidate,True,True
+jharkhand::garhwa,Jharkhand,Garhwa,True,unchanged_name_candidate,True,True
+jharkhand::giridih,Jharkhand,Giridih,True,unchanged_name_candidate,True,True
+jharkhand::godda,Jharkhand,Godda,True,unchanged_name_candidate,True,True
+jharkhand::gumla,Jharkhand,Gumla,True,unchanged_name_candidate,True,True
+jharkhand::hazaribagh,Jharkhand,Hazaribagh,True,unchanged_name_candidate,True,True
+jharkhand::jamtara,Jharkhand,Jamtara,False,unchanged_name_candidate,True,True
+jharkhand::khunti,Jharkhand,Khunti,True,unchanged_name_candidate,True,True
+jharkhand::kodarma,Jharkhand,Kodarma,False,unchanged_name_candidate,True,True
+jharkhand::latehar,Jharkhand,Latehar,True,unchanged_name_candidate,True,True
+jharkhand::lohardaga,Jharkhand,Lohardaga,True,unchanged_name_candidate,True,True
+jharkhand::pakur,Jharkhand,Pakur,True,unchanged_name_candidate,True,True
+jharkhand::palamu,Jharkhand,Palamu,True,unchanged_name_candidate,True,True
+jharkhand::pashchimisinghbhum,Jharkhand,Pashchimi Singhbhum,True,unchanged_name_candidate,True,True
+jharkhand::purbisinghbhum,Jharkhand,Purbi Singhbhum,True,unchanged_name_candidate,True,True
+jharkhand::ramgarh,Jharkhand,Ramgarh,True,unchanged_name_candidate,True,True
+jharkhand::ranchi,Jharkhand,Ranchi,True,unchanged_name_candidate,True,True
+jharkhand::sahibganj,Jharkhand,Sahibganj,True,unchanged_name_candidate,True,True
+jharkhand::saraikelakharsawan,Jharkhand,Saraikela Kharsawan,False,unchanged_name_candidate,True,True
+jharkhand::simdega,Jharkhand,Simdega,True,unchanged_name_candidate,True,True
+karnataka::bagalkot,Karnataka,Bagalkot,False,unchanged_name_candidate,True,True
+karnataka::bangalore,Karnataka,Bangalore,False,unchanged_name_candidate,True,True
+karnataka::bangalorerural,Karnataka,Bangalore Rural,False,unchanged_name_candidate,True,True
+karnataka::belgaum,Karnataka,Belgaum,False,unchanged_name_candidate,True,True
+karnataka::bellary,Karnataka,Bellary,False,unchanged_name_candidate,True,True
+karnataka::bidar,Karnataka,Bidar,False,unchanged_name_candidate,True,True
+karnataka::bijapur,Karnataka,Bijapur,False,unchanged_name_candidate,True,True
+karnataka::chamarajanagar,Karnataka,Chamarajanagar,False,unchanged_name_candidate,True,True
+karnataka::chikkaballapura,Karnataka,Chikkaballapura,False,unchanged_name_candidate,True,True
+karnataka::chikmagalur,Karnataka,Chikmagalur,False,unchanged_name_candidate,True,True
+karnataka::chitradurga,Karnataka,Chitradurga,False,unchanged_name_candidate,True,True
+karnataka::dakshinakannada,Karnataka,Dakshina Kannada,False,unchanged_name_candidate,True,True
+karnataka::davanagere,Karnataka,Davanagere,False,unchanged_name_candidate,True,True
+karnataka::dharwad,Karnataka,Dharwad,False,unchanged_name_candidate,True,True
+karnataka::gadag,Karnataka,Gadag,False,unchanged_name_candidate,True,True
+karnataka::gulbarga,Karnataka,Gulbarga,False,unchanged_name_candidate,True,True
+karnataka::hassan,Karnataka,Hassan,False,unchanged_name_candidate,True,True
+karnataka::haveri,Karnataka,Haveri,False,unchanged_name_candidate,True,True
+karnataka::kodagu,Karnataka,Kodagu,False,unchanged_name_candidate,True,True
+karnataka::kolar,Karnataka,Kolar,False,unchanged_name_candidate,True,True
+karnataka::koppal,Karnataka,Koppal,False,unchanged_name_candidate,True,True
+karnataka::mandya,Karnataka,Mandya,False,unchanged_name_candidate,True,True
+karnataka::mysore,Karnataka,Mysore,False,unchanged_name_candidate,True,True
+karnataka::raichur,Karnataka,Raichur,True,unchanged_name_candidate,True,True
+karnataka::ramanagara,Karnataka,Ramanagara,False,unchanged_name_candidate,True,True
+karnataka::shimoga,Karnataka,Shimoga,False,unchanged_name_candidate,True,True
+karnataka::tumkur,Karnataka,Tumkur,False,unchanged_name_candidate,True,True
+karnataka::udupi,Karnataka,Udupi,False,unchanged_name_candidate,True,True
+karnataka::uttarakannada,Karnataka,Uttara Kannada,False,unchanged_name_candidate,True,True
+karnataka::yadgir,Karnataka,Yadgir,True,unchanged_name_candidate,True,True
+kerala::alappuzha,Kerala,Alappuzha,False,unchanged_name_candidate,True,True
+kerala::ernakulam,Kerala,Ernakulam,False,unchanged_name_candidate,True,True
+kerala::idukki,Kerala,Idukki,False,unchanged_name_candidate,True,True
+kerala::kannur,Kerala,Kannur,False,unchanged_name_candidate,True,True
+kerala::kasaragod,Kerala,Kasaragod,False,unchanged_name_candidate,True,True
+kerala::kollam,Kerala,Kollam,False,unchanged_name_candidate,True,True
+kerala::kottayam,Kerala,Kottayam,False,unchanged_name_candidate,True,True
+kerala::kozhikode,Kerala,Kozhikode,False,unchanged_name_candidate,True,True
+kerala::malappuram,Kerala,Malappuram,False,unchanged_name_candidate,True,True
+kerala::palakkad,Kerala,Palakkad,False,unchanged_name_candidate,True,True
+kerala::pathanamthitta,Kerala,Pathanamthitta,False,unchanged_name_candidate,True,True
+kerala::thiruvananthapuram,Kerala,Thiruvananthapuram,False,unchanged_name_candidate,True,True
+kerala::thrissur,Kerala,Thrissur,False,unchanged_name_candidate,True,True
+kerala::wayanad,Kerala,Wayanad,True,unchanged_name_candidate,True,True
+ladakh::kargil,Ladakh,Kargil,False,unchanged_name_candidate,True,False
+ladakh::lehladakh,Ladakh,Leh(Ladakh),False,unchanged_name_candidate,True,False
+lakshadweep::lakshadweep,Lakshadweep,Lakshadweep,False,unchanged_name_candidate,True,False
+madhyapradesh::agarmalwa,Madhya Pradesh,Agar Malwa,,changed_or_new_per_Harvard_Appendix_A,False,False
+madhyapradesh::alirajpur,Madhya Pradesh,Alirajpur,,unchanged_name_candidate,True,True
+madhyapradesh::anuppur,Madhya Pradesh,Anuppur,,unchanged_name_candidate,True,True
+madhyapradesh::ashoknagar,Madhya Pradesh,Ashoknagar,,unchanged_name_candidate,True,True
+madhyapradesh::balaghat,Madhya Pradesh,Balaghat,,unchanged_name_candidate,True,True
+madhyapradesh::barwani,Madhya Pradesh,Barwani,True,unchanged_name_candidate,True,True
+madhyapradesh::betul,Madhya Pradesh,Betul,,unchanged_name_candidate,True,True
+madhyapradesh::bhind,Madhya Pradesh,Bhind,,unchanged_name_candidate,True,True
+madhyapradesh::bhopal,Madhya Pradesh,Bhopal,,unchanged_name_candidate,True,True
+madhyapradesh::burhanpur,Madhya Pradesh,Burhanpur,,unchanged_name_candidate,True,True
+madhyapradesh::chhatarpur,Madhya Pradesh,Chhatarpur,True,unchanged_name_candidate,True,True
+madhyapradesh::chhindwara,Madhya Pradesh,Chhindwara,,unchanged_name_candidate,True,True
+madhyapradesh::damoh,Madhya Pradesh,Damoh,True,unchanged_name_candidate,True,True
+madhyapradesh::datia,Madhya Pradesh,Datia,,unchanged_name_candidate,True,True
+madhyapradesh::dewas,Madhya Pradesh,Dewas,,unchanged_name_candidate,True,True
+madhyapradesh::dhar,Madhya Pradesh,Dhar,,unchanged_name_candidate,True,True
+madhyapradesh::dindori,Madhya Pradesh,Dindori,,unchanged_name_candidate,True,True
+madhyapradesh::guna,Madhya Pradesh,Guna,True,unchanged_name_candidate,True,True
+madhyapradesh::gwalior,Madhya Pradesh,Gwalior,,unchanged_name_candidate,True,True
+madhyapradesh::harda,Madhya Pradesh,Harda,,unchanged_name_candidate,True,True
+madhyapradesh::hoshangabad,Madhya Pradesh,Hoshangabad,,unchanged_name_candidate,True,True
+madhyapradesh::indore,Madhya Pradesh,Indore,,unchanged_name_candidate,True,True
+madhyapradesh::jabalpur,Madhya Pradesh,Jabalpur,,unchanged_name_candidate,True,True
+madhyapradesh::jhabua,Madhya Pradesh,Jhabua,,unchanged_name_candidate,True,True
+madhyapradesh::katni,Madhya Pradesh,Katni,,unchanged_name_candidate,True,True
+madhyapradesh::khandwaeastnimar,Madhya Pradesh,Khandwa (East Nimar),,unchanged_name_candidate,True,True
+madhyapradesh::khargonewestnimar,Madhya Pradesh,Khargone (West Nimar),,unchanged_name_candidate,True,True
+madhyapradesh::mandla,Madhya Pradesh,Mandla,,unchanged_name_candidate,True,True
+madhyapradesh::mandsaur,Madhya Pradesh,Mandsaur,,unchanged_name_candidate,True,True
+madhyapradesh::morena,Madhya Pradesh,Morena,,unchanged_name_candidate,True,True
+madhyapradesh::narsimhapur,Madhya Pradesh,Narsimhapur,,unchanged_name_candidate,True,True
+madhyapradesh::neemuch,Madhya Pradesh,Neemuch,,unchanged_name_candidate,True,True
+madhyapradesh::panna,Madhya Pradesh,Panna,,unchanged_name_candidate,True,True
+madhyapradesh::raisen,Madhya Pradesh,Raisen,,unchanged_name_candidate,True,True
+madhyapradesh::rajgarh,Madhya Pradesh,Rajgarh,True,unchanged_name_candidate,True,True
+madhyapradesh::ratlam,Madhya Pradesh,Ratlam,,unchanged_name_candidate,True,True
+madhyapradesh::rewa,Madhya Pradesh,Rewa,,unchanged_name_candidate,True,True
+madhyapradesh::sagar,Madhya Pradesh,Sagar,,unchanged_name_candidate,True,True
+madhyapradesh::satna,Madhya Pradesh,Satna,,unchanged_name_candidate,True,True
+madhyapradesh::sehore,Madhya Pradesh,Sehore,,unchanged_name_candidate,True,True
+madhyapradesh::seoni,Madhya Pradesh,Seoni,,unchanged_name_candidate,True,True
+madhyapradesh::shahdol,Madhya Pradesh,Shahdol,,unchanged_name_candidate,True,True
+madhyapradesh::shajapur,Madhya Pradesh,Shajapur,,changed_or_new_per_Harvard_Appendix_A,False,False
+madhyapradesh::sheopur,Madhya Pradesh,Sheopur,,unchanged_name_candidate,True,True
+madhyapradesh::shivpuri,Madhya Pradesh,Shivpuri,,unchanged_name_candidate,True,True
+madhyapradesh::sidhi,Madhya Pradesh,Sidhi,,unchanged_name_candidate,True,True
+madhyapradesh::singrauli,Madhya Pradesh,Singrauli,True,unchanged_name_candidate,True,True
+madhyapradesh::tikamgarh,Madhya Pradesh,Tikamgarh,,unchanged_name_candidate,True,True
+madhyapradesh::ujjain,Madhya Pradesh,Ujjain,,unchanged_name_candidate,True,True
+madhyapradesh::umaria,Madhya Pradesh,Umaria,,unchanged_name_candidate,True,True
+madhyapradesh::vidisha,Madhya Pradesh,Vidisha,True,unchanged_name_candidate,True,True
+maharashtra::ahmadnagar,Maharashtra,Ahmadnagar,False,unchanged_name_candidate,True,False
+maharashtra::ahmednagar,Maharashtra,Ahmednagar,False,unchanged_name_candidate,True,False
+maharashtra::akola,Maharashtra,Akola,False,unchanged_name_candidate,True,True
+maharashtra::amravati,Maharashtra,Amravati,False,unchanged_name_candidate,True,True
+maharashtra::aurangabad,Maharashtra,Aurangabad,False,unchanged_name_candidate,True,True
+maharashtra::bhandara,Maharashtra,Bhandara,False,unchanged_name_candidate,True,True
+maharashtra::bid,Maharashtra,Bid,False,unchanged_name_candidate,True,True
+maharashtra::buldana,Maharashtra,Buldana,False,unchanged_name_candidate,True,False
+maharashtra::buldhana,Maharashtra,Buldhana,False,unchanged_name_candidate,True,False
+maharashtra::chandrapur,Maharashtra,Chandrapur,False,unchanged_name_candidate,True,True
+maharashtra::dhule,Maharashtra,Dhule,False,unchanged_name_candidate,True,True
+maharashtra::gadchiroli,Maharashtra,Gadchiroli,True,unchanged_name_candidate,True,True
+maharashtra::gondiya,Maharashtra,Gondiya,False,unchanged_name_candidate,True,True
+maharashtra::hingoli,Maharashtra,Hingoli,False,unchanged_name_candidate,True,True
+maharashtra::jalgaon,Maharashtra,Jalgaon,False,unchanged_name_candidate,True,True
+maharashtra::jalna,Maharashtra,Jalna,False,unchanged_name_candidate,True,True
+maharashtra::kolhapur,Maharashtra,Kolhapur,False,unchanged_name_candidate,True,True
+maharashtra::latur,Maharashtra,Latur,False,unchanged_name_candidate,True,True
+maharashtra::mumbai,Maharashtra,Mumbai,False,unchanged_name_candidate,True,True
+maharashtra::mumbaisuburban,Maharashtra,Mumbai Suburban,False,unchanged_name_candidate,True,True
+maharashtra::nagpur,Maharashtra,Nagpur,False,unchanged_name_candidate,True,True
+maharashtra::nanded,Maharashtra,Nanded,False,unchanged_name_candidate,True,True
+maharashtra::nandurbar,Maharashtra,Nandurbar,True,unchanged_name_candidate,True,True
+maharashtra::nashik,Maharashtra,Nashik,False,unchanged_name_candidate,True,True
+maharashtra::osmanabad,Maharashtra,Osmanabad,True,unchanged_name_candidate,True,True
+maharashtra::palghar,Maharashtra,Palghar,False,changed_or_new_per_Harvard_Appendix_A,False,False
+maharashtra::parbhani,Maharashtra,Parbhani,False,unchanged_name_candidate,True,True
+maharashtra::pune,Maharashtra,Pune,False,unchanged_name_candidate,True,True
+maharashtra::raigarh,Maharashtra,Raigarh,False,unchanged_name_candidate,True,True
+maharashtra::ratnagiri,Maharashtra,Ratnagiri,False,unchanged_name_candidate,True,True
+maharashtra::sangli,Maharashtra,Sangli,False,unchanged_name_candidate,True,True
+maharashtra::satara,Maharashtra,Satara,False,unchanged_name_candidate,True,True
+maharashtra::sindhudurg,Maharashtra,Sindhudurg,False,unchanged_name_candidate,True,True
+maharashtra::solapur,Maharashtra,Solapur,False,unchanged_name_candidate,True,True
+maharashtra::thane,Maharashtra,Thane,False,changed_or_new_per_Harvard_Appendix_A,False,False
+maharashtra::wardha,Maharashtra,Wardha,False,unchanged_name_candidate,True,True
+maharashtra::washim,Maharashtra,Washim,True,unchanged_name_candidate,True,True
+maharashtra::yavatmal,Maharashtra,Yavatmal,False,unchanged_name_candidate,True,True
+manipur::bishnupur,Manipur,Bishnupur,False,unchanged_name_candidate,True,True
+manipur::chandel,Manipur,Chandel,True,unchanged_name_candidate,True,True
+manipur::churachandpur,Manipur,Churachandpur,False,unchanged_name_candidate,True,True
+manipur::imphaleast,Manipur,Imphal East,False,unchanged_name_candidate,True,True
+manipur::imphalwest,Manipur,Imphal West,False,unchanged_name_candidate,True,True
+manipur::senapati,Manipur,Senapati,False,unchanged_name_candidate,True,True
+manipur::tamenglong,Manipur,Tamenglong,False,unchanged_name_candidate,True,True
+manipur::thoubal,Manipur,Thoubal,False,unchanged_name_candidate,True,True
+manipur::ukhrul,Manipur,Ukhrul,False,unchanged_name_candidate,True,True
+meghalaya::eastgarohills,Meghalaya,East Garo Hills,False,changed_or_new_per_Harvard_Appendix_A,False,False
+meghalaya::eastjantiahills,Meghalaya,East Jantia Hills,False,changed_or_new_per_Harvard_Appendix_A,False,False
+meghalaya::eastkhasihills,Meghalaya,East Khasi Hills,False,unchanged_name_candidate,True,True
+meghalaya::jaintiahills,Meghalaya,Jaintia Hills,False,unchanged_name_candidate,True,False
+meghalaya::northgarohills,Meghalaya,North Garo Hills,False,changed_or_new_per_Harvard_Appendix_A,False,False
+meghalaya::ribhoi,Meghalaya,Ribhoi,True,unchanged_name_candidate,True,True
+meghalaya::southgarohills,Meghalaya,South Garo Hills,False,unchanged_name_candidate,True,True
+meghalaya::southwestgarohills,Meghalaya,South West Garo Hills,False,changed_or_new_per_Harvard_Appendix_A,False,False
+meghalaya::southwestkhasihills,Meghalaya,South West Khasi Hills,False,changed_or_new_per_Harvard_Appendix_A,False,False
+meghalaya::westgarohills,Meghalaya,West Garo Hills,False,changed_or_new_per_Harvard_Appendix_A,False,False
+meghalaya::westjaintiahills,Meghalaya,West Jaintia Hills,False,changed_or_new_per_Harvard_Appendix_A,False,False
+meghalaya::westkhasihills,Meghalaya,West Khasi Hills,False,changed_or_new_per_Harvard_Appendix_A,False,False
+mizoram::aizawl,Mizoram,Aizawl,False,unchanged_name_candidate,True,True
+mizoram::champhai,Mizoram,Champhai,False,unchanged_name_candidate,True,True
+mizoram::chandel,Mizoram,Chandel,False,unchanged_name_candidate,True,False
+mizoram::kolasib,Mizoram,Kolasib,False,unchanged_name_candidate,True,True
+mizoram::lawngtlai,Mizoram,Lawngtlai,False,unchanged_name_candidate,True,True
+mizoram::lunglei,Mizoram,Lunglei,False,unchanged_name_candidate,True,True
+mizoram::mamit,Mizoram,Mamit,True,unchanged_name_candidate,True,True
+mizoram::saiha,Mizoram,Saiha,False,unchanged_name_candidate,True,False
+mizoram::serchhip,Mizoram,Serchhip,False,unchanged_name_candidate,True,True
+nagaland::dimapur,Nagaland,Dimapur,False,unchanged_name_candidate,True,True
+nagaland::kiphire,Nagaland,Kiphire,True,unchanged_name_candidate,True,True
+nagaland::kohima,Nagaland,Kohima,False,unchanged_name_candidate,True,True
+nagaland::longleng,Nagaland,Longleng,False,unchanged_name_candidate,True,True
+nagaland::mokokchung,Nagaland,Mokokchung,False,unchanged_name_candidate,True,True
+nagaland::mon,Nagaland,Mon,False,unchanged_name_candidate,True,True
+nagaland::peren,Nagaland,Peren,False,unchanged_name_candidate,True,True
+nagaland::phek,Nagaland,Phek,False,unchanged_name_candidate,True,True
+nagaland::tuensang,Nagaland,Tuensang,False,unchanged_name_candidate,True,True
+nagaland::wokha,Nagaland,Wokha,False,unchanged_name_candidate,True,True
+nagaland::zunheboto,Nagaland,Zunheboto,False,unchanged_name_candidate,True,True
+nctdelhi::central,NCT Delhi,Central,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::east,NCT Delhi,East,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::newdelhi,NCT Delhi,New Delhi,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::north,NCT Delhi,North,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::northeast,NCT Delhi,North East,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::northwest,NCT Delhi,North West,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::shahdara,NCT Delhi,Shahdara,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::south,NCT Delhi,South,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::southeast,NCT Delhi,South East,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::southwest,NCT Delhi,South West,False,changed_or_new_per_Harvard_Appendix_A,False,False
+nctdelhi::west,NCT Delhi,West,False,unchanged_name_candidate,True,True
+odisha::anugul,Odisha,Anugul,,unchanged_name_candidate,True,True
+odisha::balangir,Odisha,Balangir,True,unchanged_name_candidate,True,True
+odisha::baleshwar,Odisha,Baleshwar,,unchanged_name_candidate,True,True
+odisha::bargarh,Odisha,Bargarh,,unchanged_name_candidate,True,True
+odisha::baudh,Odisha,Baudh,,unchanged_name_candidate,True,True
+odisha::bhadrak,Odisha,Bhadrak,,unchanged_name_candidate,True,True
+odisha::cuttack,Odisha,Cuttack,,unchanged_name_candidate,True,True
+odisha::debagarh,Odisha,Debagarh,,unchanged_name_candidate,True,True
+odisha::dhenkanal,Odisha,Dhenkanal,True,unchanged_name_candidate,True,True
+odisha::gajapati,Odisha,Gajapati,True,unchanged_name_candidate,True,True
+odisha::ganjam,Odisha,Ganjam,,unchanged_name_candidate,True,True
+odisha::jagatsinghapur,Odisha,Jagatsinghapur,,unchanged_name_candidate,True,True
+odisha::jajapur,Odisha,Jajapur,,unchanged_name_candidate,True,True
+odisha::jharsuguda,Odisha,Jharsuguda,,unchanged_name_candidate,True,True
+odisha::kalahandi,Odisha,Kalahandi,True,unchanged_name_candidate,True,True
+odisha::kandhamal,Odisha,Kandhamal,True,unchanged_name_candidate,True,True
+odisha::kendrapara,Odisha,Kendrapara,,unchanged_name_candidate,True,True
+odisha::kendujhar,Odisha,Kendujhar,,unchanged_name_candidate,True,True
+odisha::khordha,Odisha,Khordha,,unchanged_name_candidate,True,True
+odisha::koraput,Odisha,Koraput,True,unchanged_name_candidate,True,True
+odisha::malkangiri,Odisha,Malkangiri,True,unchanged_name_candidate,True,True
+odisha::mayurbhanj,Odisha,Mayurbhanj,,unchanged_name_candidate,True,True
+odisha::nabarangapur,Odisha,Nabarangapur,,unchanged_name_candidate,True,True
+odisha::nayagarh,Odisha,Nayagarh,,unchanged_name_candidate,True,True
+odisha::nuapada,Odisha,Nuapada,True,unchanged_name_candidate,True,True
+odisha::puri,Odisha,Puri,,unchanged_name_candidate,True,True
+odisha::rayagada,Odisha,Rayagada,True,unchanged_name_candidate,True,True
+odisha::sambalpur,Odisha,Sambalpur,,unchanged_name_candidate,True,True
+odisha::subarnapur,Odisha,Subarnapur,,unchanged_name_candidate,True,True
+odisha::sundargarh,Odisha,Sundargarh,,unchanged_name_candidate,True,True
+puducherry::karaikal,Puducherry,Karaikal,False,unchanged_name_candidate,True,True
+puducherry::mahe,Puducherry,Mahe,False,unchanged_name_candidate,True,True
+puducherry::puducherry,Puducherry,Puducherry,False,unchanged_name_candidate,True,True
+puducherry::yanam,Puducherry,Yanam,False,unchanged_name_candidate,True,True
+punjab::amritsar,Punjab,Amritsar,False,unchanged_name_candidate,True,True
+punjab::barnala,Punjab,Barnala,False,unchanged_name_candidate,True,True
+punjab::bathinda,Punjab,Bathinda,False,unchanged_name_candidate,True,True
+punjab::faridkot,Punjab,Faridkot,False,unchanged_name_candidate,True,True
+punjab::fatehgarhsahib,Punjab,Fatehgarh Sahib,False,unchanged_name_candidate,True,True
+punjab::fazilka,Punjab,Fazilka,False,changed_or_new_per_Harvard_Appendix_A,False,False
+punjab::firozpur,Punjab,Firozpur,True,unchanged_name_candidate,True,True
+punjab::gurdaspur,Punjab,Gurdaspur,False,changed_or_new_per_Harvard_Appendix_A,False,False
+punjab::hoshiarpur,Punjab,Hoshiarpur,False,unchanged_name_candidate,True,True
+punjab::jalandhar,Punjab,Jalandhar,False,unchanged_name_candidate,True,True
+punjab::kapurthala,Punjab,Kapurthala,False,unchanged_name_candidate,True,True
+punjab::ludhiana,Punjab,Ludhiana,False,unchanged_name_candidate,True,True
+punjab::mansa,Punjab,Mansa,False,unchanged_name_candidate,True,True
+punjab::moga,Punjab,Moga,True,unchanged_name_candidate,True,True
+punjab::muktsar,Punjab,Muktsar,False,unchanged_name_candidate,True,True
+punjab::pathankot,Punjab,Pathankot,False,changed_or_new_per_Harvard_Appendix_A,False,False
+punjab::patiala,Punjab,Patiala,False,unchanged_name_candidate,True,True
+punjab::rupnagar,Punjab,Rup Nagar,False,unchanged_name_candidate,True,True
+punjab::sahibzadaajitsinghnagar,Punjab,Sahibzada Ajit Singh Nagar,False,unchanged_name_candidate,True,True
+punjab::sahidbhagatsinghnagar,Punjab,Sahid Bhagat Singh Nagar,False,unchanged_name_candidate,True,False
+punjab::sangrur,Punjab,Sangrur,False,unchanged_name_candidate,True,True
+punjab::shahidbhagatsinghnagar,Punjab,Shahid Bhagat Singh Nagar,False,unchanged_name_candidate,True,False
+punjab::tarntaran,Punjab,Tarn Taran,False,unchanged_name_candidate,True,True
+rajasthan::ajmer,Rajasthan,Ajmer,,unchanged_name_candidate,True,True
+rajasthan::alwar,Rajasthan,Alwar,,unchanged_name_candidate,True,True
+rajasthan::banswara,Rajasthan,Banswara,,unchanged_name_candidate,True,True
+rajasthan::baran,Rajasthan,Baran,True,unchanged_name_candidate,True,True
+rajasthan::barmer,Rajasthan,Barmer,,unchanged_name_candidate,True,True
+rajasthan::bharatpur,Rajasthan,Bharatpur,,unchanged_name_candidate,True,True
+rajasthan::bhilwara,Rajasthan,Bhilwara,,unchanged_name_candidate,True,True
+rajasthan::bikaner,Rajasthan,Bikaner,,unchanged_name_candidate,True,True
+rajasthan::bundi,Rajasthan,Bundi,,unchanged_name_candidate,True,True
+rajasthan::chittaurgarh,Rajasthan,Chittaurgarh,,unchanged_name_candidate,True,True
+rajasthan::churu,Rajasthan,Churu,,unchanged_name_candidate,True,True
+rajasthan::dausa,Rajasthan,Dausa,,unchanged_name_candidate,True,True
+rajasthan::dhaulpur,Rajasthan,Dhaulpur,,unchanged_name_candidate,True,True
+rajasthan::dungarpur,Rajasthan,Dungarpur,,unchanged_name_candidate,True,True
+rajasthan::ganganagar,Rajasthan,Ganganagar,,unchanged_name_candidate,True,True
+rajasthan::hanumangarh,Rajasthan,Hanumangarh,,unchanged_name_candidate,True,True
+rajasthan::jaipur,Rajasthan,Jaipur,,unchanged_name_candidate,True,True
+rajasthan::jaisalmer,Rajasthan,Jaisalmer,True,unchanged_name_candidate,True,True
+rajasthan::jalor,Rajasthan,Jalor,,unchanged_name_candidate,True,True
+rajasthan::jhalawar,Rajasthan,Jhalawar,,unchanged_name_candidate,True,True
+rajasthan::jhunjhunun,Rajasthan,Jhunjhunun,,unchanged_name_candidate,True,True
+rajasthan::jodhpur,Rajasthan,Jodhpur,,unchanged_name_candidate,True,True
+rajasthan::karauli,Rajasthan,Karauli,True,unchanged_name_candidate,True,True
+rajasthan::kota,Rajasthan,Kota,,unchanged_name_candidate,True,True
+rajasthan::nagaur,Rajasthan,Nagaur,,unchanged_name_candidate,True,True
+rajasthan::pali,Rajasthan,Pali,,unchanged_name_candidate,True,True
+rajasthan::pratapgarh,Rajasthan,Pratapgarh,,unchanged_name_candidate,True,True
+rajasthan::rajsamand,Rajasthan,Rajsamand,,unchanged_name_candidate,True,True
+rajasthan::sawaimadhopur,Rajasthan,Sawai Madhopur,,unchanged_name_candidate,True,True
+rajasthan::sikar,Rajasthan,Sikar,,unchanged_name_candidate,True,True
+rajasthan::sirohi,Rajasthan,Sirohi,True,unchanged_name_candidate,True,True
+rajasthan::tonk,Rajasthan,Tonk,,unchanged_name_candidate,True,True
+rajasthan::udaipur,Rajasthan,Udaipur,,unchanged_name_candidate,True,True
+sikkim::eastdistrict,Sikkim,East District,,unchanged_name_candidate,True,True
+sikkim::northdistrict,Sikkim,North District,,unchanged_name_candidate,True,True
+sikkim::southdistrict,Sikkim,South District,,unchanged_name_candidate,True,True
+sikkim::westdistrict,Sikkim,West District,,unchanged_name_candidate,True,True
+tamilnadu::ariyalur,Tamil Nadu,Ariyalur,False,unchanged_name_candidate,True,True
+tamilnadu::chennai,Tamil Nadu,Chennai,False,unchanged_name_candidate,True,True
+tamilnadu::coimbatore,Tamil Nadu,Coimbatore,False,unchanged_name_candidate,True,True
+tamilnadu::cuddalore,Tamil Nadu,Cuddalore,False,unchanged_name_candidate,True,True
+tamilnadu::dharmapuri,Tamil Nadu,Dharmapuri,False,unchanged_name_candidate,True,True
+tamilnadu::dindigul,Tamil Nadu,Dindigul,False,unchanged_name_candidate,True,True
+tamilnadu::erode,Tamil Nadu,Erode,False,unchanged_name_candidate,True,True
+tamilnadu::kancheepuram,Tamil Nadu,Kancheepuram,False,unchanged_name_candidate,True,True
+tamilnadu::kanniyakumari,Tamil Nadu,Kanniyakumari,False,unchanged_name_candidate,True,True
+tamilnadu::karur,Tamil Nadu,Karur,False,unchanged_name_candidate,True,True
+tamilnadu::krishnagiri,Tamil Nadu,Krishnagiri,False,unchanged_name_candidate,True,True
+tamilnadu::madurai,Tamil Nadu,Madurai,False,unchanged_name_candidate,True,True
+tamilnadu::nagapattinam,Tamil Nadu,Nagapattinam,False,unchanged_name_candidate,True,True
+tamilnadu::namakkal,Tamil Nadu,Namakkal,False,unchanged_name_candidate,True,True
+tamilnadu::perambalur,Tamil Nadu,Perambalur,False,unchanged_name_candidate,True,True
+tamilnadu::pudukkottai,Tamil Nadu,Pudukkottai,False,unchanged_name_candidate,True,True
+tamilnadu::ramanathapuram,Tamil Nadu,Ramanathapuram,True,unchanged_name_candidate,True,True
+tamilnadu::salem,Tamil Nadu,Salem,False,unchanged_name_candidate,True,True
+tamilnadu::sivaganga,Tamil Nadu,Sivaganga,False,unchanged_name_candidate,True,True
+tamilnadu::thanjavur,Tamil Nadu,Thanjavur,False,unchanged_name_candidate,True,True
+tamilnadu::theni,Tamil Nadu,Theni,False,unchanged_name_candidate,True,True
+tamilnadu::thenilgiris,Tamil Nadu,The Nilgiris,False,unchanged_name_candidate,True,True
+tamilnadu::thiruvallur,Tamil Nadu,Thiruvallur,False,unchanged_name_candidate,True,True
+tamilnadu::thiruvarur,Tamil Nadu,Thiruvarur,False,unchanged_name_candidate,True,True
+tamilnadu::thoothukkudi,Tamil Nadu,Thoothukkudi,False,unchanged_name_candidate,True,True
+tamilnadu::tiruchirappalli,Tamil Nadu,Tiruchirappalli,False,unchanged_name_candidate,True,True
+tamilnadu::tirunelveli,Tamil Nadu,Tirunelveli,False,unchanged_name_candidate,True,True
+tamilnadu::tiruppur,Tamil Nadu,Tiruppur,False,unchanged_name_candidate,True,True
+tamilnadu::tiruvannamalai,Tamil Nadu,Tiruvannamalai,False,unchanged_name_candidate,True,True
+tamilnadu::vellore,Tamil Nadu,Vellore,False,unchanged_name_candidate,True,True
+tamilnadu::viluppuram,Tamil Nadu,Viluppuram,False,unchanged_name_candidate,True,True
+tamilnadu::virudhunagar,Tamil Nadu,Virudhunagar,True,unchanged_name_candidate,True,True
+telangana::adilabad,Telangana,Adilabad,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::bhadradrikothagudem,Telangana,Bhadradri Kothagudem,True,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::hyderabad,Telangana,Hyderabad,,unchanged_name_candidate,True,True
+telangana::jagitial,Telangana,Jagitial,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::jangoan,Telangana,Jangoan,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::jayashankarbhupalapally,Telangana,Jayashankar Bhupalapally,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::jogulambagadwal,Telangana,Jogulamba Gadwal,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::kamareddy,Telangana,Kamareddy,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::karimnagar,Telangana,Karimnagar,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::khammam,Telangana,Khammam,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::komarambheemasifabad,Telangana,Komaram Bheem Asifabad,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::mahabubabad,Telangana,Mahabubabad,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::mahabubnagar,Telangana,Mahabubnagar,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::mahbubnagar,Telangana,Mahbubnagar,,unchanged_name_candidate,True,False
+telangana::mancherial,Telangana,Mancherial,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::medak,Telangana,Medak,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::medchalmalkajgiri,Telangana,Medchal-Malkajgiri,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::nagarkurnool,Telangana,Nagarkurnool,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::nalgonda,Telangana,Nalgonda,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::nirmal,Telangana,Nirmal,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::nizamabad,Telangana,Nizamabad,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::peddapalli,Telangana,Peddapalli,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::rajannasircilla,Telangana,Rajanna Sircilla,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::rangareddy,Telangana,Rangareddy,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::sangareddy,Telangana,Sangareddy,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::siddipet,Telangana,Siddipet,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::suryapet,Telangana,Suryapet,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::vikarabad,Telangana,Vikarabad,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::wanaparthy,Telangana,Wanaparthy,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::warangal,Telangana,Warangal,,unchanged_name_candidate,True,False
+telangana::warangalrural,Telangana,Warangal Rural,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::warangalurban,Telangana,Warangal Urban,,changed_or_new_per_Harvard_Appendix_A,False,False
+telangana::yadadribhuvanagiri,Telangana,Yadadri Bhuvanagiri,,changed_or_new_per_Harvard_Appendix_A,False,False
+tripura::dhalai,Tripura,Dhalai,True,unchanged_name_candidate,True,True
+tripura::gomati,Tripura,Gomati,False,changed_or_new_per_Harvard_Appendix_A,False,False
+tripura::khowai,Tripura,Khowai,False,changed_or_new_per_Harvard_Appendix_A,False,False
+tripura::northtripura,Tripura,North Tripura,False,changed_or_new_per_Harvard_Appendix_A,False,False
+tripura::sepahijala,Tripura,Sepahijala,False,changed_or_new_per_Harvard_Appendix_A,False,False
+tripura::southtripura,Tripura,South Tripura,False,changed_or_new_per_Harvard_Appendix_A,False,False
+tripura::unakoti,Tripura,Unakoti,False,changed_or_new_per_Harvard_Appendix_A,False,False
+tripura::westtripura,Tripura,West Tripura,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarakhand::almora,Uttarakhand,Almora,,unchanged_name_candidate,True,True
+uttarakhand::bageshwar,Uttarakhand,Bageshwar,,unchanged_name_candidate,True,True
+uttarakhand::chamoli,Uttarakhand,Chamoli,,unchanged_name_candidate,True,True
+uttarakhand::champawat,Uttarakhand,Champawat,,unchanged_name_candidate,True,True
+uttarakhand::dehradun,Uttarakhand,Dehradun,,unchanged_name_candidate,True,True
+uttarakhand::garhwal,Uttarakhand,Garhwal,,unchanged_name_candidate,True,True
+uttarakhand::hardwar,Uttarakhand,Hardwar,,unchanged_name_candidate,True,True
+uttarakhand::nainital,Uttarakhand,Nainital,,unchanged_name_candidate,True,True
+uttarakhand::pithoragarh,Uttarakhand,Pithoragarh,,unchanged_name_candidate,True,True
+uttarakhand::rudraprayag,Uttarakhand,Rudraprayag,,unchanged_name_candidate,True,True
+uttarakhand::tehrigarhwal,Uttarakhand,Tehri Garhwal,,unchanged_name_candidate,True,True
+uttarakhand::udhamsinghnagar,Uttarakhand,Udham Singh Nagar,True,unchanged_name_candidate,True,True
+uttarakhand::uttarkashi,Uttarakhand,Uttarkashi,,unchanged_name_candidate,True,True
+uttarpradesh::agra,Uttar Pradesh,Agra,False,unchanged_name_candidate,True,True
+uttarpradesh::aligarh,Uttar Pradesh,Aligarh,False,unchanged_name_candidate,True,True
+uttarpradesh::allahabad,Uttar Pradesh,Allahabad,False,unchanged_name_candidate,True,True
+uttarpradesh::ambedkarnagar,Uttar Pradesh,Ambedkar Nagar,False,unchanged_name_candidate,True,True
+uttarpradesh::amethi,Uttar Pradesh,Amethi,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::auraiya,Uttar Pradesh,Auraiya,False,unchanged_name_candidate,True,True
+uttarpradesh::azamgarh,Uttar Pradesh,Azamgarh,False,unchanged_name_candidate,True,True
+uttarpradesh::baghpat,Uttar Pradesh,Baghpat,False,unchanged_name_candidate,True,True
+uttarpradesh::bahraich,Uttar Pradesh,Bahraich,True,unchanged_name_candidate,True,True
+uttarpradesh::ballia,Uttar Pradesh,Ballia,False,unchanged_name_candidate,True,True
+uttarpradesh::balrampur,Uttar Pradesh,Balrampur,True,unchanged_name_candidate,True,True
+uttarpradesh::banda,Uttar Pradesh,Banda,False,unchanged_name_candidate,True,True
+uttarpradesh::barabanki,Uttar Pradesh,Bara Banki,False,unchanged_name_candidate,True,True
+uttarpradesh::bareilly,Uttar Pradesh,Bareilly,False,unchanged_name_candidate,True,True
+uttarpradesh::basti,Uttar Pradesh,Basti,False,unchanged_name_candidate,True,True
+uttarpradesh::bijnor,Uttar Pradesh,Bijnor,False,unchanged_name_candidate,True,True
+uttarpradesh::budaun,Uttar Pradesh,Budaun,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::bulandshahr,Uttar Pradesh,Bulandshahr,False,unchanged_name_candidate,True,True
+uttarpradesh::chandauli,Uttar Pradesh,Chandauli,True,unchanged_name_candidate,True,True
+uttarpradesh::chitrakoot,Uttar Pradesh,Chitrakoot,True,unchanged_name_candidate,True,True
+uttarpradesh::deoria,Uttar Pradesh,Deoria,False,unchanged_name_candidate,True,True
+uttarpradesh::etah,Uttar Pradesh,Etah,False,unchanged_name_candidate,True,True
+uttarpradesh::etawah,Uttar Pradesh,Etawah,False,unchanged_name_candidate,True,True
+uttarpradesh::faizabad,Uttar Pradesh,Faizabad,False,unchanged_name_candidate,True,True
+uttarpradesh::farrukhabad,Uttar Pradesh,Farrukhabad,False,unchanged_name_candidate,True,True
+uttarpradesh::fatehpur,Uttar Pradesh,Fatehpur,True,unchanged_name_candidate,True,True
+uttarpradesh::firozabad,Uttar Pradesh,Firozabad,False,unchanged_name_candidate,True,True
+uttarpradesh::gautambuddhanagar,Uttar Pradesh,Gautam Buddha Nagar,False,unchanged_name_candidate,True,True
+uttarpradesh::ghaziabad,Uttar Pradesh,Ghaziabad,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::ghazipur,Uttar Pradesh,Ghazipur,False,unchanged_name_candidate,True,True
+uttarpradesh::gonda,Uttar Pradesh,Gonda,False,unchanged_name_candidate,True,True
+uttarpradesh::gorakhpur,Uttar Pradesh,Gorakhpur,False,unchanged_name_candidate,True,True
+uttarpradesh::hamirpur,Uttar Pradesh,Hamirpur,False,unchanged_name_candidate,True,True
+uttarpradesh::hapur,Uttar Pradesh,Hapur,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::hardoi,Uttar Pradesh,Hardoi,False,unchanged_name_candidate,True,True
+uttarpradesh::jalaun,Uttar Pradesh,Jalaun,False,unchanged_name_candidate,True,True
+uttarpradesh::jaunpur,Uttar Pradesh,Jaunpur,False,unchanged_name_candidate,True,True
+uttarpradesh::jhansi,Uttar Pradesh,Jhansi,False,unchanged_name_candidate,True,True
+uttarpradesh::jyotibaphulenagar,Uttar Pradesh,Jyotiba Phule Nagar,False,unchanged_name_candidate,True,True
+uttarpradesh::kannauj,Uttar Pradesh,Kannauj,False,unchanged_name_candidate,True,True
+uttarpradesh::kanpurdehat,Uttar Pradesh,Kanpur Dehat,False,unchanged_name_candidate,True,True
+uttarpradesh::kanpurnagar,Uttar Pradesh,Kanpur Nagar,False,unchanged_name_candidate,True,True
+uttarpradesh::kanshiramnagar,Uttar Pradesh,Kanshiram Nagar,False,unchanged_name_candidate,True,True
+uttarpradesh::kaushambi,Uttar Pradesh,Kaushambi,False,unchanged_name_candidate,True,True
+uttarpradesh::kheri,Uttar Pradesh,Kheri,False,unchanged_name_candidate,True,True
+uttarpradesh::kushinagar,Uttar Pradesh,Kushinagar,False,unchanged_name_candidate,True,True
+uttarpradesh::lalitpur,Uttar Pradesh,Lalitpur,False,unchanged_name_candidate,True,True
+uttarpradesh::lucknow,Uttar Pradesh,Lucknow,False,unchanged_name_candidate,True,True
+uttarpradesh::mahamayanagar,Uttar Pradesh,Mahamaya Nagar,False,unchanged_name_candidate,True,True
+uttarpradesh::maharajganj,Uttar Pradesh,Maharajganj,False,unchanged_name_candidate,True,False
+uttarpradesh::mahoba,Uttar Pradesh,Mahoba,False,unchanged_name_candidate,True,True
+uttarpradesh::mahrajganj,Uttar Pradesh,Mahrajganj,False,unchanged_name_candidate,True,False
+uttarpradesh::mainpuri,Uttar Pradesh,Mainpuri,False,unchanged_name_candidate,True,True
+uttarpradesh::mathura,Uttar Pradesh,Mathura,False,unchanged_name_candidate,True,True
+uttarpradesh::mau,Uttar Pradesh,Mau,False,unchanged_name_candidate,True,True
+uttarpradesh::meerut,Uttar Pradesh,Meerut,False,unchanged_name_candidate,True,True
+uttarpradesh::mirzapur,Uttar Pradesh,Mirzapur,False,unchanged_name_candidate,True,True
+uttarpradesh::moradabad,Uttar Pradesh,Moradabad,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::muzaffarnagar,Uttar Pradesh,Muzaffarnagar,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::pilibhit,Uttar Pradesh,Pilibhit,False,unchanged_name_candidate,True,True
+uttarpradesh::pratapgarh,Uttar Pradesh,Pratapgarh,False,unchanged_name_candidate,True,True
+uttarpradesh::raebareli,Uttar Pradesh,Rae Bareli,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::rampur,Uttar Pradesh,Rampur,False,unchanged_name_candidate,True,True
+uttarpradesh::saharanpur,Uttar Pradesh,Saharanpur,False,unchanged_name_candidate,True,True
+uttarpradesh::sambhal,Uttar Pradesh,Sambhal,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::santkabirnagar,Uttar Pradesh,Sant Kabir Nagar,False,unchanged_name_candidate,True,True
+uttarpradesh::santravidasnagar,Uttar Pradesh,Sant Ravidas Nagar,False,unchanged_name_candidate,True,False
+uttarpradesh::santravidasnagarbhadohi,Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),False,unchanged_name_candidate,True,False
+uttarpradesh::shahjahanpur,Uttar Pradesh,Shahjahanpur,False,unchanged_name_candidate,True,True
+uttarpradesh::shamli,Uttar Pradesh,Shamli,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::shrawasti,Uttar Pradesh,Shrawasti,True,unchanged_name_candidate,True,True
+uttarpradesh::siddharthnagar,Uttar Pradesh,Siddharthnagar,True,unchanged_name_candidate,True,True
+uttarpradesh::sitapur,Uttar Pradesh,Sitapur,False,unchanged_name_candidate,True,True
+uttarpradesh::sonbhadra,Uttar Pradesh,Sonbhadra,True,unchanged_name_candidate,True,True
+uttarpradesh::sultanpur,Uttar Pradesh,Sultanpur,False,changed_or_new_per_Harvard_Appendix_A,False,False
+uttarpradesh::unnao,Uttar Pradesh,Unnao,False,unchanged_name_candidate,True,True
+uttarpradesh::varanasi,Uttar Pradesh,Varanasi,False,unchanged_name_candidate,True,True
+westbengal::bankura,West Bengal,Bankura,False,unchanged_name_candidate,True,True
+westbengal::barddhaman,West Bengal,Barddhaman,False,unchanged_name_candidate,True,False
+westbengal::birbhum,West Bengal,Birbhum,False,unchanged_name_candidate,True,True
+westbengal::dakshindinajpur,West Bengal,Dakshin Dinajpur,False,unchanged_name_candidate,True,True
+westbengal::darjiling,West Bengal,Darjiling,False,unchanged_name_candidate,True,True
+westbengal::haora,West Bengal,Haora,False,unchanged_name_candidate,True,True
+westbengal::hugli,West Bengal,Hugli,False,unchanged_name_candidate,True,True
+westbengal::jalpaiguri,West Bengal,Jalpaiguri,False,unchanged_name_candidate,True,True
+westbengal::kochbihar,West Bengal,Koch Bihar,False,unchanged_name_candidate,True,True
+westbengal::kolkata,West Bengal,Kolkata,False,unchanged_name_candidate,True,True
+westbengal::maldah,West Bengal,Maldah,False,unchanged_name_candidate,True,True
+westbengal::murshidabad,West Bengal,Murshidabad,False,unchanged_name_candidate,True,True
+westbengal::nadia,West Bengal,Nadia,False,unchanged_name_candidate,True,True
+westbengal::northtwentyfourpargana,West Bengal,North Twenty Four Pargana,False,unchanged_name_candidate,True,False
+westbengal::northtwentyfourparganas,West Bengal,North Twenty Four Parganas,False,unchanged_name_candidate,True,False
+westbengal::paschimbarddhaman,West Bengal,Paschim Barddhaman,False,changed_or_new_per_Harvard_Appendix_A,False,False
+westbengal::paschimmedinipur,West Bengal,Paschim Medinipur,False,unchanged_name_candidate,True,True
+westbengal::purbabarddhaman,West Bengal,Purba Barddhaman,False,changed_or_new_per_Harvard_Appendix_A,False,False
+westbengal::purbamedinipur,West Bengal,Purba Medinipur,False,unchanged_name_candidate,True,True
+westbengal::puruliya,West Bengal,Puruliya,False,unchanged_name_candidate,True,True
+westbengal::southtwentyfourpargana,West Bengal,South Twenty Four Pargana,False,unchanged_name_candidate,True,False
+westbengal::southtwentyfourparganas,West Bengal,South Twenty Four Parganas,False,unchanged_name_candidate,True,False
+westbengal::uttardinajpur,West Bengal,Uttar Dinajpur,False,unchanged_name_candidate,True,True
