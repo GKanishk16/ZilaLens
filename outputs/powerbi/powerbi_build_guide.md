@@ -35,4 +35,4 @@
 2. Aspirational Districts Comparison: descriptive changes and matched baseline subgroup; label as non-causal.
 3. Uttar Pradesh Deep Dive: district ranks, Ghaziabad/Gautam Buddha Nagar callouts, state/national reference lines.
 
-NFHS-5-dependent measures are blank until the official workbook is added. `Index Score` remains blank until the two-round financial and empowerment indicators support index construction.
+Four-indicator NFHS-4/NFHS-5 comparisons are available. Changed/new geographies are excluded from direct comparison. `Index Score` remains blank because both factsheet sources lack bank-use/mobile-use indicators.

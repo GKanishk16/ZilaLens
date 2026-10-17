@@ -1,44 +1,44 @@
 district_id,state,district,aspirational_flag
-jammu and kashmir::kupwara,Jammu & Kashmir,Kupwara,True
-jammu and kashmir::badgam,Jammu & Kashmir,Badgam,
-jammu and kashmir::leh(ladakh),Jammu & Kashmir,Leh(Ladakh),
-jammu and kashmir::kargil,Jammu & Kashmir,Kargil,
-jammu and kashmir::punch,Jammu & Kashmir,Punch,
-jammu and kashmir::rajouri,Jammu & Kashmir,Rajouri,
-jammu and kashmir::kathua,Jammu & Kashmir,Kathua,
-jammu and kashmir::baramula,Jammu & Kashmir,Baramula,
-jammu and kashmir::bandipore,Jammu & Kashmir,Bandipore,
-jammu and kashmir::srinagar,Jammu & Kashmir,Srinagar,
-jammu and kashmir::ganderbal,Jammu & Kashmir,Ganderbal,
-jammu and kashmir::pulwama,Jammu & Kashmir,Pulwama,
-jammu and kashmir::shupiyan,Jammu & Kashmir,Shupiyan,
-jammu and kashmir::anantnag,Jammu & Kashmir,Anantnag,
-jammu and kashmir::kulgam,Jammu & Kashmir,Kulgam,
-jammu and kashmir::doda,Jammu & Kashmir,Doda,
-jammu and kashmir::ramban,Jammu & Kashmir,Ramban,
-jammu and kashmir::kishtwar,Jammu & Kashmir,Kishtwar,
-jammu and kashmir::udhampur,Jammu & Kashmir,Udhampur,
-jammu and kashmir::reasi,Jammu & Kashmir,Reasi,
-jammu and kashmir::jammu,Jammu & Kashmir,Jammu,
-jammu and kashmir::samba,Jammu & Kashmir,Samba,
-himachal pradesh::chamba,Himachal Pradesh,Chamba,True
-himachal pradesh::kangra,Himachal Pradesh,Kangra,False
-himachal pradesh::lahul and spiti,Himachal Pradesh,Lahul and Spiti,False
-himachal pradesh::kullu,Himachal Pradesh,Kullu,False
-himachal pradesh::mandi,Himachal Pradesh,Mandi,False
-himachal pradesh::hamirpur,Himachal Pradesh,Hamirpur,False
-himachal pradesh::una,Himachal Pradesh,Una,False
-himachal pradesh::bilaspur,Himachal Pradesh,Bilaspur,False
-himachal pradesh::solan,Himachal Pradesh,Solan,False
-himachal pradesh::sirmaur,Himachal Pradesh,Sirmaur,False
-himachal pradesh::shimla,Himachal Pradesh,Shimla,False
-himachal pradesh::kinnaur,Himachal Pradesh,Kinnaur,False
+jammukashmir::kupwara,Jammu & Kashmir,Kupwara,True
+jammukashmir::badgam,Jammu & Kashmir,Badgam,
+jammukashmir::lehladakh,Jammu & Kashmir,Leh(Ladakh),
+jammukashmir::kargil,Jammu & Kashmir,Kargil,
+jammukashmir::punch,Jammu & Kashmir,Punch,
+jammukashmir::rajouri,Jammu & Kashmir,Rajouri,
+jammukashmir::kathua,Jammu & Kashmir,Kathua,
+jammukashmir::baramula,Jammu & Kashmir,Baramula,
+jammukashmir::bandipore,Jammu & Kashmir,Bandipore,
+jammukashmir::srinagar,Jammu & Kashmir,Srinagar,
+jammukashmir::ganderbal,Jammu & Kashmir,Ganderbal,
+jammukashmir::pulwama,Jammu & Kashmir,Pulwama,
+jammukashmir::shupiyan,Jammu & Kashmir,Shupiyan,
+jammukashmir::anantnag,Jammu & Kashmir,Anantnag,
+jammukashmir::kulgam,Jammu & Kashmir,Kulgam,
+jammukashmir::doda,Jammu & Kashmir,Doda,
+jammukashmir::ramban,Jammu & Kashmir,Ramban,
+jammukashmir::kishtwar,Jammu & Kashmir,Kishtwar,
+jammukashmir::udhampur,Jammu & Kashmir,Udhampur,
+jammukashmir::reasi,Jammu & Kashmir,Reasi,
+jammukashmir::jammu,Jammu & Kashmir,Jammu,
+jammukashmir::samba,Jammu & Kashmir,Samba,
+himachalpradesh::chamba,Himachal Pradesh,Chamba,True
+himachalpradesh::kangra,Himachal Pradesh,Kangra,False
+himachalpradesh::lahulandspiti,Himachal Pradesh,Lahul and Spiti,False
+himachalpradesh::kullu,Himachal Pradesh,Kullu,False
+himachalpradesh::mandi,Himachal Pradesh,Mandi,False
+himachalpradesh::hamirpur,Himachal Pradesh,Hamirpur,False
+himachalpradesh::una,Himachal Pradesh,Una,False
+himachalpradesh::bilaspur,Himachal Pradesh,Bilaspur,False
+himachalpradesh::solan,Himachal Pradesh,Solan,False
+himachalpradesh::sirmaur,Himachal Pradesh,Sirmaur,False
+himachalpradesh::shimla,Himachal Pradesh,Shimla,False
+himachalpradesh::kinnaur,Himachal Pradesh,Kinnaur,False
 punjab::gurdaspur,Punjab,Gurdaspur,False
 punjab::kapurthala,Punjab,Kapurthala,False
 punjab::jalandhar,Punjab,Jalandhar,False
 punjab::hoshiarpur,Punjab,Hoshiarpur,False
-punjab::sahid bhagat singh nagar,Punjab,Sahid Bhagat Singh Nagar,False
-punjab::fatehgarh sahib,Punjab,Fatehgarh Sahib,False
+punjab::sahidbhagatsinghnagar,Punjab,Sahid Bhagat Singh Nagar,False
+punjab::fatehgarhsahib,Punjab,Fatehgarh Sahib,False
 punjab::ludhiana,Punjab,Ludhiana,False
 punjab::moga,Punjab,Moga,True
 punjab::firozpur,Punjab,Firozpur,True
@@ -48,15 +48,15 @@ punjab::bathinda,Punjab,Bathinda,False
 punjab::mansa,Punjab,Mansa,False
 punjab::patiala,Punjab,Patiala,False
 punjab::amritsar,Punjab,Amritsar,False
-punjab::tarn taran,Punjab,Tarn Taran,False
-punjab::rup nagar,Punjab,Rup Nagar,False
-punjab::sahibzada ajit singh nagar,Punjab,Sahibzada Ajit Singh Nagar,False
+punjab::tarntaran,Punjab,Tarn Taran,False
+punjab::rupnagar,Punjab,Rup Nagar,False
+punjab::sahibzadaajitsinghnagar,Punjab,Sahibzada Ajit Singh Nagar,False
 punjab::sangrur,Punjab,Sangrur,False
 punjab::barnala,Punjab,Barnala,False
 uttarakhand::uttarkashi,Uttarakhand,Uttarkashi,
 uttarakhand::chamoli,Uttarakhand,Chamoli,
 uttarakhand::rudraprayag,Uttarakhand,Rudraprayag,
-uttarakhand::tehri garhwal,Uttarakhand,Tehri Garhwal,
+uttarakhand::tehrigarhwal,Uttarakhand,Tehri Garhwal,
 uttarakhand::dehradun,Uttarakhand,Dehradun,
 uttarakhand::garhwal,Uttarakhand,Garhwal,
 uttarakhand::pithoragarh,Uttarakhand,Pithoragarh,
@@ -64,7 +64,7 @@ uttarakhand::bageshwar,Uttarakhand,Bageshwar,
 uttarakhand::almora,Uttarakhand,Almora,
 uttarakhand::champawat,Uttarakhand,Champawat,
 uttarakhand::nainital,Uttarakhand,Nainital,
-uttarakhand::udham singh nagar,Uttarakhand,Udham Singh Nagar,True
+uttarakhand::udhamsinghnagar,Uttarakhand,Udham Singh Nagar,True
 uttarakhand::hardwar,Uttarakhand,Hardwar,
 haryana::panchkula,Haryana,Panchkula,False
 haryana::ambala,Haryana,Ambala,False
@@ -87,15 +87,15 @@ haryana::gurgaon,Haryana,Gurgaon,False
 haryana::mewat,Haryana,Mewat,True
 haryana::faridabad,Haryana,Faridabad,False
 haryana::palwal,Haryana,Palwal,False
-nct delhi::north west,NCT Delhi,North West,False
-nct delhi::north,NCT Delhi,North,False
-nct delhi::north east,NCT Delhi,North East,False
-nct delhi::east,NCT Delhi,East,False
-nct delhi::new delhi,NCT Delhi,New Delhi,False
-nct delhi::central,NCT Delhi,Central,False
-nct delhi::west,NCT Delhi,West,False
-nct delhi::south west,NCT Delhi,South West,False
-nct delhi::south,NCT Delhi,South,False
+nctdelhi::northwest,NCT Delhi,North West,False
+nctdelhi::north,NCT Delhi,North,False
+nctdelhi::northeast,NCT Delhi,North East,False
+nctdelhi::east,NCT Delhi,East,False
+nctdelhi::newdelhi,NCT Delhi,New Delhi,False
+nctdelhi::central,NCT Delhi,Central,False
+nctdelhi::west,NCT Delhi,West,False
+nctdelhi::southwest,NCT Delhi,South West,False
+nctdelhi::south,NCT Delhi,South,False
 rajasthan::ganganagar,Rajasthan,Ganganagar,
 rajasthan::hanumangarh,Rajasthan,Hanumangarh,
 rajasthan::bikaner,Rajasthan,Bikaner,
@@ -105,7 +105,7 @@ rajasthan::alwar,Rajasthan,Alwar,
 rajasthan::bharatpur,Rajasthan,Bharatpur,
 rajasthan::dhaulpur,Rajasthan,Dhaulpur,
 rajasthan::karauli,Rajasthan,Karauli,True
-rajasthan::sawai madhopur,Rajasthan,Sawai Madhopur,
+rajasthan::sawaimadhopur,Rajasthan,Sawai Madhopur,
 rajasthan::dausa,Rajasthan,Dausa,
 rajasthan::jaipur,Rajasthan,Jaipur,
 rajasthan::sikar,Rajasthan,Sikar,
@@ -129,79 +129,79 @@ rajasthan::baran,Rajasthan,Baran,True
 rajasthan::jhalawar,Rajasthan,Jhalawar,
 rajasthan::udaipur,Rajasthan,Udaipur,
 rajasthan::pratapgarh,Rajasthan,Pratapgarh,
-uttar pradesh::saharanpur,Uttar Pradesh,Saharanpur,False
-uttar pradesh::muzaffarnagar,Uttar Pradesh,Muzaffarnagar,False
-uttar pradesh::bijnor,Uttar Pradesh,Bijnor,False
-uttar pradesh::moradabad,Uttar Pradesh,Moradabad,False
-uttar pradesh::rampur,Uttar Pradesh,Rampur,False
-uttar pradesh::jyotiba phule nagar,Uttar Pradesh,Jyotiba Phule Nagar,False
-uttar pradesh::meerut,Uttar Pradesh,Meerut,False
-uttar pradesh::baghpat,Uttar Pradesh,Baghpat,False
-uttar pradesh::ghaziabad,Uttar Pradesh,Ghaziabad,False
-uttar pradesh::gautam buddha nagar,Uttar Pradesh,Gautam Buddha Nagar,False
-uttar pradesh::bulandshahr,Uttar Pradesh,Bulandshahr,False
-uttar pradesh::aligarh,Uttar Pradesh,Aligarh,False
-uttar pradesh::mahamaya nagar,Uttar Pradesh,Mahamaya Nagar,False
-uttar pradesh::mathura,Uttar Pradesh,Mathura,False
-uttar pradesh::agra,Uttar Pradesh,Agra,False
-uttar pradesh::firozabad,Uttar Pradesh,Firozabad,False
-uttar pradesh::mainpuri,Uttar Pradesh,Mainpuri,False
-uttar pradesh::budaun,Uttar Pradesh,Budaun,False
-uttar pradesh::bareilly,Uttar Pradesh,Bareilly,False
-uttar pradesh::pilibhit,Uttar Pradesh,Pilibhit,False
-uttar pradesh::shahjahanpur,Uttar Pradesh,Shahjahanpur,False
-uttar pradesh::kheri,Uttar Pradesh,Kheri,False
-uttar pradesh::sitapur,Uttar Pradesh,Sitapur,False
-uttar pradesh::hardoi,Uttar Pradesh,Hardoi,False
-uttar pradesh::unnao,Uttar Pradesh,Unnao,False
-uttar pradesh::lucknow,Uttar Pradesh,Lucknow,False
-uttar pradesh::rae bareli,Uttar Pradesh,Rae Bareli,False
-uttar pradesh::farrukhabad,Uttar Pradesh,Farrukhabad,False
-uttar pradesh::kannauj,Uttar Pradesh,Kannauj,False
-uttar pradesh::etawah,Uttar Pradesh,Etawah,False
-uttar pradesh::auraiya,Uttar Pradesh,Auraiya,False
-uttar pradesh::kanpur dehat,Uttar Pradesh,Kanpur Dehat,False
-uttar pradesh::kanpur nagar,Uttar Pradesh,Kanpur Nagar,False
-uttar pradesh::jalaun,Uttar Pradesh,Jalaun,False
-uttar pradesh::jhansi,Uttar Pradesh,Jhansi,False
-uttar pradesh::lalitpur,Uttar Pradesh,Lalitpur,False
-uttar pradesh::hamirpur,Uttar Pradesh,Hamirpur,False
-uttar pradesh::mahoba,Uttar Pradesh,Mahoba,False
-uttar pradesh::banda,Uttar Pradesh,Banda,False
-uttar pradesh::chitrakoot,Uttar Pradesh,Chitrakoot,True
-uttar pradesh::fatehpur,Uttar Pradesh,Fatehpur,True
-uttar pradesh::pratapgarh,Uttar Pradesh,Pratapgarh,False
-uttar pradesh::kaushambi,Uttar Pradesh,Kaushambi,False
-uttar pradesh::allahabad,Uttar Pradesh,Allahabad,False
-uttar pradesh::bara banki,Uttar Pradesh,Bara Banki,False
-uttar pradesh::faizabad,Uttar Pradesh,Faizabad,False
-uttar pradesh::ambedkar nagar,Uttar Pradesh,Ambedkar Nagar,False
-uttar pradesh::sultanpur,Uttar Pradesh,Sultanpur,False
-uttar pradesh::bahraich,Uttar Pradesh,Bahraich,True
-uttar pradesh::shrawasti,Uttar Pradesh,Shrawasti,True
-uttar pradesh::balrampur,Uttar Pradesh,Balrampur,True
-uttar pradesh::gonda,Uttar Pradesh,Gonda,False
-uttar pradesh::siddharthnagar,Uttar Pradesh,Siddharthnagar,True
-uttar pradesh::basti,Uttar Pradesh,Basti,False
-uttar pradesh::sant kabir nagar,Uttar Pradesh,Sant Kabir Nagar,False
-uttar pradesh::maharajganj,Uttar Pradesh,Maharajganj,False
-uttar pradesh::gorakhpur,Uttar Pradesh,Gorakhpur,False
-uttar pradesh::kushinagar,Uttar Pradesh,Kushinagar,False
-uttar pradesh::deoria,Uttar Pradesh,Deoria,False
-uttar pradesh::azamgarh,Uttar Pradesh,Azamgarh,False
-uttar pradesh::mau,Uttar Pradesh,Mau,False
-uttar pradesh::ballia,Uttar Pradesh,Ballia,False
-uttar pradesh::jaunpur,Uttar Pradesh,Jaunpur,False
-uttar pradesh::ghazipur,Uttar Pradesh,Ghazipur,False
-uttar pradesh::chandauli,Uttar Pradesh,Chandauli,True
-uttar pradesh::varanasi,Uttar Pradesh,Varanasi,False
-uttar pradesh::sant ravidas nagar,Uttar Pradesh,Sant Ravidas Nagar,False
-uttar pradesh::mirzapur,Uttar Pradesh,Mirzapur,False
-uttar pradesh::sonbhadra,Uttar Pradesh,Sonbhadra,True
-uttar pradesh::etah,Uttar Pradesh,Etah,False
-uttar pradesh::kanshiram nagar,Uttar Pradesh,Kanshiram Nagar,False
-bihar::pashchim champaran,Bihar,Pashchim Champaran,False
-bihar::purba champaran,Bihar,Purba Champaran,False
+uttarpradesh::saharanpur,Uttar Pradesh,Saharanpur,False
+uttarpradesh::muzaffarnagar,Uttar Pradesh,Muzaffarnagar,False
+uttarpradesh::bijnor,Uttar Pradesh,Bijnor,False
+uttarpradesh::moradabad,Uttar Pradesh,Moradabad,False
+uttarpradesh::rampur,Uttar Pradesh,Rampur,False
+uttarpradesh::jyotibaphulenagar,Uttar Pradesh,Jyotiba Phule Nagar,False
+uttarpradesh::meerut,Uttar Pradesh,Meerut,False
+uttarpradesh::baghpat,Uttar Pradesh,Baghpat,False
+uttarpradesh::ghaziabad,Uttar Pradesh,Ghaziabad,False
+uttarpradesh::gautambuddhanagar,Uttar Pradesh,Gautam Buddha Nagar,False
+uttarpradesh::bulandshahr,Uttar Pradesh,Bulandshahr,False
+uttarpradesh::aligarh,Uttar Pradesh,Aligarh,False
+uttarpradesh::mahamayanagar,Uttar Pradesh,Mahamaya Nagar,False
+uttarpradesh::mathura,Uttar Pradesh,Mathura,False
+uttarpradesh::agra,Uttar Pradesh,Agra,False
+uttarpradesh::firozabad,Uttar Pradesh,Firozabad,False
+uttarpradesh::mainpuri,Uttar Pradesh,Mainpuri,False
+uttarpradesh::budaun,Uttar Pradesh,Budaun,False
+uttarpradesh::bareilly,Uttar Pradesh,Bareilly,False
+uttarpradesh::pilibhit,Uttar Pradesh,Pilibhit,False
+uttarpradesh::shahjahanpur,Uttar Pradesh,Shahjahanpur,False
+uttarpradesh::kheri,Uttar Pradesh,Kheri,False
+uttarpradesh::sitapur,Uttar Pradesh,Sitapur,False
+uttarpradesh::hardoi,Uttar Pradesh,Hardoi,False
+uttarpradesh::unnao,Uttar Pradesh,Unnao,False
+uttarpradesh::lucknow,Uttar Pradesh,Lucknow,False
+uttarpradesh::raebareli,Uttar Pradesh,Rae Bareli,False
+uttarpradesh::farrukhabad,Uttar Pradesh,Farrukhabad,False
+uttarpradesh::kannauj,Uttar Pradesh,Kannauj,False
+uttarpradesh::etawah,Uttar Pradesh,Etawah,False
+uttarpradesh::auraiya,Uttar Pradesh,Auraiya,False
+uttarpradesh::kanpurdehat,Uttar Pradesh,Kanpur Dehat,False
+uttarpradesh::kanpurnagar,Uttar Pradesh,Kanpur Nagar,False
+uttarpradesh::jalaun,Uttar Pradesh,Jalaun,False
+uttarpradesh::jhansi,Uttar Pradesh,Jhansi,False
+uttarpradesh::lalitpur,Uttar Pradesh,Lalitpur,False
+uttarpradesh::hamirpur,Uttar Pradesh,Hamirpur,False
+uttarpradesh::mahoba,Uttar Pradesh,Mahoba,False
+uttarpradesh::banda,Uttar Pradesh,Banda,False
+uttarpradesh::chitrakoot,Uttar Pradesh,Chitrakoot,True
+uttarpradesh::fatehpur,Uttar Pradesh,Fatehpur,True
+uttarpradesh::pratapgarh,Uttar Pradesh,Pratapgarh,False
+uttarpradesh::kaushambi,Uttar Pradesh,Kaushambi,False
+uttarpradesh::allahabad,Uttar Pradesh,Allahabad,False
+uttarpradesh::barabanki,Uttar Pradesh,Bara Banki,False
+uttarpradesh::faizabad,Uttar Pradesh,Faizabad,False
+uttarpradesh::ambedkarnagar,Uttar Pradesh,Ambedkar Nagar,False
+uttarpradesh::sultanpur,Uttar Pradesh,Sultanpur,False
+uttarpradesh::bahraich,Uttar Pradesh,Bahraich,True
+uttarpradesh::shrawasti,Uttar Pradesh,Shrawasti,True
+uttarpradesh::balrampur,Uttar Pradesh,Balrampur,True
+uttarpradesh::gonda,Uttar Pradesh,Gonda,False
+uttarpradesh::siddharthnagar,Uttar Pradesh,Siddharthnagar,True
+uttarpradesh::basti,Uttar Pradesh,Basti,False
+uttarpradesh::santkabirnagar,Uttar Pradesh,Sant Kabir Nagar,False
+uttarpradesh::maharajganj,Uttar Pradesh,Maharajganj,False
+uttarpradesh::gorakhpur,Uttar Pradesh,Gorakhpur,False
+uttarpradesh::kushinagar,Uttar Pradesh,Kushinagar,False
+uttarpradesh::deoria,Uttar Pradesh,Deoria,False
+uttarpradesh::azamgarh,Uttar Pradesh,Azamgarh,False
+uttarpradesh::mau,Uttar Pradesh,Mau,False
+uttarpradesh::ballia,Uttar Pradesh,Ballia,False
+uttarpradesh::jaunpur,Uttar Pradesh,Jaunpur,False
+uttarpradesh::ghazipur,Uttar Pradesh,Ghazipur,False
+uttarpradesh::chandauli,Uttar Pradesh,Chandauli,True
+uttarpradesh::varanasi,Uttar Pradesh,Varanasi,False
+uttarpradesh::santravidasnagar,Uttar Pradesh,Sant Ravidas Nagar,False
+uttarpradesh::mirzapur,Uttar Pradesh,Mirzapur,False
+uttarpradesh::sonbhadra,Uttar Pradesh,Sonbhadra,True
+uttarpradesh::etah,Uttar Pradesh,Etah,False
+uttarpradesh::kanshiramnagar,Uttar Pradesh,Kanshiram Nagar,False
+bihar::pashchimchamparan,Bihar,Pashchim Champaran,False
+bihar::purbachamparan,Bihar,Purba Champaran,False
 bihar::sheohar,Bihar,Sheohar,False
 bihar::sitamarhi,Bihar,Sitamarhi,True
 bihar::madhubani,Bihar,Madhubani,False
@@ -238,26 +238,26 @@ bihar::nawada,Bihar,Nawada,True
 bihar::jamui,Bihar,Jamui,True
 bihar::jehanabad,Bihar,Jehanabad,False
 bihar::arwal,Bihar,Arwal,False
-sikkim::north district,Sikkim,North District,
-sikkim::west district,Sikkim,West District,
-sikkim::south district,Sikkim,South District,
-sikkim::east district,Sikkim,East District,
-arunachal pradesh::tawang,Arunachal Pradesh,Tawang,
-arunachal pradesh::west kameng,Arunachal Pradesh,West Kameng,
-arunachal pradesh::east kameng,Arunachal Pradesh,East Kameng,
-arunachal pradesh::papumpare,Arunachal Pradesh,Papumpare,
-arunachal pradesh::upper subansiri,Arunachal Pradesh,Upper Subansiri,
-arunachal pradesh::west siang,Arunachal Pradesh,West Siang,
-arunachal pradesh::east siang,Arunachal Pradesh,East Siang,
-arunachal pradesh::upper siang,Arunachal Pradesh,Upper Siang,
-arunachal pradesh::changlang,Arunachal Pradesh,Changlang,
-arunachal pradesh::tirap,Arunachal Pradesh,Tirap,
-arunachal pradesh::lower subansiri,Arunachal Pradesh,Lower Subansiri,
-arunachal pradesh::kurung kumey,Arunachal Pradesh,Kurung Kumey,
-arunachal pradesh::dibang valley,Arunachal Pradesh,Dibang Valley,
-arunachal pradesh::lower dibang valley,Arunachal Pradesh,Lower Dibang Valley,
-arunachal pradesh::lohit,Arunachal Pradesh,Lohit,
-arunachal pradesh::anjaw,Arunachal Pradesh,Anjaw,
+sikkim::northdistrict,Sikkim,North District,
+sikkim::westdistrict,Sikkim,West District,
+sikkim::southdistrict,Sikkim,South District,
+sikkim::eastdistrict,Sikkim,East District,
+arunachalpradesh::tawang,Arunachal Pradesh,Tawang,
+arunachalpradesh::westkameng,Arunachal Pradesh,West Kameng,
+arunachalpradesh::eastkameng,Arunachal Pradesh,East Kameng,
+arunachalpradesh::papumpare,Arunachal Pradesh,Papumpare,
+arunachalpradesh::uppersubansiri,Arunachal Pradesh,Upper Subansiri,
+arunachalpradesh::westsiang,Arunachal Pradesh,West Siang,
+arunachalpradesh::eastsiang,Arunachal Pradesh,East Siang,
+arunachalpradesh::uppersiang,Arunachal Pradesh,Upper Siang,
+arunachalpradesh::changlang,Arunachal Pradesh,Changlang,
+arunachalpradesh::tirap,Arunachal Pradesh,Tirap,
+arunachalpradesh::lowersubansiri,Arunachal Pradesh,Lower Subansiri,
+arunachalpradesh::kurungkumey,Arunachal Pradesh,Kurung Kumey,
+arunachalpradesh::dibangvalley,Arunachal Pradesh,Dibang Valley,
+arunachalpradesh::lowerdibangvalley,Arunachal Pradesh,Lower Dibang Valley,
+arunachalpradesh::lohit,Arunachal Pradesh,Lohit,
+arunachalpradesh::anjaw,Arunachal Pradesh,Anjaw,
 nagaland::mon,Nagaland,Mon,False
 nagaland::mokokchung,Nagaland,Mokokchung,False
 nagaland::zunheboto,Nagaland,Zunheboto,False
@@ -274,8 +274,8 @@ manipur::tamenglong,Manipur,Tamenglong,False
 manipur::churachandpur,Manipur,Churachandpur,False
 manipur::bishnupur,Manipur,Bishnupur,False
 manipur::thoubal,Manipur,Thoubal,False
-manipur::imphal west,Manipur,Imphal West,False
-manipur::imphal east,Manipur,Imphal East,False
+manipur::imphalwest,Manipur,Imphal West,False
+manipur::imphaleast,Manipur,Imphal East,False
 manipur::ukhrul,Manipur,Ukhrul,False
 manipur::chandel,Manipur,Chandel,True
 mizoram::mamit,Mizoram,Mamit,True
@@ -286,17 +286,17 @@ mizoram::serchhip,Mizoram,Serchhip,False
 mizoram::lunglei,Mizoram,Lunglei,False
 mizoram::lawngtlai,Mizoram,Lawngtlai,False
 mizoram::saiha,Mizoram,Saiha,False
-tripura::west tripura,Tripura,West Tripura,False
-tripura::south tripura,Tripura,South Tripura,False
+tripura::westtripura,Tripura,West Tripura,False
+tripura::southtripura,Tripura,South Tripura,False
 tripura::dhalai,Tripura,Dhalai,True
-tripura::north tripura,Tripura,North Tripura,False
-meghalaya::west garo hills,Meghalaya,West Garo Hills,False
-meghalaya::east garo hills,Meghalaya,East Garo Hills,False
-meghalaya::south garo hills,Meghalaya,South Garo Hills,False
-meghalaya::west khasi hills,Meghalaya,West Khasi Hills,False
+tripura::northtripura,Tripura,North Tripura,False
+meghalaya::westgarohills,Meghalaya,West Garo Hills,False
+meghalaya::eastgarohills,Meghalaya,East Garo Hills,False
+meghalaya::southgarohills,Meghalaya,South Garo Hills,False
+meghalaya::westkhasihills,Meghalaya,West Khasi Hills,False
 meghalaya::ribhoi,Meghalaya,Ribhoi,True
-meghalaya::east khasi hills,Meghalaya,East Khasi Hills,False
-meghalaya::jaintia hills,Meghalaya,Jaintia Hills,False
+meghalaya::eastkhasihills,Meghalaya,East Khasi Hills,False
+meghalaya::jaintiahills,Meghalaya,Jaintia Hills,False
 assam::kokrajhar,Assam,Kokrajhar,False
 assam::dhubri,Assam,Dhubri,True
 assam::goalpara,Assam,Goalpara,True
@@ -311,38 +311,38 @@ assam::dibrugarh,Assam,Dibrugarh,False
 assam::sivasagar,Assam,Sivasagar,False
 assam::jorhat,Assam,Jorhat,False
 assam::golaghat,Assam,Golaghat,False
-assam::karbi anglong,Assam,Karbi Anglong,False
-assam::dima hasao,Assam,Dima Hasao,False
+assam::karbianglong,Assam,Karbi Anglong,False
+assam::dimahasao,Assam,Dima Hasao,False
 assam::cachar,Assam,Cachar,False
 assam::karimganj,Assam,Karimganj,False
 assam::hailakandi,Assam,Hailakandi,True
 assam::bongaigaon,Assam,Bongaigaon,False
 assam::chirang,Assam,Chirang,False
 assam::kamrup,Assam,Kamrup,False
-assam::kamrup metropolitan,Assam,Kamrup Metropolitan,False
+assam::kamrupmetropolitan,Assam,Kamrup Metropolitan,False
 assam::nalbari,Assam,Nalbari,False
 assam::baksa,Assam,Baksa,True
 assam::darrang,Assam,Darrang,True
 assam::udalguri,Assam,Udalguri,True
-west bengal::darjiling,West Bengal,Darjiling,False
-west bengal::jalpaiguri,West Bengal,Jalpaiguri,False
-west bengal::koch bihar,West Bengal,Koch Bihar,False
-west bengal::uttar dinajpur,West Bengal,Uttar Dinajpur,False
-west bengal::dakshin dinajpur,West Bengal,Dakshin Dinajpur,False
-west bengal::maldah,West Bengal,Maldah,False
-west bengal::murshidabad,West Bengal,Murshidabad,False
-west bengal::birbhum,West Bengal,Birbhum,False
-west bengal::barddhaman,West Bengal,Barddhaman,False
-west bengal::nadia,West Bengal,Nadia,False
-west bengal::north twenty four parganas,West Bengal,North Twenty Four Parganas,False
-west bengal::hugli,West Bengal,Hugli,False
-west bengal::bankura,West Bengal,Bankura,False
-west bengal::puruliya,West Bengal,Puruliya,False
-west bengal::haora,West Bengal,Haora,False
-west bengal::kolkata,West Bengal,Kolkata,False
-west bengal::south twenty four parganas,West Bengal,South Twenty Four Parganas,False
-west bengal::paschim medinipur,West Bengal,Paschim Medinipur,False
-west bengal::purba medinipur,West Bengal,Purba Medinipur,False
+westbengal::darjiling,West Bengal,Darjiling,False
+westbengal::jalpaiguri,West Bengal,Jalpaiguri,False
+westbengal::kochbihar,West Bengal,Koch Bihar,False
+westbengal::uttardinajpur,West Bengal,Uttar Dinajpur,False
+westbengal::dakshindinajpur,West Bengal,Dakshin Dinajpur,False
+westbengal::maldah,West Bengal,Maldah,False
+westbengal::murshidabad,West Bengal,Murshidabad,False
+westbengal::birbhum,West Bengal,Birbhum,False
+westbengal::barddhaman,West Bengal,Barddhaman,False
+westbengal::nadia,West Bengal,Nadia,False
+westbengal::northtwentyfourparganas,West Bengal,North Twenty Four Parganas,False
+westbengal::hugli,West Bengal,Hugli,False
+westbengal::bankura,West Bengal,Bankura,False
+westbengal::puruliya,West Bengal,Puruliya,False
+westbengal::haora,West Bengal,Haora,False
+westbengal::kolkata,West Bengal,Kolkata,False
+westbengal::southtwentyfourparganas,West Bengal,South Twenty Four Parganas,False
+westbengal::paschimmedinipur,West Bengal,Paschim Medinipur,False
+westbengal::purbamedinipur,West Bengal,Purba Medinipur,False
 jharkhand::garhwa,Jharkhand,Garhwa,True
 jharkhand::chatra,Jharkhand,Chatra,True
 jharkhand::kodarma,Jharkhand,Kodarma,False
@@ -354,7 +354,7 @@ jharkhand::pakur,Jharkhand,Pakur,True
 jharkhand::dhanbad,Jharkhand,Dhanbad,False
 jharkhand::bokaro,Jharkhand,Bokaro,True
 jharkhand::lohardaga,Jharkhand,Lohardaga,True
-jharkhand::purbi singhbhum,Jharkhand,Purbi Singhbhum,True
+jharkhand::purbisinghbhum,Jharkhand,Purbi Singhbhum,True
 jharkhand::palamu,Jharkhand,Palamu,True
 jharkhand::latehar,Jharkhand,Latehar,True
 jharkhand::hazaribagh,Jharkhand,Hazaribagh,True
@@ -365,8 +365,8 @@ jharkhand::ranchi,Jharkhand,Ranchi,True
 jharkhand::khunti,Jharkhand,Khunti,True
 jharkhand::gumla,Jharkhand,Gumla,True
 jharkhand::simdega,Jharkhand,Simdega,True
-jharkhand::pashchimi singhbhum,Jharkhand,Pashchimi Singhbhum,True
-jharkhand::saraikela kharsawan,Jharkhand,Saraikela Kharsawan,False
+jharkhand::pashchimisinghbhum,Jharkhand,Pashchimi Singhbhum,True
+jharkhand::saraikelakharsawan,Jharkhand,Saraikela Kharsawan,False
 odisha::bargarh,Odisha,Bargarh,
 odisha::jharsuguda,Odisha,Jharsuguda,
 odisha::sambalpur,Odisha,Sambalpur,
@@ -402,7 +402,7 @@ chhattisgarh::surguja,Chhattisgarh,Surguja,
 chhattisgarh::jashpur,Chhattisgarh,Jashpur,
 chhattisgarh::raigarh,Chhattisgarh,Raigarh,
 chhattisgarh::korba,Chhattisgarh,Korba,True
-chhattisgarh::janjgir champa,Chhattisgarh,Janjgir Champa,
+chhattisgarh::janjgirchampa,Chhattisgarh,Janjgir Champa,
 chhattisgarh::bilaspur,Chhattisgarh,Bilaspur,
 chhattisgarh::kabirdham,Chhattisgarh,Kabirdham,
 chhattisgarh::rajnandgaon,Chhattisgarh,Rajnandgaon,True
@@ -410,61 +410,61 @@ chhattisgarh::durg,Chhattisgarh,Durg,
 chhattisgarh::raipur,Chhattisgarh,Raipur,
 chhattisgarh::mahasamund,Chhattisgarh,Mahasamund,True
 chhattisgarh::dhamtari,Chhattisgarh,Dhamtari,
-chhattisgarh::uttar bastar kanker,Chhattisgarh,Uttar Bastar Kanker,
+chhattisgarh::uttarbastarkanker,Chhattisgarh,Uttar Bastar Kanker,
 chhattisgarh::bastar,Chhattisgarh,Bastar,True
 chhattisgarh::narayanpur,Chhattisgarh,Narayanpur,True
-chhattisgarh::dakshin bastar dantewada,Chhattisgarh,Dakshin Bastar Dantewada,
+chhattisgarh::dakshinbastardantewada,Chhattisgarh,Dakshin Bastar Dantewada,
 chhattisgarh::bijapur,Chhattisgarh,Bijapur,True
-madhya pradesh::sheopur,Madhya Pradesh,Sheopur,
-madhya pradesh::morena,Madhya Pradesh,Morena,
-madhya pradesh::bhind,Madhya Pradesh,Bhind,
-madhya pradesh::gwalior,Madhya Pradesh,Gwalior,
-madhya pradesh::datia,Madhya Pradesh,Datia,
-madhya pradesh::shivpuri,Madhya Pradesh,Shivpuri,
-madhya pradesh::tikamgarh,Madhya Pradesh,Tikamgarh,
-madhya pradesh::chhatarpur,Madhya Pradesh,Chhatarpur,True
-madhya pradesh::panna,Madhya Pradesh,Panna,
-madhya pradesh::sagar,Madhya Pradesh,Sagar,
-madhya pradesh::damoh,Madhya Pradesh,Damoh,True
-madhya pradesh::satna,Madhya Pradesh,Satna,
-madhya pradesh::rewa,Madhya Pradesh,Rewa,
-madhya pradesh::umaria,Madhya Pradesh,Umaria,
-madhya pradesh::neemuch,Madhya Pradesh,Neemuch,
-madhya pradesh::mandsaur,Madhya Pradesh,Mandsaur,
-madhya pradesh::ratlam,Madhya Pradesh,Ratlam,
-madhya pradesh::ujjain,Madhya Pradesh,Ujjain,
-madhya pradesh::shajapur,Madhya Pradesh,Shajapur,
-madhya pradesh::dewas,Madhya Pradesh,Dewas,
-madhya pradesh::dhar,Madhya Pradesh,Dhar,
-madhya pradesh::indore,Madhya Pradesh,Indore,
-madhya pradesh::khargone (west nimar),Madhya Pradesh,Khargone (West Nimar),
-madhya pradesh::barwani,Madhya Pradesh,Barwani,True
-madhya pradesh::rajgarh,Madhya Pradesh,Rajgarh,True
-madhya pradesh::vidisha,Madhya Pradesh,Vidisha,True
-madhya pradesh::bhopal,Madhya Pradesh,Bhopal,
-madhya pradesh::sehore,Madhya Pradesh,Sehore,
-madhya pradesh::raisen,Madhya Pradesh,Raisen,
-madhya pradesh::betul,Madhya Pradesh,Betul,
-madhya pradesh::harda,Madhya Pradesh,Harda,
-madhya pradesh::hoshangabad,Madhya Pradesh,Hoshangabad,
-madhya pradesh::katni,Madhya Pradesh,Katni,
-madhya pradesh::jabalpur,Madhya Pradesh,Jabalpur,
-madhya pradesh::narsimhapur,Madhya Pradesh,Narsimhapur,
-madhya pradesh::dindori,Madhya Pradesh,Dindori,
-madhya pradesh::mandla,Madhya Pradesh,Mandla,
-madhya pradesh::chhindwara,Madhya Pradesh,Chhindwara,
-madhya pradesh::seoni,Madhya Pradesh,Seoni,
-madhya pradesh::balaghat,Madhya Pradesh,Balaghat,
-madhya pradesh::guna,Madhya Pradesh,Guna,True
-madhya pradesh::ashoknagar,Madhya Pradesh,Ashoknagar,
-madhya pradesh::shahdol,Madhya Pradesh,Shahdol,
-madhya pradesh::anuppur,Madhya Pradesh,Anuppur,
-madhya pradesh::sidhi,Madhya Pradesh,Sidhi,
-madhya pradesh::singrauli,Madhya Pradesh,Singrauli,True
-madhya pradesh::jhabua,Madhya Pradesh,Jhabua,
-madhya pradesh::alirajpur,Madhya Pradesh,Alirajpur,
-madhya pradesh::khandwa (east nimar),Madhya Pradesh,Khandwa (East Nimar),
-madhya pradesh::burhanpur,Madhya Pradesh,Burhanpur,
+madhyapradesh::sheopur,Madhya Pradesh,Sheopur,
+madhyapradesh::morena,Madhya Pradesh,Morena,
+madhyapradesh::bhind,Madhya Pradesh,Bhind,
+madhyapradesh::gwalior,Madhya Pradesh,Gwalior,
+madhyapradesh::datia,Madhya Pradesh,Datia,
+madhyapradesh::shivpuri,Madhya Pradesh,Shivpuri,
+madhyapradesh::tikamgarh,Madhya Pradesh,Tikamgarh,
+madhyapradesh::chhatarpur,Madhya Pradesh,Chhatarpur,True
+madhyapradesh::panna,Madhya Pradesh,Panna,
+madhyapradesh::sagar,Madhya Pradesh,Sagar,
+madhyapradesh::damoh,Madhya Pradesh,Damoh,True
+madhyapradesh::satna,Madhya Pradesh,Satna,
+madhyapradesh::rewa,Madhya Pradesh,Rewa,
+madhyapradesh::umaria,Madhya Pradesh,Umaria,
+madhyapradesh::neemuch,Madhya Pradesh,Neemuch,
+madhyapradesh::mandsaur,Madhya Pradesh,Mandsaur,
+madhyapradesh::ratlam,Madhya Pradesh,Ratlam,
+madhyapradesh::ujjain,Madhya Pradesh,Ujjain,
+madhyapradesh::shajapur,Madhya Pradesh,Shajapur,
+madhyapradesh::dewas,Madhya Pradesh,Dewas,
+madhyapradesh::dhar,Madhya Pradesh,Dhar,
+madhyapradesh::indore,Madhya Pradesh,Indore,
+madhyapradesh::khargonewestnimar,Madhya Pradesh,Khargone (West Nimar),
+madhyapradesh::barwani,Madhya Pradesh,Barwani,True
+madhyapradesh::rajgarh,Madhya Pradesh,Rajgarh,True
+madhyapradesh::vidisha,Madhya Pradesh,Vidisha,True
+madhyapradesh::bhopal,Madhya Pradesh,Bhopal,
+madhyapradesh::sehore,Madhya Pradesh,Sehore,
+madhyapradesh::raisen,Madhya Pradesh,Raisen,
+madhyapradesh::betul,Madhya Pradesh,Betul,
+madhyapradesh::harda,Madhya Pradesh,Harda,
+madhyapradesh::hoshangabad,Madhya Pradesh,Hoshangabad,
+madhyapradesh::katni,Madhya Pradesh,Katni,
+madhyapradesh::jabalpur,Madhya Pradesh,Jabalpur,
+madhyapradesh::narsimhapur,Madhya Pradesh,Narsimhapur,
+madhyapradesh::dindori,Madhya Pradesh,Dindori,
+madhyapradesh::mandla,Madhya Pradesh,Mandla,
+madhyapradesh::chhindwara,Madhya Pradesh,Chhindwara,
+madhyapradesh::seoni,Madhya Pradesh,Seoni,
+madhyapradesh::balaghat,Madhya Pradesh,Balaghat,
+madhyapradesh::guna,Madhya Pradesh,Guna,True
+madhyapradesh::ashoknagar,Madhya Pradesh,Ashoknagar,
+madhyapradesh::shahdol,Madhya Pradesh,Shahdol,
+madhyapradesh::anuppur,Madhya Pradesh,Anuppur,
+madhyapradesh::sidhi,Madhya Pradesh,Sidhi,
+madhyapradesh::singrauli,Madhya Pradesh,Singrauli,True
+madhyapradesh::jhabua,Madhya Pradesh,Jhabua,
+madhyapradesh::alirajpur,Madhya Pradesh,Alirajpur,
+madhyapradesh::khandwaeastnimar,Madhya Pradesh,Khandwa (East Nimar),
+madhyapradesh::burhanpur,Madhya Pradesh,Burhanpur,
 gujarat::kachchh,Gujarat,Kachchh,
 gujarat::banaskantha,Gujarat,Banaskantha,
 gujarat::patan,Gujarat,Patan,
@@ -486,13 +486,13 @@ gujarat::dohad,Gujarat,Dohad,
 gujarat::vadodara,Gujarat,Vadodara,
 gujarat::narmada,Gujarat,Narmada,True
 gujarat::bharuch,Gujarat,Bharuch,
-gujarat::the dangs,Gujarat,The Dangs,
+gujarat::thedangs,Gujarat,The Dangs,
 gujarat::navsari,Gujarat,Navsari,
 gujarat::valsad,Gujarat,Valsad,
 gujarat::surat,Gujarat,Surat,
 gujarat::tapi,Gujarat,Tapi,
-daman and diu::diu,Daman & Diu,Diu,False
-daman and diu::daman,Daman & Diu,Daman,False
+damandiu::diu,Daman & Diu,Diu,False
+damandiu::daman,Daman & Diu,Daman,False
 maharashtra::nandurbar,Maharashtra,Nandurbar,True
 maharashtra::dhule,Maharashtra,Dhule,False
 maharashtra::jalgaon,Maharashtra,Jalgaon,False
@@ -514,7 +514,7 @@ maharashtra::jalna,Maharashtra,Jalna,False
 maharashtra::aurangabad,Maharashtra,Aurangabad,False
 maharashtra::nashik,Maharashtra,Nashik,False
 maharashtra::thane,Maharashtra,Thane,False
-maharashtra::mumbai suburban,Maharashtra,Mumbai Suburban,False
+maharashtra::mumbaisuburban,Maharashtra,Mumbai Suburban,False
 maharashtra::mumbai,Maharashtra,Mumbai,False
 maharashtra::raigarh,Maharashtra,Raigarh,False
 maharashtra::pune,Maharashtra,Pune,False
@@ -538,19 +538,19 @@ telangana::mahbubnagar,Telangana,Mahbubnagar,
 telangana::nalgonda,Telangana,Nalgonda,
 telangana::warangal,Telangana,Warangal,
 telangana::khammam,Telangana,Khammam,
-andhra pradesh::srikakulam,Andhra Pradesh,Srikakulam,
-andhra pradesh::vizianagaram,Andhra Pradesh,Vizianagaram,True
-andhra pradesh::visakhapatnam,Andhra Pradesh,Visakhapatnam,True
-andhra pradesh::east godavari,Andhra Pradesh,East Godavari,
-andhra pradesh::west godavari,Andhra Pradesh,West Godavari,
-andhra pradesh::krishna,Andhra Pradesh,Krishna,
-andhra pradesh::guntur,Andhra Pradesh,Guntur,
-andhra pradesh::prakasam,Andhra Pradesh,Prakasam,
-andhra pradesh::sri potti sriramulu nellore,Andhra Pradesh,Sri Potti Sriramulu Nellore,
-andhra pradesh::y s r cuddapah,Andhra Pradesh,Y.S.R. Cuddapah,
-andhra pradesh::kurnool,Andhra Pradesh,Kurnool,
-andhra pradesh::anantapur,Andhra Pradesh,Anantapur,
-andhra pradesh::chittoor,Andhra Pradesh,Chittoor,
+andhrapradesh::srikakulam,Andhra Pradesh,Srikakulam,
+andhrapradesh::vizianagaram,Andhra Pradesh,Vizianagaram,True
+andhrapradesh::visakhapatnam,Andhra Pradesh,Visakhapatnam,True
+andhrapradesh::eastgodavari,Andhra Pradesh,East Godavari,
+andhrapradesh::westgodavari,Andhra Pradesh,West Godavari,
+andhrapradesh::krishna,Andhra Pradesh,Krishna,
+andhrapradesh::guntur,Andhra Pradesh,Guntur,
+andhrapradesh::prakasam,Andhra Pradesh,Prakasam,
+andhrapradesh::sripottisriramulunellore,Andhra Pradesh,Sri Potti Sriramulu Nellore,
+andhrapradesh::ysrcuddapah,Andhra Pradesh,Y.S.R. Cuddapah,
+andhrapradesh::kurnool,Andhra Pradesh,Kurnool,
+andhrapradesh::anantapur,Andhra Pradesh,Anantapur,
+andhrapradesh::chittoor,Andhra Pradesh,Chittoor,
 karnataka::belgaum,Karnataka,Belgaum,False
 karnataka::bagalkot,Karnataka,Bagalkot,False
 karnataka::bijapur,Karnataka,Bijapur,False
@@ -559,7 +559,7 @@ karnataka::raichur,Karnataka,Raichur,True
 karnataka::koppal,Karnataka,Koppal,False
 karnataka::gadag,Karnataka,Gadag,False
 karnataka::dharwad,Karnataka,Dharwad,False
-karnataka::uttara kannada,Karnataka,Uttara Kannada,False
+karnataka::uttarakannada,Karnataka,Uttara Kannada,False
 karnataka::haveri,Karnataka,Haveri,False
 karnataka::bellary,Karnataka,Bellary,False
 karnataka::chitradurga,Karnataka,Chitradurga,False
@@ -571,7 +571,7 @@ karnataka::tumkur,Karnataka,Tumkur,False
 karnataka::bangalore,Karnataka,Bangalore,False
 karnataka::mandya,Karnataka,Mandya,False
 karnataka::hassan,Karnataka,Hassan,False
-karnataka::dakshina kannada,Karnataka,Dakshina Kannada,False
+karnataka::dakshinakannada,Karnataka,Dakshina Kannada,False
 karnataka::kodagu,Karnataka,Kodagu,False
 karnataka::mysore,Karnataka,Mysore,False
 karnataka::chamarajanagar,Karnataka,Chamarajanagar,False
@@ -579,10 +579,10 @@ karnataka::gulbarga,Karnataka,Gulbarga,False
 karnataka::yadgir,Karnataka,Yadgir,True
 karnataka::kolar,Karnataka,Kolar,False
 karnataka::chikkaballapura,Karnataka,Chikkaballapura,False
-karnataka::bangalore rural,Karnataka,Bangalore Rural,False
+karnataka::bangalorerural,Karnataka,Bangalore Rural,False
 karnataka::ramanagara,Karnataka,Ramanagara,False
-goa::north goa,Goa,North Goa,False
-goa::south goa,Goa,South Goa,False
+goa::northgoa,Goa,North Goa,False
+goa::southgoa,Goa,South Goa,False
 kerala::kasaragod,Kerala,Kasaragod,False
 kerala::kannur,Kerala,Kannur,False
 kerala::wayanad,Kerala,Wayanad,True
@@ -597,42 +597,146 @@ kerala::alappuzha,Kerala,Alappuzha,False
 kerala::pathanamthitta,Kerala,Pathanamthitta,False
 kerala::kollam,Kerala,Kollam,False
 kerala::thiruvananthapuram,Kerala,Thiruvananthapuram,False
-tamil nadu::thiruvallur,Tamil Nadu,Thiruvallur,False
-tamil nadu::chennai,Tamil Nadu,Chennai,False
-tamil nadu::kancheepuram,Tamil Nadu,Kancheepuram,False
-tamil nadu::vellore,Tamil Nadu,Vellore,False
-tamil nadu::tiruvannamalai,Tamil Nadu,Tiruvannamalai,False
-tamil nadu::viluppuram,Tamil Nadu,Viluppuram,False
-tamil nadu::salem,Tamil Nadu,Salem,False
-tamil nadu::namakkal,Tamil Nadu,Namakkal,False
-tamil nadu::erode,Tamil Nadu,Erode,False
-tamil nadu::the nilgiris,Tamil Nadu,The Nilgiris,False
-tamil nadu::dindigul,Tamil Nadu,Dindigul,False
-tamil nadu::karur,Tamil Nadu,Karur,False
-tamil nadu::tiruchirappalli,Tamil Nadu,Tiruchirappalli,False
-tamil nadu::perambalur,Tamil Nadu,Perambalur,False
-tamil nadu::ariyalur,Tamil Nadu,Ariyalur,False
-tamil nadu::cuddalore,Tamil Nadu,Cuddalore,False
-tamil nadu::nagapattinam,Tamil Nadu,Nagapattinam,False
-tamil nadu::thiruvarur,Tamil Nadu,Thiruvarur,False
-tamil nadu::thanjavur,Tamil Nadu,Thanjavur,False
-tamil nadu::pudukkottai,Tamil Nadu,Pudukkottai,False
-tamil nadu::sivaganga,Tamil Nadu,Sivaganga,False
-tamil nadu::madurai,Tamil Nadu,Madurai,False
-tamil nadu::theni,Tamil Nadu,Theni,False
-tamil nadu::virudhunagar,Tamil Nadu,Virudhunagar,True
-tamil nadu::ramanathapuram,Tamil Nadu,Ramanathapuram,True
-tamil nadu::thoothukkudi,Tamil Nadu,Thoothukkudi,False
-tamil nadu::tirunelveli,Tamil Nadu,Tirunelveli,False
-tamil nadu::kanniyakumari,Tamil Nadu,Kanniyakumari,False
-tamil nadu::dharmapuri,Tamil Nadu,Dharmapuri,False
-tamil nadu::krishnagiri,Tamil Nadu,Krishnagiri,False
-tamil nadu::coimbatore,Tamil Nadu,Coimbatore,False
-tamil nadu::tiruppur,Tamil Nadu,Tiruppur,False
+tamilnadu::thiruvallur,Tamil Nadu,Thiruvallur,False
+tamilnadu::chennai,Tamil Nadu,Chennai,False
+tamilnadu::kancheepuram,Tamil Nadu,Kancheepuram,False
+tamilnadu::vellore,Tamil Nadu,Vellore,False
+tamilnadu::tiruvannamalai,Tamil Nadu,Tiruvannamalai,False
+tamilnadu::viluppuram,Tamil Nadu,Viluppuram,False
+tamilnadu::salem,Tamil Nadu,Salem,False
+tamilnadu::namakkal,Tamil Nadu,Namakkal,False
+tamilnadu::erode,Tamil Nadu,Erode,False
+tamilnadu::thenilgiris,Tamil Nadu,The Nilgiris,False
+tamilnadu::dindigul,Tamil Nadu,Dindigul,False
+tamilnadu::karur,Tamil Nadu,Karur,False
+tamilnadu::tiruchirappalli,Tamil Nadu,Tiruchirappalli,False
+tamilnadu::perambalur,Tamil Nadu,Perambalur,False
+tamilnadu::ariyalur,Tamil Nadu,Ariyalur,False
+tamilnadu::cuddalore,Tamil Nadu,Cuddalore,False
+tamilnadu::nagapattinam,Tamil Nadu,Nagapattinam,False
+tamilnadu::thiruvarur,Tamil Nadu,Thiruvarur,False
+tamilnadu::thanjavur,Tamil Nadu,Thanjavur,False
+tamilnadu::pudukkottai,Tamil Nadu,Pudukkottai,False
+tamilnadu::sivaganga,Tamil Nadu,Sivaganga,False
+tamilnadu::madurai,Tamil Nadu,Madurai,False
+tamilnadu::theni,Tamil Nadu,Theni,False
+tamilnadu::virudhunagar,Tamil Nadu,Virudhunagar,True
+tamilnadu::ramanathapuram,Tamil Nadu,Ramanathapuram,True
+tamilnadu::thoothukkudi,Tamil Nadu,Thoothukkudi,False
+tamilnadu::tirunelveli,Tamil Nadu,Tirunelveli,False
+tamilnadu::kanniyakumari,Tamil Nadu,Kanniyakumari,False
+tamilnadu::dharmapuri,Tamil Nadu,Dharmapuri,False
+tamilnadu::krishnagiri,Tamil Nadu,Krishnagiri,False
+tamilnadu::coimbatore,Tamil Nadu,Coimbatore,False
+tamilnadu::tiruppur,Tamil Nadu,Tiruppur,False
 puducherry::yanam,Puducherry,Yanam,False
 puducherry::puducherry,Puducherry,Puducherry,False
 puducherry::mahe,Puducherry,Mahe,False
 puducherry::karaikal,Puducherry,Karaikal,False
-andaman and nicobar islands::nicobar,Andaman & Nicobar Islands,Nicobar,False
-andaman and nicobar islands::north and middle andaman,Andaman & Nicobar Islands,North & Middle Andaman,False
-andaman and nicobar islands::south andaman,Andaman & Nicobar Islands,South Andaman,False
+andamannicobarislands::nicobar,Andaman & Nicobar Islands,Nicobar,False
+andamannicobarislands::northmiddleandaman,Andaman & Nicobar Islands,North & Middle Andaman,False
+andamannicobarislands::southandaman,Andaman & Nicobar Islands,South Andaman,False
+andamannicobarislands::nicobars,Andaman & Nicobar Islands,Nicobars,False
+andhrapradesh::sripottisriramulunello,Andhra Pradesh,Sri Potti Sriramulu Nello,
+andhrapradesh::ysr,Andhra Pradesh,Y.S.R.,
+arunachalpradesh::papumpare,Arunachal Pradesh,Papum Pare,
+arunachalpradesh::kradaadi,Arunachal Pradesh,Kra Daadi,
+arunachalpradesh::longding,Arunachal Pradesh,Longding,
+arunachalpradesh::namsai,Arunachal Pradesh,Namsai,True
+arunachalpradesh::siang,Arunachal Pradesh,Siang,
+assam::biswanath,Assam,Biswanath,False
+assam::charaideo,Assam,Charaideo,False
+assam::hojai,Assam,Hojai,False
+assam::majuli,Assam,Majuli,False
+assam::southsalmaramancachar,Assam,South Salmara Mancachar,False
+assam::westkarbianglong,Assam,West Karbi Anglong,False
+bihar::kaimurbhabua,Bihar,Kaimur (Bhabua),False
+chandigarh::chandigarh,Chandigarh,Chandigarh,False
+chhattisgarh::koriya,Chhattisgarh,Koriya,
+chhattisgarh::janjgirchampa,Chhattisgarh,Janjgir - Champa,
+chhattisgarh::kabeerdham,Chhattisgarh,Kabeerdham,
+chhattisgarh::balod,Chhattisgarh,Balod,
+chhattisgarh::balodabazar,Chhattisgarh,Baloda Bazar,
+chhattisgarh::balrampur,Chhattisgarh,Balrampur,
+chhattisgarh::bemetara,Chhattisgarh,Bemetara,
+chhattisgarh::dantewada,Chhattisgarh,Dantewada,True
+chhattisgarh::gariyaband,Chhattisgarh,Gariyaband,
+chhattisgarh::kodagaon,Chhattisgarh,Kodagaon,
+chhattisgarh::mungeli,Chhattisgarh,Mungeli,
+chhattisgarh::sukma,Chhattisgarh,Sukma,True
+chhattisgarh::surajpur,Chhattisgarh,Surajpur,
+dadraandnagarhavelidamananddiu::diu,Dadra and Nagar Haveli & Daman and Diu,Diu,False
+dadraandnagarhavelidamananddiu::daman,Dadra and Nagar Haveli & Daman and Diu,Daman,False
+dadraandnagarhavelidamananddiu::dadranagarhaveli,Dadra and Nagar Haveli & Daman and Diu,Dadra & Nagar Haveli,False
+gujarat::banaskantha,Gujarat,Banas Kantha,
+gujarat::mahesana,Gujarat,Mahesana,
+gujarat::aravali,Gujarat,Aravali,
+gujarat::botad,Gujarat,Botad,
+gujarat::chhotaudaipur,Gujarat,Chhota Udaipur,
+gujarat::devbhumidwarka,Gujarat,Devbhumi Dwarka,
+gujarat::girsomnath,Gujarat,Gir Somnath,
+gujarat::mahisagar,Gujarat,Mahisagar,
+gujarat::morbi,Gujarat,Morbi,
+gujarat::panchmahals,Gujarat,Panch Mahals,
+gujarat::sabarkantha,Gujarat,Sabar Kantha,
+haryana::charkhidadri,Haryana,Charkhi Dadri,False
+himachalpradesh::lahulspiti,Himachal Pradesh,Lahul & Spiti,False
+jharkhand::saraikelakharsawan,Jharkhand,Saraikela-Kharsawan,False
+ladakh::lehladakh,Ladakh,Leh(Ladakh),False
+ladakh::kargil,Ladakh,Kargil,False
+lakshadweep::lakshadweep,Lakshadweep,Lakshadweep,False
+madhyapradesh::agarmalwa,Madhya Pradesh,Agar Malwa,
+maharashtra::buldana,Maharashtra,Buldana,False
+maharashtra::ahmadnagar,Maharashtra,Ahmadnagar,False
+maharashtra::palghar,Maharashtra,Palghar,False
+meghalaya::eastjantiahills,Meghalaya,East Jantia Hills,False
+meghalaya::northgarohills,Meghalaya,North Garo Hills,False
+meghalaya::southwestgarohills,Meghalaya,South West Garo Hills,False
+meghalaya::southwestkhasihills,Meghalaya,South West Khasi Hills,False
+meghalaya::westjaintiahills,Meghalaya,West Jaintia Hills,False
+mizoram::chandel,Mizoram,Chandel,False
+nctdelhi::shahdara,NCT Delhi,Shahdara,False
+nctdelhi::southeast,NCT Delhi,South East,False
+punjab::shahidbhagatsinghnagar,Punjab,Shahid Bhagat Singh Nagar,False
+punjab::rupnagar,Punjab,Rupnagar,False
+punjab::fazilka,Punjab,Fazilka,False
+punjab::pathankot,Punjab,Pathankot,False
+sikkim::northdistrict,Sikkim,North  District,
+telangana::bhadradrikothagudem,Telangana,Bhadradri Kothagudem,True
+telangana::jagitial,Telangana,Jagitial,
+telangana::jangoan,Telangana,Jangoan,
+telangana::jayashankarbhupalapally,Telangana,Jayashankar Bhupalapally,
+telangana::jogulambagadwal,Telangana,Jogulamba Gadwal,
+telangana::kamareddy,Telangana,Kamareddy,
+telangana::komarambheemasifabad,Telangana,Komaram Bheem Asifabad,
+telangana::mahabubabad,Telangana,Mahabubabad,
+telangana::mahabubnagar,Telangana,Mahabubnagar,
+telangana::mancherial,Telangana,Mancherial,
+telangana::medchalmalkajgiri,Telangana,Medchal-Malkajgiri,
+telangana::nagarkurnool,Telangana,Nagarkurnool,
+telangana::nirmal,Telangana,Nirmal,
+telangana::peddapalli,Telangana,Peddapalli,
+telangana::rajannasircilla,Telangana,Rajanna Sircilla,
+telangana::rangareddy,Telangana,Ranga Reddy,
+telangana::sangareddy,Telangana,Sangareddy,
+telangana::siddipet,Telangana,Siddipet,
+telangana::suryapet,Telangana,Suryapet,
+telangana::vikarabad,Telangana,Vikarabad,
+telangana::wanaparthy,Telangana,Wanaparthy,
+telangana::warangalrural,Telangana,Warangal Rural,
+telangana::warangalurban,Telangana,Warangal Urban,
+telangana::yadadribhuvanagiri,Telangana,Yadadri Bhuvanagiri,
+tripura::gomati,Tripura,Gomati,False
+tripura::khowai,Tripura,Khowai,False
+tripura::sepahijala,Tripura,Sepahijala,False
+tripura::unakoti,Tripura,Unakoti,False
+uttarpradesh::mahrajganj,Uttar Pradesh,Mahrajganj,False
+uttarpradesh::santravidasnagarbhadohi,Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),False
+uttarpradesh::amethi,Uttar Pradesh,Amethi,False
+uttarpradesh::hapur,Uttar Pradesh,Hapur,False
+uttarpradesh::sambhal,Uttar Pradesh,Sambhal,False
+uttarpradesh::shamli,Uttar Pradesh,Shamli,False
+westbengal::northtwentyfourpargana,West Bengal,North Twenty Four Pargana,False
+westbengal::southtwentyfourpargana,West Bengal,South Twenty Four Pargana,False
+westbengal::paschimbarddhaman,West Bengal,Paschim Barddhaman,False
+westbengal::purbabarddhaman,West Bengal,Purba Barddhaman,False
