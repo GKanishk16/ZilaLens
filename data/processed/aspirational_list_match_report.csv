@@ -1,0 +1,113 @@
+number,state,district,exact_nfhs4_name_match,mapping_status
+1,Andhra Pradesh,Vizianagaram,True,exact name match
+2,Andhra Pradesh,Visakhapatnam,True,exact name match
+3,Andhra Pradesh,Y.S.R. Kadapa,False,unmatched; parent/child mapping pending
+4,Arunachal Pradesh,Namsai,False,unmatched; parent/child mapping pending
+5,Assam,Goalpara,True,exact name match
+6,Assam,Barpeta,True,exact name match
+7,Assam,Hailakandi,True,exact name match
+8,Assam,Baksa,True,exact name match
+9,Assam,Darrang,True,exact name match
+10,Assam,Udalguri,True,exact name match
+11,Assam,Dhubri,True,exact name match
+12,Bihar,Sitamarhi,True,exact name match
+13,Bihar,Araria,True,exact name match
+14,Bihar,Purnia,True,exact name match
+15,Bihar,Katihar,True,exact name match
+16,Bihar,Muzaffarpur,True,exact name match
+17,Bihar,Begusarai,True,exact name match
+18,Bihar,Khagaria,True,exact name match
+19,Bihar,Banka,True,exact name match
+20,Bihar,Sheikhpura,True,exact name match
+21,Bihar,Aurangabad,True,exact name match
+22,Bihar,Gaya,True,exact name match
+23,Bihar,Nawada,True,exact name match
+24,Bihar,Jamui,True,exact name match
+25,Chhattisgarh,Korba,True,exact name match
+26,Chhattisgarh,Rajnandgaon,True,exact name match
+27,Chhattisgarh,Mahasamund,True,exact name match
+28,Chhattisgarh,Kanker,False,unmatched; parent/child mapping pending
+29,Chhattisgarh,Narayanpur,True,exact name match
+30,Chhattisgarh,Dantewada,False,unmatched; parent/child mapping pending
+31,Chhattisgarh,Bijapur,True,exact name match
+32,Chhattisgarh,Bastar,True,exact name match
+33,Chhattisgarh,Kondagaon,False,unmatched; parent/child mapping pending
+34,Chhattisgarh,Sukma,False,unmatched; parent/child mapping pending
+35,Gujarat,Dahod,False,unmatched; parent/child mapping pending
+36,Gujarat,Narmada,True,exact name match
+37,Haryana,Mewat,True,exact name match
+38,Himachal Pradesh,Chamba,True,exact name match
+39,Jammu & Kashmir,Kupwara,True,exact name match
+40,Jammu & Kashmir,Baramulla,False,unmatched; parent/child mapping pending
+41,Jharkhand,Garhwa,True,exact name match
+42,Jharkhand,Chatra,True,exact name match
+43,Jharkhand,Giridih,True,exact name match
+44,Jharkhand,Godda,True,exact name match
+45,Jharkhand,Sahibganj,True,exact name match
+46,Jharkhand,Pakur,True,exact name match
+47,Jharkhand,Bokaro,True,exact name match
+48,Jharkhand,Lohardaga,True,exact name match
+49,Jharkhand,Purbi Singhbhum,True,exact name match
+50,Jharkhand,Palamu,True,exact name match
+51,Jharkhand,Latehar,True,exact name match
+52,Jharkhand,Hazaribagh,True,exact name match
+53,Jharkhand,Ramgarh,True,exact name match
+54,Jharkhand,Dumka,True,exact name match
+55,Jharkhand,Ranchi,True,exact name match
+56,Jharkhand,Khunti,True,exact name match
+57,Jharkhand,Gumla,True,exact name match
+58,Jharkhand,Simdega,True,exact name match
+59,Jharkhand,Pashchimi Singhbhum,True,exact name match
+60,Karnataka,Raichur,True,exact name match
+61,Karnataka,Yadgir,True,exact name match
+62,Kerala,Wayanad,True,exact name match
+63,Madhya Pradesh,Chhatarpur,True,exact name match
+64,Madhya Pradesh,Damoh,True,exact name match
+65,Madhya Pradesh,Barwani,True,exact name match
+66,Madhya Pradesh,Rajgarh,True,exact name match
+67,Madhya Pradesh,Vidisha,True,exact name match
+68,Madhya Pradesh,Guna,True,exact name match
+69,Madhya Pradesh,Singrauli,True,exact name match
+70,Madhya Pradesh,Khandwa,False,unmatched; parent/child mapping pending
+71,Maharashtra,Nandurbar,True,exact name match
+72,Maharashtra,Washim,True,exact name match
+73,Maharashtra,Gadchiroli,True,exact name match
+74,Maharashtra,Osmanabad,True,exact name match
+75,Manipur,Chandel,True,exact name match
+76,Meghalaya,Ribhoi,True,exact name match
+77,Mizoram,Mamit,True,exact name match
+78,Nagaland,Kiphire,True,exact name match
+79,Odisha,Dhenkanal,True,exact name match
+80,Odisha,Gajapati,True,exact name match
+81,Odisha,Kandhamal,True,exact name match
+82,Odisha,Balangir,True,exact name match
+83,Odisha,Kalahandi,True,exact name match
+84,Odisha,Rayagada,True,exact name match
+85,Odisha,Koraput,True,exact name match
+86,Odisha,Malkangiri,True,exact name match
+87,Odisha,Nabarangpur,False,unmatched; parent/child mapping pending
+88,Odisha,Nuapada,True,exact name match
+89,Punjab,Moga,True,exact name match
+90,Punjab,Firozpur,True,exact name match
+91,Rajasthan,Dholpur,False,unmatched; parent/child mapping pending
+92,Rajasthan,Karauli,True,exact name match
+93,Rajasthan,Jaisalmer,True,exact name match
+94,Rajasthan,Sirohi,True,exact name match
+95,Rajasthan,Baran,True,exact name match
+96,Sikkim,West Sikkim,False,unmatched; parent/child mapping pending
+97,Tamil Nadu,Virudhunagar,True,exact name match
+98,Tamil Nadu,Ramanathapuram,True,exact name match
+99,Telangana,Asifabad,False,unmatched; parent/child mapping pending
+100,Telangana,Bhoopalapally,False,unmatched; parent/child mapping pending
+101,Telangana,Bhadradri-Kothagudem,False,unmatched; parent/child mapping pending
+102,Tripura,Dhalai,True,exact name match
+103,Uttar Pradesh,Chitrakoot,True,exact name match
+104,Uttar Pradesh,Fatehpur,True,exact name match
+105,Uttar Pradesh,Bahraich,True,exact name match
+106,Uttar Pradesh,Shrawasti,True,exact name match
+107,Uttar Pradesh,Balrampur,True,exact name match
+108,Uttar Pradesh,Siddharthnagar,True,exact name match
+109,Uttar Pradesh,Chandauli,True,exact name match
+110,Uttar Pradesh,Sonbhadra,True,exact name match
+111,Uttarakhand,Udham Singh Nagar,True,exact name match
+112,Uttarakhand,Haridwar,False,unmatched; parent/child mapping pending

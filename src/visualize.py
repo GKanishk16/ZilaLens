@@ -42,38 +42,66 @@ def build_powerbi(panel):
     out=ROOT/'outputs'/'powerbi'; out.mkdir(parents=True,exist_ok=True)
     panel[['district_id','state','district','aspirational_flag']].drop_duplicates().to_csv(out/'dim_district.csv',index=False)
     pd.DataFrame({'round_key':[4,5],'round':['NFHS-4','NFHS-5'],'period':['2015-16','2019-21']}).to_csv(out/'dim_round.csv',index=False)
-    fact=panel[['district_id','state','district','round','indicator','value','aspirational_flag']].copy()
+    fact=panel[['district_id','round','indicator','value','source_file']].copy()
     indicator_keys=panel[['indicator']].drop_duplicates().reset_index(drop=True)
     indicator_keys['indicator_key']=indicator_keys.index+1
     indicator_keys.to_csv(out/'dim_indicator.csv',index=False)
     fact=fact.merge(indicator_keys,on='indicator',how='left')
+    index_path=out.parent/'tables'/'empowerment_index.csv'
+    if index_path.exists():
+        try: idx=pd.read_csv(index_path)
+        except pd.errors.EmptyDataError: idx=pd.DataFrame()
+        if {'district_id','round','index_score'}.issubset(idx.columns): fact=fact.merge(idx[['district_id','round','index_score']],on=['district_id','round'],how='left')
+        else: fact['index_score']=np.nan
+    else: fact['index_score']=np.nan
     fact.to_csv(out/'fact_indicator_values.csv',index=False)
-    pd.DataFrame(columns=['district_id','cluster_id','cluster_name']).to_csv(out/'dim_cluster.csv',index=False)
+    cluster_path=out.parent/'tables'/'district_clusters.csv'
+    if cluster_path.exists():
+        try: pd.read_csv(cluster_path).to_csv(out/'dim_cluster.csv',index=False)
+        except pd.errors.EmptyDataError: pd.DataFrame(columns=['district_id','cluster_id','cluster_name']).to_csv(out/'dim_cluster.csv',index=False)
+    else: pd.DataFrame(columns=['district_id','cluster_id','cluster_name']).to_csv(out/'dim_cluster.csv',index=False)
     dax=['PP Change = [NFHS-5 Value] - [NFHS-4 Value]','NFHS-4 Value = CALCULATE(AVERAGE(fact_indicator_values[value]), dim_round[round] = "NFHS-4")','NFHS-5 Value = CALCULATE(AVERAGE(fact_indicator_values[value]), dim_round[round] = "NFHS-5")','District Count = DISTINCTCOUNT(dim_district[district_id])','Districts Improved = CALCULATE(DISTINCTCOUNT(dim_district[district_id]), FILTER(VALUES(dim_district[district_id]), [PP Change] > 0))','Districts Improved % = DIVIDE([Districts Improved], [District Count])','Index Score = AVERAGE(fact_indicator_values[index_score])','Aspirational Mean Change = CALCULATE([PP Change], dim_district[aspirational_flag] = TRUE())','Non-Aspirational Mean Change = CALCULATE([PP Change], dim_district[aspirational_flag] = FALSE())','Aspirational Gap = [Aspirational Mean Change] - [Non-Aspirational Mean Change]']
-    (out/'powerbi_build_guide.md').write_text('# Power BI build guide\n\n## Relationships\n\n- `dim_district[district_id]` 1:* `fact_indicator_values[district_id]`\n- `dim_indicator[indicator_key]` 1:* fact (map indicator labels to keys during model load)\n- `dim_round[round]` 1:* fact\n- `dim_cluster[district_id]` 1:* district when cluster results become available\n\n## Measures\n\n'+''.join(f'{i+1}. `{m}`\n\n' for i,m in enumerate(dax))+'## Pages\n\n1. National Overview: map, indicator selector, round values, distribution and improved share.\n2. Aspirational Districts Comparison: descriptive changes and matched baseline subgroup; label as non-causal.\n3. Uttar Pradesh Deep Dive: district ranks, Ghaziabad/Gautam Buddha Nagar callouts, state/national reference lines.\n\nNFHS-5-dependent measures are blank until the official workbook is added. `Index Score` depends on an index column not yet available in the source fact CSV.\n')
+    (out/'powerbi_build_guide.md').write_text('# Power BI build guide\n\n## Relationships\n\n- `dim_district[district_id]` 1:* `fact_indicator_values[district_id]`\n- `dim_indicator[indicator_key]` 1:* `fact_indicator_values[indicator_key]`\n- `dim_round[round]` 1:* fact\n- `dim_cluster[district_id]` 1:* district when cluster results become available\n\n## Measures\n\n'+''.join(f'{i+1}. `{m}`\n\n' for i,m in enumerate(dax))+'## Pages\n\n1. National Overview: map, indicator selector, round values, distribution and improved share.\n2. Aspirational Districts Comparison: descriptive changes and matched baseline subgroup; label as non-causal.\n3. Uttar Pradesh Deep Dive: district ranks, Ghaziabad/Gautam Buddha Nagar callouts, state/national reference lines.\n\nNFHS-5-dependent measures are blank until the official workbook is added. `Index Score` remains blank until the two-round financial and empowerment indicators support index construction.\n')
 
 def build_workbook(panel):
-    from openpyxl import Workbook
-    from openpyxl.styles import Font,PatternFill
+    from openpyxl.styles import Font,PatternFill,Alignment
     from openpyxl.chart import BarChart,Reference
     from openpyxl.formatting.rule import ColorScaleRule
-    out=ROOT/'outputs'/'tables'/'ZilaLens_Analysis_Workbook.xlsx'
-    with pd.ExcelWriter(out,engine='openpyxl') as writer:
-        panel.to_excel(writer,sheet_name='Data',index=False)
-        summary=panel[panel['round']=='NFHS-4'].groupby(['state','indicator'],as_index=False).value.mean()
-        summary.to_excel(writer,sheet_name='NFHS4 Summary',index=False)
-        changes=pd.read_csv(ROOT/'outputs'/'tables'/'district_changes.csv')
-        changes.to_excel(writer,sheet_name='Change Summary',index=False)
     from openpyxl import load_workbook
-    wb=load_workbook(out); ws=wb['NFHS4 Summary']; ws.freeze_panes='A2'; ws.auto_filter.ref=ws.dimensions
-    for c in ws[1]: c.font=Font(bold=True,color='FFFFFF'); c.fill=PatternFill('solid',fgColor='17365D')
-    if ws.max_row>1: ws.conditional_formatting.add(f'C2:C{ws.max_row}',ColorScaleRule(start_type='min',start_color='F8696B',mid_type='percentile',mid_value=50,mid_color='FFEB84',end_type='max',end_color='63BE7B'))
-    # Chart first indicator's state means as a native Excel chart.
-    inds=list(dict.fromkeys(ws.cell(r,2).value for r in range(2,ws.max_row+1)))
-    if inds:
-        chosen=inds[0]; rows=[r for r in range(2,ws.max_row+1) if ws.cell(r,2).value==chosen]
-        if rows:
-            chart=BarChart(); chart.title=f'NFHS-4 state values: {chosen}'; chart.y_axis.title='Percent'; chart.x_axis.title='State'; chart.add_data(Reference(ws,min_col=3,min_row=1,max_row=ws.max_row),titles_from_data=True); chart.set_categories(Reference(ws,min_col=1,min_row=2,max_row=ws.max_row)); chart.height=8; chart.width=16; ws.add_chart(chart,'F2')
+    out=ROOT/'outputs'/'tables'/'ZilaLens_Analysis_Workbook.xlsx'
+    data=panel.copy()
+    summary=panel[panel['round']=='NFHS-4'].groupby(['state','indicator'],as_index=False).value.mean()
+    summary['source_file']='data/raw/nfhs_district-wise.csv'
+    changes=pd.read_csv(ROOT/'outputs'/'tables'/'district_changes.csv')
+    with pd.ExcelWriter(out,engine='openpyxl') as writer:
+        data.to_excel(writer,sheet_name='Data',index=False)
+        summary.to_excel(writer,sheet_name='NFHS4 Summary',index=False)
+        changes.to_excel(writer,sheet_name='Change Summary',index=False)
+        if len(summary):
+            selected=summary[summary.indicator==summary.indicator.iloc[0]][['state','value','source_file']].rename(columns={'value':'mean_percent'})
+            selected.to_excel(writer,sheet_name='Chart Data',index=False)
+    wb=load_workbook(out);wb.properties.creator='Kanishk Gupta';wb.properties.title='ZilaLens Analysis Workbook'
+    for name in wb.sheetnames:
+        ws=wb[name];ws.freeze_panes='A2';ws.auto_filter.ref=ws.dimensions
+        for c in ws[1]:c.font=Font(bold=True,color='FFFFFF');c.fill=PatternFill('solid',fgColor='17365D');c.alignment=Alignment(wrap_text=True,vertical='center')
+        widths={
+            'Data':[24,30,12,68,12,48,46,18],
+            'NFHS4 Summary':[24,68,14,48],
+            'Change Summary':[46,24,30,68,12,12,14,14,20],
+            'Chart Data':[24,16,48],
+        }.get(name,[])
+        for i,w in enumerate(widths,1):ws.column_dimensions[ws.cell(1,i).column_letter].width=w
+        if ws.max_row>1:
+            for row in ws.iter_rows(min_row=2):
+                for c in row:c.alignment=Alignment(vertical='top',wrap_text=False)
+                ws.row_dimensions[row[0].row].height=19
+    ws=wb['NFHS4 Summary']
+    if ws.max_row>1:ws.conditional_formatting.add(f'C2:C{ws.max_row}',ColorScaleRule(start_type='min',start_color='F8696B',mid_type='percentile',mid_value=50,mid_color='FFEB84',end_type='max',end_color='63BE7B'))
+    if wb['Change Summary'].max_row==1: wb['Change Summary']['A2']='No two-round changes calculated: official NFHS-5 workbook is missing.'
+    if 'Chart Data' in wb.sheetnames and wb['Chart Data'].max_row>1:
+        cw=wb['Chart Data'];chart=BarChart();chart.title=f'NFHS-4 district mean by state: {summary.indicator.iloc[0]} (n={len(selected)} states)';chart.y_axis.title='Mean percent';chart.x_axis.title='State';chart.add_data(Reference(cw,min_col=2,min_row=1,max_row=cw.max_row),titles_from_data=True);chart.set_categories(Reference(cw,min_col=1,min_row=2,max_row=cw.max_row));chart.height=9;chart.width=18
+        if chart.series: chart.series[0].graphicalProperties.solidFill='168C8C';chart.series[0].graphicalProperties.line.solidFill='168C8C'
+        cw.add_chart(chart,'D2')
     wb.save(out)
 
 if __name__=='__main__':

@@ -40,10 +40,11 @@ def read_round(name):
         long = df.melt(id_vars=[scol,dcol], var_name='indicator', value_name='value')
         df = long.rename(columns={scol:'state',dcol:'district'})
     df['round'] = name.upper().replace('NFHS','NFHS-')
+    df['source_file'] = str(path.relative_to(ROOT))
     df['value'] = pd.to_numeric(df['value'], errors='coerce')
     df['district'] = df['district'].astype(str).str.strip()
     df['state'] = df['state'].astype(str).str.strip()
-    return df[['state','district','round','indicator','value']]
+    return df[['state','district','round','indicator','value','source_file']]
 
 if __name__ == '__main__':
     for n in SOURCES:

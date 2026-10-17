@@ -148,7 +148,8 @@ def deck():
             img='women_literate_nfhs4.png' if visual=='map1' else ('women_literate_up_nfhs4.png' if visual=='mapup' else 'improved_sanitation_nfhs4.png')
             s.shapes.add_picture(str(ROOT/'outputs'/'maps'/img),PInches(8.0),PInches(3.05),height=PInches(3.8))
         elif visual=='toc':s.shapes.add_picture(str(ROOT/'outputs'/'charts'/'theory_of_change.png'),PInches(.9),PInches(3.3),width=PInches(11.6))
-        noteBox=s.shapes.add_textbox(PInches(.8),PInches(5.9),PInches(6.6 if visual.startswith('map') else 11.7),PInches(.9));p=noteBox.text_frame.paragraphs[0];p.text=note;p.font.size=PPt(10);p.font.color.rgb=PRGB(91,101,115)
+        if visual!='toc':
+            noteBox=s.shapes.add_textbox(PInches(.8),PInches(5.9),PInches(6.6 if visual.startswith('map') else 11.7),PInches(.9));p=noteBox.text_frame.paragraphs[0];p.text=note;p.font.size=PPt(10);p.font.color.rgb=PRGB(91,101,115)
         add_footer(s,i+1);s.notes_slide.notes_text_frame.text=note
     path=ROOT/'outputs'/'deck'/'ZilaLens_Deck.pptx';prs.save(path);return path
 

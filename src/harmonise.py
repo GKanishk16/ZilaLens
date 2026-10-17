@@ -33,7 +33,16 @@ def build():
     if asp_path.exists():
         asp=pd.read_csv(asp_path)
         aset={(norm(r.state),norm(r.district)) for r in asp.itertuples()}
-        panel['aspirational_flag']=[(norm(s),norm(d)) in aset for s,d in zip(panel.state,panel.district)]
+        match_report=ROOT/'data'/'processed'/'aspirational_list_match_report.csv'
+        ambiguous_states=set()
+        if match_report.exists():
+            mr=pd.read_csv(match_report)
+            ambiguous_states={norm(s) for s in mr.loc[~mr.exact_nfhs4_name_match,'state'].unique()}
+        flags=[]
+        for state,district in zip(panel.state,panel.district):
+            key=(norm(state),norm(district))
+            flags.append(True if key in aset else (pd.NA if norm(state) in ambiguous_states else False))
+        panel['aspirational_flag']=pd.array(flags,dtype='boolean')
     panel.to_csv(outdir/'tidy_panel.csv',index=False)
     cross.to_csv(outdir/'district_crosswalk.csv',index=False)
     # Name suggestions are audit aids and never applied without an override.

@@ -14,7 +14,15 @@ NFHS-4 district factsheet compilation is present in `data/raw/nfhs_district-wise
 
 ## Key Findings
 
-No cross-round findings are published yet because NFHS-5 could not be acquired. The NFHS-4 input currently contains 59,241 district-indicator rows, 10 source columns, and 93 district-level indicators across the source file; these are source-file counts, not substantive findings. See [`data_quality_report.md`](data_quality_report.md) for availability and missingness diagnostics after running the pipeline.
+NFHS-5 has not been acquired, so these are data-readiness findings rather than outcome findings:
+
+1. The NFHS-4 source CSV contains **59,241 district-indicator rows** across 10 columns ([source file](data/raw/nfhs_district-wise.csv)).
+2. The source repository documents **93 district-level indicators** ([source README](data/raw/README.md)).
+3. The parsed NFHS-4 panel currently has **637 district identifiers** ([crosswalk](data/processed/district_crosswalk.csv)).
+4. **7.0%** of total NFHS-4 indicator values are missing in the parsed panel ([quality report](data_quality_report.md)).
+5. **96 of 112** NITI list entries match NFHS-4 state–district names exactly; 16 need geography review ([match report](data/processed/aspirational_list_match_report.csv)).
+
+None of these is a finding about change in women’s outcomes. See [`data_quality_report.md`](data_quality_report.md) for availability and missingness diagnostics.
 
 ## Setup and run
 
@@ -48,10 +56,15 @@ NFHS-4 baseline maps are included as interim previews; NFHS-5 levels and round-t
 
 ## Deliverables
 
-- [Research report](outputs/reports/ZilaLens_Research_Report.docx) — pending two-round dataset
-- [Policy brief](outputs/reports/ZilaLens_Policy_Brief.docx) — pending two-round dataset
-- [Concept note](outputs/reports/ZilaLens_Concept_Note.docx) — pending data-backed district selection
-- [Deck](outputs/deck/ZilaLens_Deck.pptx) — pending computed results
+- [Research report](outputs/reports/ZilaLens_Research_Report.docx) — interim report; two-round findings pending NFHS-5
+- [Policy brief](outputs/reports/ZilaLens_Policy_Brief.docx) — interim evidence brief
+- [Concept note](outputs/reports/ZilaLens_Concept_Note.docx) — draft; district selection pending verified analysis
+- [Deck](outputs/deck/ZilaLens_Deck.pptx) — interim evidence-gap deck; comparative findings pending NFHS-5
+- [Analysis workbook](outputs/tables/ZilaLens_Analysis_Workbook.xlsx), [logframe](outputs/tables/ZilaLens_Logframe.xlsx), and [bilingual field tool](outputs/tables/ZilaLens_Field_Validation_XLSForm.xlsx)
+
+## File inventory
+
+The tracked project file list is in [ZilaLens_File_Manifest.md](outputs/reports/ZilaLens_File_Manifest.md).
 
 ## Citation
 

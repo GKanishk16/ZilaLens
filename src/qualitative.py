@@ -30,7 +30,15 @@ def build_aspirational_list():
         if state:
             rows.append({'number':number,'state':state,'district':lines[i+1]})
     if len(rows)!=112: raise ValueError(f'Expected 112 official list entries, parsed {len(rows)}')
-    out=ROOT/'data'/'processed'/'aspirational_districts_112.csv'; pd.DataFrame(rows).to_csv(out,index=False); return pd.DataFrame(rows)
+    out=ROOT/'data'/'processed'/'aspirational_districts_112.csv'; asp=pd.DataFrame(rows); asp.to_csv(out,index=False)
+    source=ROOT/'data'/'raw'/'nfhs_district-wise.csv'
+    nf=pd.read_csv(source,encoding='latin1')[['state','district']].drop_duplicates()
+    norm=lambda x:' '.join(re.sub(r'[^a-z0-9 ]',' ',str(x).lower()).split())
+    existing={(norm(r.state),norm(r.district)) for r in nf.itertuples()}
+    report=asp.copy(); report['exact_nfhs4_name_match']=[(norm(r.state),norm(r.district)) in existing for r in report.itertuples()]
+    report['mapping_status']=report.exact_nfhs4_name_match.map({True:'exact name match',False:'unmatched; parent/child mapping pending'})
+    report.to_csv(ROOT/'data'/'processed'/'aspirational_list_match_report.csv',index=False)
+    return asp
 
 def build_review_matrix():
     # Curated paraphrases with physical PDF page numbers; these summarize specific cited pages.

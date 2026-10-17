@@ -8,11 +8,11 @@ def theory_of_change():
     import matplotlib.pyplot as plt
     from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
     fig,ax=plt.subplots(figsize=(12,4)); ax.set_xlim(0,12); ax.set_ylim(0,4); ax.axis('off')
-    blocks=[(0.3,'Access','Suitable accounts, reachable agents, reliable connectivity'),(3.25,'Use','Women control and use accounts and digital services'),(6.2,'Livelihoods','Savings, transfers, payments and credit support choices'),(9.15,'Resilience','Greater capacity to manage shocks and plan')]
+    blocks=[(0.3,'Access','Suitable accounts,\nreachable agents,\nreliable connectivity'),(3.25,'Use','Women control and\nuse accounts and\ndigital services'),(6.2,'Livelihoods','Savings, transfers,\npayments and credit\nsupport choices'),(9.15,'Resilience','Greater capacity to\nmanage shocks and\nplan ahead')]
     for x,h,b in blocks:
         patch=FancyBboxPatch((x,.95),2.45,2,boxstyle='round,pad=0.12',facecolor='#EAF2F8',edgecolor='#1F4E79',linewidth=1.5); ax.add_patch(patch)
         ax.text(x+1.225,2.35,h,ha='center',va='center',fontsize=13,weight='bold',color='#17365D')
-        ax.text(x+1.225,1.65,b,ha='center',va='center',fontsize=9,wrap=True)
+        ax.text(x+1.225,1.65,b,ha='center',va='center',fontsize=10,linespacing=1.35)
     for x in [2.8,5.75,8.7]: ax.add_patch(FancyArrowPatch((x,1.95),(x+.4,1.95),arrowstyle='-|>',mutation_scale=16,color='#C47F17',linewidth=1.6))
     ax.text(6,3.55,'ZilaLens programme logic | Assumptions: access is safe, affordable, reliable; women retain agency; services respond to needs.',ha='center',fontsize=10,color='#444')
     p=ROOT/'outputs'/'charts'/'theory_of_change.png'; fig.savefig(p,dpi=200,bbox_inches='tight'); plt.close(fig)
@@ -103,7 +103,7 @@ def xlsform():
 
 def validate_xlsform():
     import sys
-    vendor=ROOT/'work'/'vendor'
+    vendor=ROOT/'work'/'pydeps'
     if vendor.exists(): sys.path.insert(0,str(vendor))
     from pyxform.xls2xform import convert
     path=ROOT/'outputs'/'tables'/'ZilaLens_Field_Validation_XLSForm.xlsx'

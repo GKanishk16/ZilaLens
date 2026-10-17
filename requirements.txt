@@ -14,3 +14,4 @@ pdfplumber>=0.11
 pyxform>=2.0
 pytest>=8.0
 pyxform>=4.5
+PyMuPDF>=1.24
