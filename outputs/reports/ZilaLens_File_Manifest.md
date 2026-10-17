@@ -1,6 +1,6 @@
 # File manifest
 
-Tracked project inventory at completion: 66 files. Intermediate QA renders and local dependency caches under `work/` are excluded.
+Tracked project inventory at completion: 71 files. Intermediate QA renders and local dependency caches under `work/` are excluded.
 
 - `.gitignore`
 - `LICENSE`
@@ -10,12 +10,16 @@ Tracked project inventory at completion: 66 files. Intermediate QA renders and l
 - `data/processed/crosswalk_suggestions.csv`
 - `data/processed/district_crosswalk.csv`
 - `data/processed/district_name_overrides.csv`
+- `data/processed/harvard_changed_geographies.csv`
 - `data/processed/tidy_panel.csv`
+- `data/raw/NFHS_5_India_Districts_Factsheet_Data.xls`
 - `data/raw/README.md`
 - `data/raw/docs/adp_appraisal.pdf`
 - `data/raw/docs/adp_appraisal.txt`
 - `data/raw/docs/aspirational_112.pdf`
 - `data/raw/docs/aspirational_112.txt`
+- `data/raw/docs/harvard_nfhs_policy_tracker_technical_notes.pdf`
+- `data/raw/docs/harvard_nfhs_policy_tracker_technical_notes.txt`
 - `data/raw/docs/pmjdy_brochure.pdf`
 - `data/raw/docs/pmjdy_brochure.txt`
 - `data/raw/india_districts.geojson`
@@ -23,7 +27,6 @@ Tracked project inventory at completion: 66 files. Intermediate QA renders and l
 - `data/raw/nfhs_indicator_lookup.csv`
 - `data_quality_report.md`
 - `docs/DATA_SOURCES.md`
-- `outputs/reports/ZilaLens_File_Manifest.md`
 - `docs/codebook.md`
 - `docs/program_design_status.md`
 - `docs/qualitative_synthesis.md`
@@ -41,6 +44,7 @@ Tracked project inventory at completion: 66 files. Intermediate QA renders and l
 - `outputs/powerbi/fact_indicator_values.csv`
 - `outputs/powerbi/powerbi_build_guide.md`
 - `outputs/reports/ZilaLens_Concept_Note.docx`
+- `outputs/reports/ZilaLens_File_Manifest.md`
 - `outputs/reports/ZilaLens_Policy_Brief.docx`
 - `outputs/reports/ZilaLens_Research_Report.docx`
 - `outputs/tables/ZilaLens_Analysis_Workbook.xlsx`
@@ -58,6 +62,7 @@ Tracked project inventory at completion: 66 files. Intermediate QA renders and l
 - `outputs/tables/index_sensitivity_status.json`
 - `outputs/tables/nfhs4_state_indicator_summary.csv`
 - `outputs/tables/policy_coding_matrix.xlsx`
+- `outputs/tables/up_district_rankings.csv`
 - `requirements.txt`
 - `run_all.py`
 - `src/analysis.py`
