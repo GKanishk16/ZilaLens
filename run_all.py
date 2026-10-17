@@ -6,8 +6,10 @@ from harmonise import build
 from analysis import build_quality_report,run_analysis
 from qualitative import extract_documents,build_aspirational_list,build_review_matrix
 from visualize import build_powerbi,build_workbook,make_map
+from program_design import theory_of_change,logframe,xlsform,validate_xlsform
 import pandas as pd
 build_aspirational_list(); extract_documents(); build_review_matrix()
+theory_of_change(); logframe(); xlsform(); validate_xlsform()
 panel,cross=build(); build_quality_report(panel,cross)
 changes,base,meta=run_analysis(panel)
 build_powerbi(panel); build_workbook(panel)

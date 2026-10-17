@@ -27,3 +27,5 @@ Additional files downloaded to `data/raw/docs/` on 2026-10-18:
 PMJDY material is a 2014 mission brochure. The coded excerpts are paraphrases, cited by physical PDF page, and should be read as policy design statements rather than independent evidence of district-level results.
 
 | District boundaries, HindustanTimesLabs | https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/india/district/india_district.json | `data/raw/india_districts.geojson` | Downloaded 2026-10-18 (752 KB), 645 district features; README describes source accuracy as not guaranteed. Used for illustrative NFHS-4 preview maps only; boundary vintage is not assured to match either survey round. |
+
+The field survey XLSForm is an original research instrument, not a source dataset. Pyxform conversion to XForm XML succeeds with no warnings. ODK Validate's additional Java-based validation was unavailable because no Java runtime is installed in the bundled runtime; the form passed pyxform conversion/structure checks.
