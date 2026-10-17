@@ -54,7 +54,7 @@ def build_review_matrix():
     df=pd.DataFrame(rows,columns=['document','page','code','paraphrased_excerpt'])
     df.to_excel(ROOT/'outputs'/'tables'/'policy_coding_matrix.xlsx',index=False)
     convergence=pd.DataFrame([
-      {'finding':'District variation and change in women’s account use','supporting_evidence':'Pending NFHS-4/NFHS-5 comparison','contradicting_evidence':'Not assessed; do not infer from programme documents'},
+      {'finding':'Change in four related women’s empowerment indicators','supporting_evidence':'Literacy +6.5 pp; schooling +6.3 pp; clean fuel +15.9 pp; marriage before 18 −3.8 pp across 555 district matches','contradicting_evidence':'Bank-account-use and mobile-use indicators are unavailable in both factsheets; changes do not establish any financial access mechanism'},
       {'finding':'Account ownership may not equal active independent use','supporting_evidence':'NFHS wording measures women who have and themselves use an account; programme materials describe access infrastructure','contradicting_evidence':'No reviewed passage directly measures independent use; field validation required'},
       {'finding':'Connectivity and local delivery shape service access','supporting_evidence':'PMJDY brochure, p. 30, notes unreliable telecom in some tribal/hilly locations','contradicting_evidence':'Document is a national mission design source, not a district outcome evaluation'},
     ])
