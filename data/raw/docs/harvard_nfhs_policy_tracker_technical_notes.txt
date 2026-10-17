@@ -1,0 +1,2014 @@
+
+[PAGE 1]
+NFHS Policy Tracker 
+for Districts
+User Guide and Technical Notes
+
+[PAGE 2]
+NFHS Policy Tracker for Districts 
+Page | 2
+Geographic Insights Lab
+Harvard Center for Population and Development Studies
+9 Bow Street
+Cambridge, MA 02138 | United States
+geographicinsights [at] iq.harvard.edu
+Citation: Geographic Insights Lab. NFHS Policy Tracker for Districts. 2021. Harvard
+Center for Population and Development Studies and Center for Geographic Analysis at
+Harvard, Cambridge MA, USA. https://doi.org/10.7910/DVN/NECYOE
+
+[PAGE 3]
+Page | 3
+4
+Author Contributions
+Conceptualization and Design: S V Subramanian, Akhil Kumar, Mohit Chaurasiya
+Data Acquisition and Analysis: S V Subramanian, Akhil Kumar, Navya Tripathi, Juel Md Rana 
+Data Interpretation: S V Subramanian, Akhil Kumar, Navya Tripathi, Juel Md Rana, Rockli Kim 
+Drafting of the Manuscript: Akhil Kumar, Navya Tripathi, S V Subramanian 
+Critical Revisions to Manuscript: Jody Blackwell, Mohit Chaurasiya, Sunil Rajpal, Juel Md Rana
+Overall Supervision: S V Subramanian
+Corresponding Author and Affiliations: S V Subramanian, Professor of Population Health and
+Geography and Director, Geographic Insights Lab, Harvard Center for Population and
+Development Studies, Center for Geographic Analysis at Harvard University, Cambridge, MA,
+USA; Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public
+Health, Boston, MA, USA; Honorary Senior Fellow, National Institution for Transforming India
+(NITI) Aayog, Government of India, New Delhi, India. Email: svsubram@hsph.harvard.edu 
+Acknowledgements 
+We are grateful for our partners at NITI Aayog (Dr. Rakesh Sarwal, Mr. Hemant Meena, Dr.
+Neena Bhatia) for their helpful comments and input. We also wish to acknowledge our
+partners at the International Institute for Population Sciences (IIPS) (Professor K S James,
+Professor Laxmi Kant Dwivedi) for providing us with the data and the shapefiles.
+NFHS Policy Tracker for Districts 
+
+[PAGE 4]
+Page | 4
+4
+Table of Contents
+NFHS Policy Tracker for Districts 
+ Introduction.................................................................................................................
+ Data Sources..............................................................................................................                    
+ User Guide to Geographic Visualization
+1.
+2.
+3.
+          3.1 How to use the "NFHS-5" tool.......................................................................................
+          3.2 How to use the "Change" tool......................................................................................
+   4. User Guide to Indicator Analysis
+          4.1 How to use the "NFHS-4 and NFHS-5" tool................................................................
+          4.2 How to use the "NFHS-4 and Change" tool.................................................................
+          4.3 How to use the "Change on Change" tool...................................................................
+   5. Technical Notes
+  
+5.1 Key Terminology used in our Method..........................................................................
+5.2 Methodology for Comparing NFHS-4 and NFHS-5 Districts........................................
+5.3 Indicators in NFHS-5 and NFHS-4..............................................................................
+5.4 Interpreting the Color Legend for NFHS-5...................................................................
+5.5 Interpreting the Color Legend for Change between NFHS-4 and NFHS-5...................
+5.6 Calculation 1: One (1) NFHS-4 parent district becoming one (1) brand-new   
+NFHS-5 district and one (1) parent-altered NFHS-5 district.........................................   
+5.7 Calculation 2: Two (2) NFHS-4 parent districts forming one (1) brand-new
+NFHS-5 districts and two (2) parent-altered NFHS-5 districts......................................
+6.1 Appendix A: List of Changed Districts..............................................................................
+6.2 Appendix B: DAX Code for Calculating the Correlation Coefficient..................................
+6. Appendices
+  5
+  5
+  6
+14
+23
+29
+34
+41
+41
+42
+48
+48
+50
+50
+51
+55
+
+[PAGE 5]
+Page | 5
+Introduction
+Using the district factsheets from the National Family Health Surveys (NFHS-4 and NFHS-5),
+we present an interactive dashboard to visualize Health, Nutrition, and Population indicators 
+across India.
+The dashboard allows users to visualize the direct estimates on Health, Nutrition and
+Population indicators from NFHS-5 (2019-21). It can also be used to track changes between
+NFHS-4 (2015-16) and NFHS-5. The dashboard can further filter the estimates by: 
+• Aspirational Districts
+• Multiple Percentiles
+• States/Districts
+Tracking these indicators at the district level can inform the design of policies and
+enable the prioritisation of districts for intervention. Further, a district-level assessment of
+the NFHS-5 factsheets could also inform setting agendas for the future.
+This dashboard was created in collaboration with National Institution for Transforming
+India (NITI) Aayog and the International Institute for Population Sciences (IIPS).
+Data Sources 
+The data source for NFHS-4 district factsheet data was the Hindustan Times Lab’s GitHub:
+https://github.com/HindustanTimesLabs/nfhs-data. 
+The data source for the NFHS-5 district factsheet data was IIPS’s district and state
+factsheet compendiums: http://rchiips.org/nfhs/Factsheet_Compendium_NFHS-5.shtml. 
+The district shapefile was taken from IIPS, and the 112 aspirational district list was given to
+us by NITI Aayog.
+NFHS Policy Tracker for Districts 
+
+[PAGE 6]
+1
+2
+3
+4
+1
+Page | 6
+User Guide to NFHS-5
+Toggle between Aspirational Districts/Other Districts
+This is the landing page of NFHS-5 on the dashboard.
+This User Guide describes all the features of the dashboard, 
+which are highlighted with the numbers shown above. 
+This feature of the dashboard allows the user to toggle between the NFHS-5
+visualization on the map for Aspirational Districts and Other Districts.
+The toggle button has 3 possible selection cases:
+Both selected
+Visualize only Aspirational Districts
+Visualize only Other Districts
+NFHS Policy Tracker for Districts 
+
+[PAGE 7]
+Page | 7
+This visualization shows the results for both Aspirational Districts and Other Districts.
+This visualization shows the results for only Aspirational Districts.
+NFHS Policy Tracker for Districts 
+
+[PAGE 8]
+Page | 8
+This visualization shows the results for all the districts excluding the Aspirational Districts.
+2
+Select indicator
+The select indicator filter on the dashboard allows users to select the indicator
+for which the results will be visualized on the NFHS-5 map view.
+Search for an indicator manually
+Expand/Collapse all the fields
+Expand the indicator
+For example: If the user wants to visualize the Nutritional Status of Women - BMI
+below normal across the districts of India:
+NFHS Policy Tracker for Districts 
+
+[PAGE 9]
+4
+Page | 9
+NFHS-5 map view for Nutritional Status of Women - BMI below normal
+across all the districts in India (2019-21).
+Selected indicator: Nutritional Status of Women - BMI below normal.
+NFHS-5 map view for Nutritional Status of Women - BMI below normal
+across all the Aspirational Districts in India.
+NFHS Policy Tracker for Districts 
+
+[PAGE 10]
+4
+Select State-District
+Selected state: Bihar
+3
+Page | 10
+The select state-district filter on the dashboard allows users to select the state
+for which the results will be visualized on the NFHS-5 map view.
+Search for the state manually
+Or scroll down to choose
+NFHS-5 map view for Nutritional status of Women - BMI below normal
+across all the districts excluding the Aspirational Districts in India.
+For example: If the user wants to visualize the Nutritional Status of Women - BMI
+below normal across the districts of Bihar:
+Note: Multiple selections 
+are also possible in the
+State-District filter.
+NFHS Policy Tracker for Districts 
+
+[PAGE 11]
+NFHS-5 map view for Nutritional status of Women - BMI below normal
+across all the districts in Bihar.
+NFHS-5 map view for Nutritional status of Women - BMI below normal
+across all the Aspirational Districts in Bihar.
+NFHS-5 map view for Nutritional status of Women - BMI below normal
+across all the districts excluding the Aspirational Districts in Bihar.
+Page | 11
+NFHS Policy Tracker for Districts 
+
+[PAGE 12]
+Filter by Percentile
+4
+Users can select districts that fall into a national percentile category. 
+For more information, see Interpreting the Color Legend for NFHS-5
+on page 48.
+Page | 12
+Selecting multiple percentiles
+The dashboard's functionality allows users to select multiple percentiles
+from the Select Percentile Filter and visualize their impact simultaneously on
+the NFHS-5 Map View.
+For example: If the user wants to visualize the best and worst-performing districts  
+in Bihar for the Nutritional Status of Women - BMI below normal:
+NFHS-5 map view for Nutritional status of Women - BMI below normal
+across all the districts in Bihar.
+NFHS Policy Tracker for Districts 
+
+[PAGE 13]
+Use CTRL (on Windows) and CMD
+(on Mac) to select more than one
+percentile category.
+Page | 13
+Select 100th percentile to visualize the
+worst performing districts in BIhar
+Nutritional Status of Women - BMI
+below normal.
+Select 60th percentile to visualize
+the best performing districts in
+Bihar for Nutritional Status of
+Women - BMI below normal.
+Select both (60th Percentile) and
+(100th Percentile).
+NFHS Policy Tracker for Districts 
+
+[PAGE 14]
+Page | 14
+User Guide to Change between NFHS-4 & NFHS-5
+This is the landing page of Change (2016-21) on the Dashboard
+This User Guide describes all the features of the Change page on the dashboard, 
+which are highlighted with the numbers shown above. 
+1
+2
+3
+4
+1
+Toggle between Aspirational Districts/Other Districts
+This feature of the dashboard allows the user to toggle between the Change
+(2016-21) visualization on the map for Aspirational Districts and Other Districts.
+The toggle button has 3 possible selection cases:
+Both selected
+Visualize only Aspirational Districts
+Visualize only Other Districts
+NFHS Policy Tracker for Districts 
+
+[PAGE 15]
+Page | 15
+This visualization shows the results for both Aspirational Districts and Other Districts.
+This visualization shows the results for only Aspirational Districts.
+NFHS Policy Tracker for Districts 
+
+[PAGE 16]
+Page | 16
+This visualization shows the results for all the districts excluding the Aspirational Districts.
+2
+Select indicator
+The select indicator filter on the dashboard allows users to select the indicator
+for which the results will be visualized on the change map view. 
+Search for an indicator manually
+Expand/Collapse all the fields
+Expand the indicator
+For example: If the user wants to visualize the change in Nutritional Status of
+Women - BMI below normal across the districts of India:
+NFHS Policy Tracker for Districts 
+
+[PAGE 17]
+4
+Page | 17
+The Change (2016-21) map view for Nutritional status of Women - BMI below normal
+across all the districts in India.
+Selected indicator: Nutritional status of Women - BMI below normal.
+The Change (2016-21) map view for Nutritional status of Women -
+BMI below normal across all the Aspirational Districts in India.
+NFHS Policy Tracker for Districts 
+
+[PAGE 18]
+4
+Select State-District
+Selected state: Bihar
+3
+Page | 18
+The select state-district filter on the dashboard allows the users to select the
+state for which the results will be visualized on the change map view.
+Search for the state manually
+Or scroll down to choose
+The Change (2016-21) map view for Nutritional status of
+Women - BMI below normal across all the districts except
+Aspirational Districts in India.
+For example: If the user wants to visualize the change in Nutritional Status of
+Women - BMI below normal across the districts of Bihar:
+Note: Multiple selections 
+are also possible in the
+State-District filter.
+NFHS Policy Tracker for Districts 
+
+[PAGE 19]
+The Change (2016-21) map view for Nutritional status of Women - BMI below
+normal across all the Aspirational Districts in Bihar.
+The Change (2016-21) map view for Nutritional status of Women - BMI below normal
+across all the districts of Bihar.
+Page | 19
+NFHS Policy Tracker for Districts 
+
+[PAGE 20]
+4 Filter by Changes between NFHS-4 and NFHS-5
+4
+Page | 20
+Change Filter for Anemia (All women)
+Selecting multiple change groups
+The dashboard's functionality allows users to select multiple change groups
+from the Change Filter and visualize their impact simultaneously on the
+Change Map View.
+The Change (2016-21) map view for Nutritional status of Women -
+BMI below normal across all the districts excluding the Aspirational
+Districts in Bihar.
+The Change map is divided into four distinct sections: Highest improvement,
+Improvement, Worsened and Extremely Worsened. For more information,
+see Interpreting the Color Legend for the Change between NFHS-4 and
+NFHS-5 on page 48.
+NFHS Policy Tracker for Districts 
+
+[PAGE 21]
+Page | 21
+For example: If the user wants to visualize the worsened districts and the districts
+with highest improvement in Bihar for the Nutritional Status of Women - BMI
+below normal:
+Select "Worsened" to visualize the
+districts which showed most
+negative change in Bihar for
+Nutritional Status of Women - BMI
+below normal.
+Select "Highest Improvement" to
+visualize the districts which
+showed the best positive change
+in Bihar for Nutritional Status of
+Women - BMI below normal.
+NFHS Policy Tracker for Districts 
+
+[PAGE 22]
+Page | 22
+Use CTRL (on Windows) and CMD
+(on Mac) to select more than one
+change category.
+NFHS Policy Tracker for Districts 
+
+[PAGE 23]
+1
+2
+3
+1
+Analysis of indicators between NFHS-4 and NFHS-5
+Page | 23
+User Guide to Analysis Page
+Toggle between Aspirational Districts/Other Districts
+This User Guide describes all the features of the Analysis page on the dashboard, 
+which are highlighted with the numbers shown above. 
+This dashboard feature allows the user to toggle between the results on the
+map for Aspirational Districts and other districts.
+The toggle button has 3 possible selection cases:
+Both selected
+Visualize only Aspirational Districts
+Visualize only Other Districts
+This section of the Analysis page can be used to compare the impact of an indicator
+as per NFHS-4 and NFHS-5 or visualize the correlation between different indicators
+from NFHS-4 and NFHS-5.
+NFHS Policy Tracker for Districts 
+
+[PAGE 24]
+Page | 24
+This visualization shows the results for both Aspirational Districts and Other Districts.
+This visualization shows the results for only Aspirational Districts.
+NFHS Policy Tracker for Districts 
+
+[PAGE 25]
+2
+Page | 25
+This visualization shows the results for all the districts excluding the Aspirational Districts.
+Indicator (Y-Axis)
+Select an indicator from the Indicator (Y-Axis) filter.
+Expand/Collapse all the fields
+Select the indicator for 
+(Y-Axis) - Anemia (All Women)
+For example: If the user wants to determine the correlation between Anemia in
+Women as per NFHS-4 and NFHS-5:
+NFHS Policy Tracker for Districts 
+
+[PAGE 26]
+Page | 26
+Indicator (X-Axis)
+Select another indicator from the Indicator (X-Axis) filter to visualize its
+correlation with the indicator selected for (Y-Axis).
+Expand/Collapse all the fields
+Select the indicator for 
+(X-Axis) - Anemia 
+(All Women)
+Analysis of the correlation between Anemia (All women) as per NFHS-4 and NFHS-5 across
+all the districts of India.
+NFHS Policy Tracker for Districts 
+
+[PAGE 27]
+Select State-District
+Page | 27
+Analysis of the correlation between Anemia (All women) as per NFHS-4
+and NFHS-5 across all the Aspirational Districts of India.
+Analysis of the correlation between Anemia (All women) as per NFHS-4
+and NFHS-5 across all the districts except Aspirational Districts of India.
+For example: If the user wants to determine the correlation between Anemia in
+Women as per NFHS-4 and NFHS-5 across the districts of Bihar:
+The Select State-District filter on the dashboard allows users to select the
+state for which the results will be visualized on the NFHS-5 map view.
+3
+Expand/Collapse all the fields
+NFHS Policy Tracker for Districts 
+
+[PAGE 28]
+Page | 28
+Select the state - Bihar
+Analysis of the correlation between Anemia (All women) as per NFHS-4
+and NFHS-5 across all the districts of Bihar.
+Note: Multiple selections 
+are also possible in the
+State-District filter.
+Analysis of the correlation between Anemia (All women) as per NFHS-4
+and NFHS-5 across all the Aspirational Districts of Bihar.
+NFHS Policy Tracker for Districts 
+
+[PAGE 29]
+4
+Page | 29
+Analysis of indicators between NFHS-4 and Change
+This section of the Analysis page can be used to compare the impact of an indicator
+as per NFHS-4 and the change (NFHS-5 minus NFHS-4).
+Analysis of the correlation between Anemia (All women) as per NFHS-4
+and NFHS-5 across all the districts except Aspirational Districts of India.
+This is the landing page of Analysis of indicators between NFHS-4 and Change.
+NFHS Policy Tracker for Districts 
+
+[PAGE 30]
+Page | 30
+2
+Select indicator on Y-Axis
+Expand/Collapse all the fields
+Select the indicator for 
+(X-Axis) - Anemia 
+(All Women)
+For example: If the user wants to determine whether the increase of IFA tablets
+decreases the Anemia prevalence across the districts:
+Select indicator on X-Axis
+Expand/Collapse all the fields
+Select the indicator 
+for X-Axis - Iron folic
+acid for 100 days
+Select an indicator from the Indicator (Y-Axis) filter.
+Select another indicator from the Indicator (X-Axis) filter to visualize its
+correlation with the indicator selected for (Y-Axis).
+NFHS Policy Tracker for Districts 
+
+[PAGE 31]
+4
+Page | 31
+Analysis of the correlation between Change in Anemia (All women) as per NFHS-4
+and Iron folic acid for 100 days across all the districts of India.
+Analysis of the correlation between Change in Anemia (All women) as per NFHS-4
+and Iron folic acid for 100 days across all the Aspirational Districts of India.
+NFHS Policy Tracker for Districts 
+
+[PAGE 32]
+4
+Page | 32
+For example: If the user wants to determine whether the increase of IFA tablets
+decreases the Anemia prevalence across the districts of Bihar:
+Select State-District
+The select state-district filter on the dashboard allows the users to select the
+state for which the results will be visualized on the NFHS-5 map view.
+3
+Expand/Collapse all the fields
+Select the state - Bihar
+Analysis of the correlation between Change in Anemia (All women) as per NFHS-4
+and Iron folic acid for 100 days across all the districts except Aspirational Districts of India.
+Note: Multiple selections 
+are also possible in the
+State-District filter.
+NFHS Policy Tracker for Districts 
+
+[PAGE 33]
+4
+Page | 33
+Analysis of the correlation between Change in Anemia (All women) as per NFHS-4
+and Iron folic acid for 100 days across all the districts of Bihar.
+Analysis of the correlation between Change in Anemia (All women) as per NFHS-4
+and Iron folic acid for 100 days across all the Aspirational Districts of Bihar.
+NFHS Policy Tracker for Districts 
+
+[PAGE 34]
+4
+Page | 34
+Analysis of Change on Change
+This section of the Analysis page can be used to compare the impact of change in
+indicators simultaneously.
+Analysis of the correlation between Change in Anemia (All women) as per NFHS-4
+and Iron folic acid for 100 days across all the districts except Aspirational Districts of Bihar.
+This is the landing page of Analysis of Change on Change.
+NFHS Policy Tracker for Districts 
+
+[PAGE 35]
+Page | 35
+2
+Select indicator on Y-Axis
+Expand/Collapse all the fields
+Select the indicator for 
+(Y-Axis) - Adolescent 
+Pregnancy
+For example: If the user wants to determine the correlation between the change in
+Adolescent Pregnancy and the change in Condom usage:
+Select indicator on X-Axis
+Expand/Collapse all the fields
+Select the indicator for 
+(X-Axis) - Condom
+Select an indicator from the Indicator (Y-Axis) filter.
+Select another indicator from the Indicator (X-Axis) filter to visualize its
+correlation with the indicator selected for (Y-Axis).
+NFHS Policy Tracker for Districts 
+
+[PAGE 36]
+4
+Page | 36
+Analysis of the correlation between Change in Adolescent Pregnancy and Change in the usage of
+Condom across all the districts of India.
+Analysis of the correlation between Change in Adolescent Pregnancy
+and Change in the usage of Condom across all the Aspirational Districts of India.
+NFHS Policy Tracker for Districts 
+
+[PAGE 37]
+4
+Page | 37
+Select State-District
+The select state-district filter on the dashboard allows the users to select the
+state for which the results have to be visualized on the NFHS-5 map view.
+3
+Expand/Collapse all the fields
+Select the state - Bihar
+Analysis of the correlation between Change in Adolescent pregnancy
+and Change in the usage of Condom across all the districts except
+Aspirational Districts of India.
+Note: Multiple selections 
+are also possible in the
+State-District filter.
+For example: If the user wants to determine the correlation between the change in
+Adolescent Pregnancy and the change in Condom usage in Bihar:
+NFHS Policy Tracker for Districts 
+
+[PAGE 38]
+4
+Page | 38
+Analysis of the correlation between Change in Adolescent pregnancy and Change in the
+usage of Condoms across all the districts of Bihar.
+Analysis of the correlation between Change in Adolescent pregnancy
+and Change in the usage of Condoms across all the Aspirational Districts of Bihar.
+NFHS Policy Tracker for Districts 
+
+[PAGE 39]
+4
+Page | 39
+Analysis of the correlation between Change in Adolescent pregnancy
+and Change in the usage of Condoms across all the districts except
+Aspirational Districts of Bihar.
+NFHS Policy Tracker for Districts 
+
+[PAGE 40]
+Technical Notes
+
+[PAGE 41]
+There were 707 districts that were surveyed in the NFHS-5 survey, compared to only
+640 in the NFHS-4 survey. The NFHS-4 survey used Census 2011’s 640 districts, with
+the exception that 3 districts (Chandigarh, Lakshadweep, and Dadra and Nagar Haveli)
+did not have NFHS-4 district factsheet data. We developed a novel methodological
+approach to assign values from the 637 NFHS-4 districts to the 707 NFHS-5 districts.
+This approach keeps the saliency of the NFHS-5 data and does not make any
+alterations to the NFHS-5 data that is reported at the district level. 
+While there are other methods for distributing the parent district values to the new 
+districts, such as using population weights, the data required for this are not available in 
+a usable form. Therefore, for the comparison of the 130 altered districts, we note 
+that this represents an approximation of what could have been possible. 
+Methodology for Comparing NFHS-4 and NFHS-5 Districts 
+Page | 41
+N=577
+Key Term
+Key terminology used in our Method 
+Definition
+Unchanged District 
+New District
+Parent District
+Brand New District
+Parent-Altered Districts
+Districts that had the same geographic boundary in the
+NFHS-4 and NFHS-5 surveys.
+Districts that had ANY boundary alternation between the
+NFHS-4 and NFHS-5 surveys. These include a brand-new
+district forming, a district being changed by either removing
+or adding parts of it, or any other form of alteration.
+NFHS-4 districts that new NFHS-5 districts were formed from.
+Districts that are not found in the NFHS-4 surveys and are a
+set of completely new geographic units in NFHS-5 formed by
+1, 2, or 3 parent(s) districts.
+Defined as districts that existed in both the NFHS-4 and
+NFHS-5 surveys but in the NFHS-5 survey had parts of the
+district that were either removed or added.
+Unchanged Districts
+Calculation 1
+Calculation 2
+N=115
+N=15
+NFHS Policy Tracker for Districts 
+NFHS-4 values that our team assigned to each district. The full list of districts that used 
+Calculation 1 and Calculation 2 can be found in Appendix A. 
+
+[PAGE 42]
+Indicators in NFHS-5 and NFHS-4 
+Page | 42
+Menstrual hygience 
+Adolescent pregnancy 
+Any contraceptive method 
+Positive 
+Positive 
+Negative 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Population and
+Household Profile 
+NFHS-5 Category Name 
+NFHS-5 Indicator Name 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Female population age 6 years and above who
+ever attended school (%) 
+Population below age 15 years (%) 
+Sex ratio of the total population (females per
+1,000 males)
+Sex ratio at birth for children born in the last
+five years (females per 1,000 males) 
+Children under age 5 years whose birth was
+registered with the civil authority (%) 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Population and
+Household Profile 
+Deaths in the last 3 years registered with the
+civil authority (%) 
+Population living in households with electricity
+(%) 
+Population living in households with an
+improved drinking-water source (%) 
+Population living in households that use an
+improved sanitation facility (%) 
+Households using clean fuel for cooking (%) 
+Households using iodized salt (%)
+Households with any usual member covered
+under a health insurance/financing scheme (%) 
+Children age 5 years who attended pre-primary
+school during the school year 2019-20 (%) 
+Characteristics of Women
+Characteristics of Women
+Women who are literate (%)
+Women with 10 or more years of schooling (%) 
+Marriage and Fertility 
+Women age 20-24 years married before
+age 18 years (%) 
+Marriage and Fertility 
+Marriage and Fertility 
+Marriage and Fertility 
+Births in the 5 years preceding the survey
+that are third or higher order (%) 
+Women age 15-19 years who were already
+mothers or pregnant at the time of the survey (%)
+Women age 15-24 years who use hygienic
+methods of protection during their menstrual
+period (%) 
+Current Use of Family
+Planning Methods 
+Any method (%) 
+NFHS-4
+Indicator
+Indicator Name in
+Dashboard 
+Direction
+Child marriage (Women)
+Female school attendance
+Population below 15 years
+Sex ratio
+Sex ratio at birth
+Birth registration
+Death registration
+Population in household
+with electricity
+Improved water
+Improved sanitaiton
+Clean fuel for cooking
+Iodized Salt
+Health insurance coverage
+Child attendance of pre-
+primary school
+Literate women
+10 or more years of schooling
+(Women)
+Third or higher order birth
+Positive
+Negative 
+Negative 
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+NFHS Policy Tracker for Districts 
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+
+[PAGE 43]
+Page | 43
+Current Use of Family
+Planning Methods
+NFHS-5 Category Name 
+NFHS-5 Indicator Name
+NFHS-4
+Indicator
+Indicator Name in
+Dashboard 
+Direction
+Current Use of Family
+Planning Methods
+Current Use of Family
+Planning Methods
+Current Use of Family
+Planning Methods
+Current Use of Family
+Planning Methods
+Current Use of Family
+Planning Methods
+Current Use of Family
+Planning Methods
+Any modern method (%)
+Female sterilization (%)
+Male sterilization (%)
+IUD/PPIUD (%) 
+Pill (%)
+Condom (%)
+Injectables (%)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Female sterilization
+Any modern method
+Male sterilization
+IUD/PPIUD
+Pill
+Condom
+Injectables
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Unmet Need for Family
+Planning
+Total unmet need (%)
+Yes
+Total unmet need
+Negative
+Unmet Need for Family
+Planning
+Unmet need for spacing (%)
+Yes
+Unmet need for spacing
+Negative
+Quality of Family Planning
+Services
+Quality of Family Planning
+Services
+Maternal and Child Health
+Maternal and Child Health
+Maternal and Child Health
+Maternal and Child Health
+Maternal and Child Health
+Maternal and Child Health
+Maternal and Child Health
+Maternal and Child Health
+Maternal and Child Health
+Mothers who had an antenatal check-up in the
+first trimester (%)
+Health worker ever talked to female non-users
+about family planning (%)
+Current users ever told about side effects of
+current method (%)
+Mothers who had at least 4 antenatal care visits
+(%)
+Mothers whose last birth was protected against
+neonatal tetanus (%)
+Mothers who consumed iron folic acid for 100
+days or more when they were pregnant (%)
+Mothers who consumed iron folic acid for 180
+days or more when they were pregnant (%)
+Registered pregnancies for which the mother
+received a Mother and Child Protection (MCP)
+card (%)
+Mothers who received postnatal care from a
+doctor/nurse/LHV/ANM/midwife/other health
+personnel within 2 days of delivery (%)
+Average out-of-pocket expenditure per delivery
+in a public health facility (Rs.)
+Children born at home who were taken to a
+health facility for a check-up within 24 hours of
+birth (%)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+No
+Interaction of health worker
+Current users ever told
+about side effects
+Antenatal check-up in the
+first trimester
+At least 4 antenatal care
+visits
+Last birth protected against
+neonatal tetanus
+Iron folic acid for 100 days
+Iron folic acid for 180 days
+Mother and Child
+Protection card received
+Mothers received postnatal
+care
+OOP expenditure per
+delivery
+Postnatal check after home
+delivery
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+NFHS Policy Tracker for Districts 
+
+[PAGE 44]
+Page | 44
+NFHS-5 Category Name
+NFHS-5 Indicator Name
+NFHS-4
+Indicator
+Indicator Name in
+Dashboard
+Direction
+Maternal and Child Health
+Children who received postnatal care from a
+doctor/nurse/LHV/ANM/midwife/other health
+personnel within 2 days of delivery (%)
+Institutional births (%)
+Delivery Care
+Delivery Care
+Delivery Care
+Delivery Care
+Delivery Care
+Delivery Care
+Delivery Care
+Institutional births in public facility (%)
+Home births that were conducted by skilled
+health personnel (%)
+Births attended by skilled health personnel (%)
+Births delivered by caesarean section (%)
+Births in a private health facility that were
+delivered by caesarean section (%)
+Births in a public health facility that were
+delivered by caesarean section (%) 
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Postnatal check by skilled
+health workers 
+Institutional births
+In public facility
+Home delivery by skilled
+health personnel
+Births by skilled health
+personnel 
+Caesarean section delivery
+Caesarean section in
+private sector
+Caesarean section in public
+sector
+Full vaccination
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Child Vaccinations and Vit
+A Supplements
+Children age 12-23 months fully vaccinated
+based on information from either vaccination
+card or mother's recall (%)
+Children age 12-23 months fully vaccinated
+based on information from vaccination card
+only (%)
+Children age 12-23 months who have received
+BCG (%)
+Children age 12-23 months who have received
+3 doses of polio vaccine (%)
+Children age 12-23 months who have received
+3 doses of penta or DPT vaccine (%)
+Children age 12-23 months who have received
+the first dose of measles-containing vaccine
+(MCV) (%)
+Children age 24-35 months who have received
+a second dose of measles-containing vaccine
+(MCV) (%)
+Children age 12-23 months who have received
+3 doses of rotavirus vaccine (%)
+Children age 12-23 months who have received
+3 doses of penta or hepatitis B vaccine (%)
+Children age 9-35 months who received a
+vitamin A dose in the last 6 months (%)
+Children age 12-23 months who received most
+of their vaccinations in a public health facility
+(%)
+Full vaccination (Source
+from card only)
+BCG
+3 doses of polio vaccine 
+3 doses of penta or DPT
+vaccine
+First dose of measles-
+containing vaccine
+Second dose of measles-
+containing vaccine
+3 doses of rotavirus
+vaccine
+3 doses of penta or
+hepatitis B vaccine
+Vitamin A dose in the last 6
+months
+Vaccinations in a public
+health facility
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+NFHS Policy Tracker for Districts 
+
+[PAGE 45]
+Page | 45
+Child Vaccinations and Vit
+A Supplements
+NFHS-5 Category Name
+NFHS-5 Indicator Name
+NFHS-4
+Indicator
+Indicator Name in
+Dashboard
+Direction
+Children age 12-23 months who received most
+of their vaccinations in a private health facility
+(%)
+Treatment of Childhood
+Diseases
+Treatment of Childhood
+Diseases
+Treatment of Childhood
+Diseases
+Treatment of Childhood
+Diseases
+Treatment of Childhood
+Diseases
+Treatment of Childhood
+Diseases
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Child Feeding and
+Nutritional Status
+Prevalence of diarrhoea in the 2 weeks
+preceding the survey (%) 
+Children with diarrhoea in the 2 weeks
+preceding the survey who received oral
+rehydration salts (ORS) (%)
+Children with diarrhoea in the 2 weeks
+preceding the survey who received zinc (%)
+Children with diarrhoea in the 2 weeks
+preceding the survey taken to a health facility
+or health provider (%)
+Prevalence of symptoms of acute respiratory
+infection (ARI) in the 2 weeks preceding the
+survey (%)
+Children with fever or symptoms of ARI in the 2
+weeks preceding the survey taken to a health
+facility or health provider (%)
+Children under age 3 years breastfed within
+one hour of birth (%)
+Children under age 6 months exclusively
+breastfed (%)
+Children age 6-8 months receiving solid or
+semi-solid food and breastmilk (%)
+Breastfeeding children age 6-23 months
+receiving an adequate diet (%)
+Non-breastfeeding children age 6-23 months
+receiving an adequate diet (%)
+Total children age 6-23 months receiving an
+adequate diet (%)
+Children under 5 years who are stunted
+(height-for-age) (%)
+Children under 5 years who are wasted
+(weight-for-height) (%)
+Children under 5 years who are severely
+wasted (weight-for-height) (%)
+Children under 5 years who are underweight
+(weight-for-age) (%)
+Children under 5 years who are overweight
+(weight-for-height) (%)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Vaccinations in a private
+health facility
+Prevalence of diarrhoea
+Children with diarrhoea
+who received ORS
+Children with diarrhoea
+who received zinc
+Children with diarrhoea
+taken to health facility
+Prevalence of ARI
+Children with fever or ARI
+taken to health facility
+Breastfed within one hour
+of birth
+Exclusive breastfeding
+(within 6 months)
+Receiving solid/semi-solid
+food (6-8 months)
+Adequate diet
+(Breastfeeding - 6-23
+months)
+Adequate diet
+(Nonbreastfeeding - 6-23
+months)
+Adequate diet (All children
+- 6-23 months)
+Stunting
+Wasting
+Severe wasting
+Underweight
+Overweight
+Positive
+Negative
+Positive
+Positive
+Positive
+Negative
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Negative
+Negative
+Negative
+Negative
+Negative
+No
+NFHS Policy Tracker for Districts 
+
+[PAGE 46]
+Page | 46
+NFHS-5 Category Name
+NFHS-5 Indicator Name
+NFHS-4
+Indicator
+Indicator Name in
+Dashboard 
+Direction
+Nutritional Status of
+Women
+Nutritional Status of
+Women
+Nutritional Status of
+Women
+Anaemia among Children
+and Women
+Anaemia among Children
+and Women
+Anaemia among Children
+and Women
+Anaemia among Children
+and Women
+Anaemia among Children
+and Women
+Blood Sugar Level among
+Adults
+Blood Sugar Level among
+Adults
+Blood Sugar Level among
+Adults
+Blood Sugar Level among
+Adults
+Blood Sugar Level among
+Adults
+Blood Sugar Level among
+Adults
+Hypertension among
+Adults
+Hypertension among
+Adults
+Hypertension among
+Adults
+Hypertension among
+Adults
+Women whose Body Mass Index (BMI) is below
+normal (BMI <18.5 kg/m2) (%)
+Women who are overweight or obese (BMI
+≥25.0 kg/m2) (%) 
+Women who have high risk waist-to-hip ratio
+(≥0.85) (%)
+Children age 6-59 months who are anaemic
+(<11.0 g/dl) (%)
+Non-pregnant women age 15-49 years who are
+anaemic (<12.0 g/dl) (%)
+Pregnant women age 15-49 years who are
+anaemic (<11.0 g/dl) (%)
+All women age 15-49 years who are anaemic
+(%)
+All women age 15-19 years who are anaemic
+(%)
+Blood sugar level - high (141-160 mg/dl) (%)
+Blood sugar level - very high (>160 mg/dl (%)
+Blood sugar level - high or very high (>140
+mg/dl) or taking medicine to control blood
+sugar level (%)
+Blood sugar level - high (141-160 mg/dl) (%)
+Blood sugar level - very high (>160 mg/dl) (%)
+Blood sugar level - high or very high (>140
+mg/dl) or taking medicine to control blood
+sugar level (%)
+Mildly elevated blood pressure (Systolic 140-
+159 mm of Hg and/or Diastolic 90-99 mm of
+Hg) (%)
+Moderately or severely elevated blood
+pressure (Systolic ≥160mm of Hg and/or
+Diastolic ≥100mm of Hg) (%)
+Elevated blood pressure (Systolic ≥140 mm of
+Hg and/or Diastolic ≥90 mm of Hg) or taking
+medicine to control blood pressure (%)
+Mildly elevated blood pressure (Systolic 140-
+159 mm of Hg and/or Diastolic 90-99 mm of
+Hg) (%)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+BMI below normal
+(Women)
+Overweight or obese
+(Women)
+Risky waist-to-hip ratio
+(Women)
+Anemia (Children)
+Anemia (Non-pregnant
+women)
+Anemia (Pregnant women)
+Anemia (All women)
+Anemia (All adolescent
+women)
+High (141-160 mg/dl)
+(Women)
+Very high (>160 mg/dl)
+(Women)
+High or very high or taking
+medicine (Women) 
+High (141-160 mg/dl)
+(Men)
+Very high (>160 mg/dl)
+(Men)
+High or very high or taking
+medicine (Men) 
+Mild blood pressure
+(Women)
+Moderate or severe blood
+pressure (Women)
+Blood pressure (Women)
+Mild blood pressure (Men)
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+NFHS Policy Tracker for Districts 
+
+[PAGE 47]
+The 112 current aspirational districts from NITI Aayog were matched to the 707 districts
+surveyed in NFHS-5. There are only 111 aspirational districts identified on our 
+dashboard because we were unable to discern the equivalent district to “Bhoopalapalli
+(Warangal)” in mapping the 112 aspirational district list to the 707-district list. 
+ 
+Note on Aspirational Districts 
+Page | 47
+Hypertension among
+Adults
+Hypertension among
+Adults
+Screening for Cancer
+among Women
+Screening for Cancer
+among Women
+Tobacco and Alcohol Use
+among Adults
+Tobacco and Alcohol Use
+among Adults
+Tobacco and Alcohol Use
+among Adults
+Tobacco and Alcohol Use
+among Adults
+Screening for Cancer
+among Women
+Moderately or severely elevated blood
+pressure (Systolic ≥160mm of Hg and/or
+Diastolic ≥100mm of Hg) (%)
+Elevated blood pressure (Systolic ≥140 mm of
+Hg and/or Diastolic ≥90 mm of Hg) or taking
+medicine to control blood pressure (%)
+Ever undergone a screening test for cervical
+cancer (%)
+Ever undergone a breast examination for
+breast cancer (%)
+Ever undergone an oral cavity examination for
+oral cancer (%)
+Women age 15 years and above who use any
+kind of tobacco (%) 
+Men age 15 years and above who use any kind
+of tobacco (%)
+Women age 15 years and above who consume
+alcohol (%)
+Men age 15 years and above who consume
+alcohol (%)
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Moderate or severe blood
+pressure (Men)
+Blood pressure (Men) 
+Screening for cervical
+cancer (Women)
+Examination for breast
+cancer (Women)
+Examination for oral cancer
+(Women)
+Tobacco use (Women)
+Tobacco use (Men)
+Alcohol consumption
+(Women)
+Alcohol consumption (Men)
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+NFHS-5 Category Name
+NFHS-5 Indicator Name
+NFHS-4
+Indicator
+Indicator Name in
+Dashboard
+Direction
+NFHS Policy Tracker for Districts 
+
+[PAGE 48]
+Interpreting the Color Legend for Change between NFHS-4 and NFHS-5
+Interpreting the Color Legend for NFHS-5
+Page | 48
+The divergent color legend going from red to blue on the NFHS-5 page is
+divided up into 10 percentiles, with 100 being the worst (>90th percentile)
+and 1 being the best (<10th percentile). Additionally, the higher number of
+each percentile category is displayed on the dashboard. For example, the
+30th percentile displays values falling between the 20th and 30th
+percentiles. Percentiles 10 to 50 are colored in shades of blue, and
+percentiles 60 to 100 are colored in shades of red.
+For the change page, we divided it up into 2 groups first, based on whether
+the district experienced improvement or worsened. This was done by
+subtracting the NFHS-4 value from the NFHS-5 value. After that, using the
+“Direction” column from the table above, we knew whether a positive
+difference or a negative difference was better for each indicator. For
+example, if a district had 50% literate population in NFHS-4 and 60% literate
+population in NFHS-5, the difference was +10% (60-50). This would be
+labeled as a positive, contrary to if a district had 50% stunting in NFHS-4
+and 60% stunting in NFHS5, the difference would be +10% (60-50), but this
+would be labeled as a negative.
+NFHS Policy Tracker for Districts 
+Note: All the values were rounded for displaying on the dashboard to 1 decimal
+place. Thus, if a district experienced a -0.03% change, it shows 0% change but
+falls into the improvement category. However, districts having exactly 0%
+change are labelled as worsened.
+
+[PAGE 49]
+Page | 49
+Following this, we divided each group of districts (improved and worsened)
+for each indicator into 2 more additional sub-groups. This was done using
+the 50th percentile of the improved and worsened groups separately, to
+assign a district a group value of 1 to 4, with 1 being highest improvement,
+and 4 being extremely worsened. For about 0.8% of district-indicator
+pairings, there is 0 change between NFHS-4 and NFHS-5, and those
+districts are colored as “Improvement” or “Worsened” depending on the
+indicator direction. We also added the number of districts that fall into each
+category as shown in the image above for “Anemia (All women)”.
+NFHS Policy Tracker for Districts 
+
+[PAGE 50]
+Calculation 1: One (1) NFHS-4 parent district becoming
+one (1) brand-new NFHS-5 district and one (1) parent-
+altered NFHS-5 district. 
+Calculation 2: Two (2) NFHS-4 parent districts forming one (1)
+brand-new NFHS-5 districts and two (2) parent-altered NFHS-
+5 districts. 
+Page | 50
+In this calculation, the NFHS-4 value for the brand-new and parent-altered districts is going
+to be the same as what the parent district had in the NFHS-4 district factsheet. This can be
+illustrated with the example below:
+*Thane is the parent-altered version of Thane from NFHS-4 (its parent district) after Palghar
+was carved out from it. N/A = Not Applicable, only *Thane appears, not Thane, in NFHS-5. 
+In this calculation, the NFHS-4 values for the parent-altered districts remain the same as
+their respective parent district. The NFHS-4 value for the brand-new district is the mean of
+the two or three parent district values.
+*Ahmadabad and *Bhavnagar are the parent-altered version of their respective parent
+districts after forming Botad, a new district that was created from some parts of both
+districts. N/A = Not Applicable, only *Ahmadabad and *Bhavnagar appear in NFHS-5.
+District
+Thane 
+Palghar
+*Thane
+54.1 
+54.1 
+54.1 
+NFHS-4 Value
+NFHS-5 Value
+N/A
+70.3
+67.9
+District
+NFHS-4 Value
+NFHS-5 Value
+Ahmadabad 768
+Bhavnagar 926 
+Botad 1032 
+*Ahmadabad 1010
+*Bhavnagar 950 
+76
+69.2
+72.6
+76 
+69.2
+N/A
+N/A
+75.5
+72
+71.5
+NFHS Policy Tracker for Districts 
+
+[PAGE 51]
+Appendix A 
+Page | 51
+State Name 
+Arunachal Pradesh 
+Arunachal Pradesh 
+Arunachal Pradesh 
+Arunachal Pradesh 
+Arunachal Pradesh 
+Arunachal Pradesh 
+Arunachal Pradesh 
+Arunachal Pradesh 
+Arunachal Pradesh 
+Assam 
+Assam 
+Assam 
+Assam 
+Assam 
+Assam 
+Assam 
+Assam 
+Assam 
+Assam 
+Assam 
+Assam 
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh 
+Chhattisgarh 
+Chhattisgarh 
+Chhattisgarh 
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh 
+Chhattisgarh 
+Chhattisgarh 
+Chhattisgarh 
+Chhattisgarh 
+District Name 
+East Siang 
+Kra Daadi 
+Kurung Kumey 
+Lohit 
+Namsai 
+Langding 
+Tirap 
+West Siang 
+Siang 
+Dhubri 
+South Salmara-Mankachar
+Jorhat 
+Majuli 
+Karbi Anglong 
+Karbi Anglong West 
+Hojai 
+Nagaon 
+Charaideo 
+Sivasagar 
+Biswanath 
+Sonitpur 
+Balrampur 
+Bastar 
+Dantewada 
+Kodagaon 
+Bilaspur 
+Mungeli 
+Sukma 
+Balod 
+Bemetara 
+Durg 
+Baloda Bazar 
+Gariaband 
+Raipur 
+Example Calculation 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 2 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+NFHS Policy Tracker for Districts 
+
+[PAGE 52]
+Page | 52
+State Name 
+Chhattisgarh 
+Chhattisgarh
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Gujarat 
+Haryana 
+Haryana 
+Madhya Pradesh
+Madhya Pradesh
+Maharashtra
+Maharashtra
+Meghalaya
+Meghalaya
+Meghalaya
+Meghalaya
+Meghalaya
+Meghalaya
+Meghalaya
+Meghalaya 
+NCT of Delhi 
+NCT of Delhi 
+NCT of Delhi 
+District Name 
+Surajpur 
+Surguja 
+Ahmadabad 
+Botad 
+Bhavnagar 
+Devbhoomi Dwarka
+Jamnagar 
+Gir Somnath 
+Junagadh 
+Kheda 
+Panch Mahals
+Mahisagar 
+Rajkot 
+Morbi 
+Aravali 
+Sabar Kantha
+Surendranagar 
+Chhota Udaipur
+Vadodara 
+Bhiwani 
+Dadri 
+Agar Malwa 
+Shajapur 
+Palghar 
+Thane 
+North Garo Hills 
+East Garo Hills 
+East Jaintia Hills 
+West Jaintia Hills 
+West Garo Hills 
+South West Garo Hills
+West Khasi Hills 
+South West Khasi Hills 
+Central 
+East 
+South East 
+Example Calculation 
+Example 1 
+Example 1 
+Example 1 
+Example 2 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 2 
+Example 1 
+Example 2 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 2 
+Example 1 
+Example 1 
+
+NFHS Policy Tracker for Districts 
+
+[PAGE 53]
+Page | 53
+State Name 
+NCT of Delhi 
+NCT of Delhi 
+NCT of Delhi 
+NCT of Delhi 
+NCT of Delhi 
+NCT of Delhi 
+NCT of Delhi 
+Punjab 
+Punjab 
+Punjab 
+Punjab 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+District Name 
+Shahdara
+New Delhi
+North
+North East
+North West
+South
+South West
+Fazilka
+Ferozpur
+Pathankot
+Gurdaspur
+Adilabad
+Kumuram Bheem (Asifabad)
+Mancherial
+Nirmal
+Jagtial
+Karimnagar
+Peddapalle
+Rajanna Sircilla 
+Bhadradri Kothagudem
+Khammam
+Jogulambha Gadwal
+Mahbubnagar
+Nagarkurnool
+Wanaparthy
+Medak
+Sangareddy
+Siddipet
+Nalgonda
+Suryapet
+Yadadri Bhuvanagiri 
+Kamareddy
+Nizamabad
+Ranga Reddy
+Medchal-Malkajgiri
+Vikarabad
+Example Calculation 
+Example 2
+Example 2 
+Example 2 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 2 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 2
+
+NFHS Policy Tracker for Districts 
+
+[PAGE 54]
+Page | 54
+State Name 
+Telangana 
+Telangana 
+Telangana 
+Telangana 
+Telangana
+Tripura 
+Tripura 
+Tripura 
+Tripura 
+Tripura 
+Tripura 
+Tripura 
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+West Bengal
+West Bengal 
+District Name                                      
+Mahabubabad
+Warangal Rural
+Jayashankar Bhupalapally
+Warangal Urban
+Jangaon
+North Tripura
+Unakoti
+Gomati
+South Tripura
+Khowai
+Sepahijala
+West Tripura
+Budaun
+Ghaziabad
+Hapur
+Moradabad
+Sambhal
+Muzaffarnagar
+Shamli
+Rae Bareli
+Sultanpur
+Amethi
+Paschim Barddhaman
+Purba Barddhaman
+Example Calculation 
+Example 1
+Example 1
+Example 2 
+Example 2 
+Example 2 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 2 
+Example 1 
+Example 1 
+Example 1 
+Example 1 
+Example 2 
+Example 1 
+Example 1
+
+NFHS Policy Tracker for Districts 
+
+[PAGE 55]
+Correlation Coefficient = 
+VAR __CORRELATION_TABLE = VALUES('ALL Scatter (X-Axis)'[NFHS-5 District, State]) 
+VAR __COUNT = 
+COUNTX( 
+KEEPFILTERS(__CORRELATION_TABLE), 
+CALCULATE( 
+SUM('ALL Scatter (X-Axis)'[Final Change (5-4) Value]) 
+* SUM('ALL Scatter (Y-Axis)'[Final Change (5-4) Value]) 
+) 
+) 
+VAR __SUM_X = 
+SUMX( 
+KEEPFILTERS(__CORRELATION_TABLE), 
+CALCULATE(SUM('ALL Scatter (X-Axis)'[Final Change (5-4) Value])) 
+) 
+VAR __SUM_Y = 
+SUMX( 
+KEEPFILTERS(__CORRELATION_TABLE), 
+CALCULATE(SUM('ALL Scatter (Y-Axis)'[Final Change (5-4) Value])) 
+) 
+VAR __SUM_XY = 
+SUMX( 
+KEEPFILTERS(__CORRELATION_TABLE), 
+CALCULATE( 
+SUM('ALL Scatter (X-Axis)'[Final Change (5-4) Value]) 
+* SUM('ALL Scatter (Y-Axis)'[Final Change (5-4) Value]) * 1. 
+) 
+) 
+VAR __SUM_X2 = 
+SUMX( 
+KEEPFILTERS(__CORRELATION_TABLE), 
+CALCULATE(SUM('ALL Scatter (X-Axis)'[Final Change (5-4) Value]) ^ 2) 
+) 
+VAR __SUM_Y2 = 
+SUMX( 
+KEEPFILTERS(__CORRELATION_TABLE), 
+CALCULATE(SUM('ALL Scatter (Y-Axis)'[Final Change (5-4) Value]) ^ 2) 
+) 
+RETURN 
+DIVIDE( 
+__COUNT * __SUM_XY - __SUM_X * __SUM_Y * 1., 
+SQRT( 
+(__COUNT * __SUM_X2 - __SUM_X ^ 2) 
+* (__COUNT * __SUM_Y2 - __SUM_Y ^ 2) 
+) ) 
+Appendix B 
+Page | 55
+NFHS Policy Tracker for Districts 

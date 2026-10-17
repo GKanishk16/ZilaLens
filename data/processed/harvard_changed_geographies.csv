@@ -1,0 +1,131 @@
+state,district,calculation
+Arunachal Pradesh,East Siang,Example 1
+Arunachal Pradesh,Kra Daadi,Example 1
+Arunachal Pradesh,Kurung Kumey,Example 1
+Arunachal Pradesh,Lohit,Example 1
+Arunachal Pradesh,Namsai,Example 1
+Arunachal Pradesh,Langding,Example 1
+Arunachal Pradesh,Tirap,Example 1
+Arunachal Pradesh,West Siang,Example 1
+Arunachal Pradesh,Siang,Example 2
+Assam,Dhubri,Example 1
+Assam,South Salmara-Mankachar,Example 1
+Assam,Jorhat,Example 1
+Assam,Majuli,Example 1
+Assam,Karbi Anglong,Example 1
+Assam,Karbi Anglong West,Example 1
+Assam,Hojai,Example 1
+Assam,Nagaon,Example 1
+Assam,Charaideo,Example 1
+Assam,Sivasagar,Example 1
+Assam,Biswanath,Example 1
+Assam,Sonitpur,Example 1
+Chhattisgarh,Balrampur,Example 1
+Chhattisgarh,Bastar,Example 1
+Chhattisgarh,Dantewada,Example 1
+Chhattisgarh,Kodagaon,Example 1
+Chhattisgarh,Bilaspur,Example 1
+Chhattisgarh,Mungeli,Example 1
+Chhattisgarh,Sukma,Example 1
+Chhattisgarh,Balod,Example 1
+Chhattisgarh,Bemetara,Example 1
+Chhattisgarh,Durg,Example 1
+Chhattisgarh,Baloda Bazar,Example 1
+Chhattisgarh,Gariaband,Example 1
+Chhattisgarh,Raipur,Example 1
+Chhattisgarh,Surajpur,Example 1
+Chhattisgarh,Surguja,Example 1
+Gujarat,Ahmadabad,Example 1
+Gujarat,Botad,Example 2
+Gujarat,Bhavnagar,Example 1
+Gujarat,Devbhoomi Dwarka,Example 1
+Gujarat,Jamnagar,Example 1
+Gujarat,Gir Somnath,Example 1
+Gujarat,Junagadh,Example 1
+Gujarat,Kheda,Example 1
+Gujarat,Panch Mahals,Example 1
+Gujarat,Mahisagar,Example 2
+Gujarat,Rajkot,Example 1
+Gujarat,Morbi,Example 2
+Gujarat,Aravali,Example 1
+Gujarat,Sabar Kantha,Example 1
+Gujarat,Surendranagar,Example 1
+Gujarat,Chhota Udaipur,Example 1
+Gujarat,Vadodara,Example 1
+Haryana,Bhiwani,Example 1
+Haryana,Dadri,Example 1
+Madhya Pradesh,Agar Malwa,Example 1
+Madhya Pradesh,Shajapur,Example 1
+Maharashtra,Palghar,Example 1
+Maharashtra,Thane,Example 1
+Meghalaya,North Garo Hills,Example 1
+Meghalaya,East Garo Hills,Example 1
+Meghalaya,East Jaintia Hills,Example 1
+Meghalaya,West Jaintia Hills,Example 1
+Meghalaya,West Garo Hills,Example 1
+Meghalaya,South West Garo Hills,Example 1
+Meghalaya,West Khasi Hills,Example 1
+Meghalaya,South West Khasi Hills,Example 1
+NCT of Delhi,Central,Example 2
+NCT of Delhi,East,Example 1
+NCT of Delhi,South East,Example 1
+NCT of Delhi,Shahdara,Example 2
+NCT of Delhi,New Delhi,Example 2
+NCT of Delhi,North,Example 2
+NCT of Delhi,North East,Example 1
+NCT of Delhi,North West,Example 1
+NCT of Delhi,South,Example 1
+NCT of Delhi,South West,Example 1
+Punjab,Fazilka,Example 1
+Punjab,Ferozpur,Example 1
+Punjab,Pathankot,Example 1
+Punjab,Gurdaspur,Example 1
+Telangana,Adilabad,Example 1
+Telangana,Kumuram Bheem (Asifabad),Example 1
+Telangana,Mancherial,Example 1
+Telangana,Nirmal,Example 1
+Telangana,Jagtial,Example 1
+Telangana,Karimnagar,Example 1
+Telangana,Peddapalle,Example 1
+Telangana,Rajanna Sircilla,Example 1
+Telangana,Bhadradri Kothagudem,Example 1
+Telangana,Khammam,Example 1
+Telangana,Jogulambha Gadwal,Example 1
+Telangana,Mahbubnagar,Example 1
+Telangana,Nagarkurnool,Example 1
+Telangana,Wanaparthy,Example 1
+Telangana,Medak,Example 1
+Telangana,Sangareddy,Example 1
+Telangana,Siddipet,Example 2
+Telangana,Nalgonda,Example 1
+Telangana,Suryapet,Example 1
+Telangana,Yadadri Bhuvanagiri,Example 1
+Telangana,Kamareddy,Example 1
+Telangana,Nizamabad,Example 1
+Telangana,Ranga Reddy,Example 1
+Telangana,Medchal-Malkajgiri,Example 1
+Telangana,Vikarabad,Example 2
+Telangana,Mahabubabad,Example 1
+Telangana,Warangal Rural,Example 1
+Telangana,Jayashankar Bhupalapally,Example 2
+Telangana,Warangal Urban,Example 2
+Telangana,Jangaon,Example 2
+Tripura,North Tripura,Example 1
+Tripura,Unakoti,Example 1
+Tripura,Gomati,Example 1
+Tripura,South Tripura,Example 1
+Tripura,Khowai,Example 1
+Tripura,Sepahijala,Example 1
+Tripura,West Tripura,Example 1
+Uttar Pradesh,Budaun,Example 1
+Uttar Pradesh,Ghaziabad,Example 1
+Uttar Pradesh,Hapur,Example 1
+Uttar Pradesh,Moradabad,Example 1
+Uttar Pradesh,Sambhal,Example 2
+Uttar Pradesh,Muzaffarnagar,Example 1
+Uttar Pradesh,Shamli,Example 1
+Uttar Pradesh,Rae Bareli,Example 1
+Uttar Pradesh,Sultanpur,Example 1
+Uttar Pradesh,Amethi,Example 2
+West Bengal,Paschim Barddhaman,Example 1
+West Bengal,Purba Barddhaman,Example 1

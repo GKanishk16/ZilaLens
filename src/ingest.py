@@ -3,6 +3,7 @@ from pathlib import Path
 from datetime import date
 import urllib.request
 import pandas as pd
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / 'data' / 'raw'
@@ -30,21 +31,40 @@ def read_round(name):
         if not needed.issubset(df.columns): raise ValueError(f'Unexpected NFHS-4 columns: {df.columns.tolist()}')
         df = df.rename(columns={'indicator_name':'indicator','total':'value'})
     else:
-        df = pd.read_excel(path)
-        # Preserve source headers, normalizing only known name/value columns.
+        df = pd.read_excel(path, sheet_name=0, engine='xlrd')
+        # The official catalog workbook uses "District Names" and "State/UT".
+        # Preserve its raw indicator labels for source traceability.
         cols = {str(c).strip().lower(): c for c in df.columns}
         def find(*terms):
             return next((cols[t] for t in terms if t in cols), None)
-        dcol, scol = find('district'), find('state','state/ut')
+        dcol, scol = find('district','district names'), find('state','state/ut')
         if not dcol or not scol: raise ValueError(f'Could not identify district/state columns: {df.columns.tolist()}')
         long = df.melt(id_vars=[scol,dcol], var_name='indicator', value_name='value')
         df = long.rename(columns={scol:'state',dcol:'district'})
     df['round'] = name.upper().replace('NFHS','NFHS-')
     df['source_file'] = str(path.relative_to(ROOT))
+    df['source_indicator'] = df['indicator'].astype(str).str.strip()
+    if name == 'nfhs5':
+        aliases = {
+            'women (age 15-49) who are literate4 (%)': 'Women who are literate (%)',
+            'women (age 15-49)  with 10 or more years of schooling (%)': 'Women with 10 or more years of schooling (%)',
+            'women (age 15-49) with 10 or more years of schooling (%)': 'Women with 10 or more years of schooling (%)',
+            'women age 20-24 years married before age 18 years (%)': 'Women age 20-24 years married before age 18 years (%)',
+            'households using clean fuel for cooking3 (%)': 'Households using clean fuel for cooking (%)',
+        }
+        df['indicator'] = df['indicator'].map(lambda x: aliases.get(re.sub(r'\s+',' ',str(x).strip()).lower(), str(x).strip()))
+    else:
+        aliases = {
+            'women who are literate (%)': 'Women who are literate (%)',
+            'women with 10 or more years of schooling (%)': 'Women with 10 or more years of schooling (%)',
+            'women age 20-24 years married before age 18 years (%)': 'Women age 20-24 years married before age 18 years (%)',
+            'households using clean fuel for cooking': 'Households using clean fuel for cooking (%)',
+        }
+        df['indicator'] = df['indicator'].map(lambda x: aliases.get(re.sub(r'\s+',' ',str(x).strip()).lower(), str(x).strip()))
     df['value'] = pd.to_numeric(df['value'], errors='coerce')
     df['district'] = df['district'].astype(str).str.strip()
     df['state'] = df['state'].astype(str).str.strip()
-    return df[['state','district','round','indicator','value','source_file']]
+    return df[['state','district','round','indicator','source_indicator','value','source_file']]
 
 if __name__ == '__main__':
     for n in SOURCES:

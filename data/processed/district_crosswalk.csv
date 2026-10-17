@@ -1,638 +1,734 @@
-district_id,nfhs4_present,nfhs5_present,mapping_decision
-andaman and nicobar islands::nicobar,True,False,exact normalized name; review boundary changes manually
-andaman and nicobar islands::north and middle andaman,True,False,exact normalized name; review boundary changes manually
-andaman and nicobar islands::south andaman,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::anantapur,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::chittoor,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::east godavari,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::guntur,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::krishna,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::kurnool,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::prakasam,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::sri potti sriramulu nellore,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::srikakulam,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::visakhapatnam,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::vizianagaram,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::west godavari,True,False,exact normalized name; review boundary changes manually
-andhra pradesh::y s r cuddapah,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::anjaw,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::changlang,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::dibang valley,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::east kameng,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::east siang,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::kurung kumey,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::lohit,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::lower dibang valley,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::lower subansiri,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::papumpare,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::tawang,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::tirap,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::upper siang,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::upper subansiri,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::west kameng,True,False,exact normalized name; review boundary changes manually
-arunachal pradesh::west siang,True,False,exact normalized name; review boundary changes manually
-assam::baksa,True,False,exact normalized name; review boundary changes manually
-assam::barpeta,True,False,exact normalized name; review boundary changes manually
-assam::bongaigaon,True,False,exact normalized name; review boundary changes manually
-assam::cachar,True,False,exact normalized name; review boundary changes manually
-assam::chirang,True,False,exact normalized name; review boundary changes manually
-assam::darrang,True,False,exact normalized name; review boundary changes manually
-assam::dhemaji,True,False,exact normalized name; review boundary changes manually
-assam::dhubri,True,False,exact normalized name; review boundary changes manually
-assam::dibrugarh,True,False,exact normalized name; review boundary changes manually
-assam::dima hasao,True,False,exact normalized name; review boundary changes manually
-assam::goalpara,True,False,exact normalized name; review boundary changes manually
-assam::golaghat,True,False,exact normalized name; review boundary changes manually
-assam::hailakandi,True,False,exact normalized name; review boundary changes manually
-assam::jorhat,True,False,exact normalized name; review boundary changes manually
-assam::kamrup,True,False,exact normalized name; review boundary changes manually
-assam::kamrup metropolitan,True,False,exact normalized name; review boundary changes manually
-assam::karbi anglong,True,False,exact normalized name; review boundary changes manually
-assam::karimganj,True,False,exact normalized name; review boundary changes manually
-assam::kokrajhar,True,False,exact normalized name; review boundary changes manually
-assam::lakhimpur,True,False,exact normalized name; review boundary changes manually
-assam::morigaon,True,False,exact normalized name; review boundary changes manually
-assam::nagaon,True,False,exact normalized name; review boundary changes manually
-assam::nalbari,True,False,exact normalized name; review boundary changes manually
-assam::sivasagar,True,False,exact normalized name; review boundary changes manually
-assam::sonitpur,True,False,exact normalized name; review boundary changes manually
-assam::tinsukia,True,False,exact normalized name; review boundary changes manually
-assam::udalguri,True,False,exact normalized name; review boundary changes manually
-bihar::araria,True,False,exact normalized name; review boundary changes manually
-bihar::arwal,True,False,exact normalized name; review boundary changes manually
-bihar::aurangabad,True,False,exact normalized name; review boundary changes manually
-bihar::banka,True,False,exact normalized name; review boundary changes manually
-bihar::begusarai,True,False,exact normalized name; review boundary changes manually
-bihar::bhagalpur,True,False,exact normalized name; review boundary changes manually
-bihar::bhojpur,True,False,exact normalized name; review boundary changes manually
-bihar::buxar,True,False,exact normalized name; review boundary changes manually
-bihar::darbhanga,True,False,exact normalized name; review boundary changes manually
-bihar::gaya,True,False,exact normalized name; review boundary changes manually
-bihar::gopalganj,True,False,exact normalized name; review boundary changes manually
-bihar::jamui,True,False,exact normalized name; review boundary changes manually
-bihar::jehanabad,True,False,exact normalized name; review boundary changes manually
-bihar::kaimur,True,False,exact normalized name; review boundary changes manually
-bihar::katihar,True,False,exact normalized name; review boundary changes manually
-bihar::khagaria,True,False,exact normalized name; review boundary changes manually
-bihar::kishanganj,True,False,exact normalized name; review boundary changes manually
-bihar::lakhisarai,True,False,exact normalized name; review boundary changes manually
-bihar::madhepura,True,False,exact normalized name; review boundary changes manually
-bihar::madhubani,True,False,exact normalized name; review boundary changes manually
-bihar::munger,True,False,exact normalized name; review boundary changes manually
-bihar::muzaffarpur,True,False,exact normalized name; review boundary changes manually
-bihar::nalanda,True,False,exact normalized name; review boundary changes manually
-bihar::nawada,True,False,exact normalized name; review boundary changes manually
-bihar::pashchim champaran,True,False,exact normalized name; review boundary changes manually
-bihar::patna,True,False,exact normalized name; review boundary changes manually
-bihar::purba champaran,True,False,exact normalized name; review boundary changes manually
-bihar::purnia,True,False,exact normalized name; review boundary changes manually
-bihar::rohtas,True,False,exact normalized name; review boundary changes manually
-bihar::saharsa,True,False,exact normalized name; review boundary changes manually
-bihar::samastipur,True,False,exact normalized name; review boundary changes manually
-bihar::saran,True,False,exact normalized name; review boundary changes manually
-bihar::sheikhpura,True,False,exact normalized name; review boundary changes manually
-bihar::sheohar,True,False,exact normalized name; review boundary changes manually
-bihar::sitamarhi,True,False,exact normalized name; review boundary changes manually
-bihar::siwan,True,False,exact normalized name; review boundary changes manually
-bihar::supaul,True,False,exact normalized name; review boundary changes manually
-bihar::vaishali,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::bastar,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::bijapur,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::bilaspur,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::dakshin bastar dantewada,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::dhamtari,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::durg,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::janjgir champa,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::jashpur,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::kabirdham,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::korba,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::korea,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::mahasamund,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::narayanpur,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::raigarh,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::raipur,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::rajnandgaon,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::surguja,True,False,exact normalized name; review boundary changes manually
-chhattisgarh::uttar bastar kanker,True,False,exact normalized name; review boundary changes manually
-daman and diu::daman,True,False,exact normalized name; review boundary changes manually
-daman and diu::diu,True,False,exact normalized name; review boundary changes manually
-goa::north goa,True,False,exact normalized name; review boundary changes manually
-goa::south goa,True,False,exact normalized name; review boundary changes manually
-gujarat::ahmadabad,True,False,exact normalized name; review boundary changes manually
-gujarat::amreli,True,False,exact normalized name; review boundary changes manually
-gujarat::anand,True,False,exact normalized name; review boundary changes manually
-gujarat::banaskantha,True,False,exact normalized name; review boundary changes manually
-gujarat::bharuch,True,False,exact normalized name; review boundary changes manually
-gujarat::bhavnagar,True,False,exact normalized name; review boundary changes manually
-gujarat::dohad,True,False,exact normalized name; review boundary changes manually
-gujarat::gandhinagar,True,False,exact normalized name; review boundary changes manually
-gujarat::jamnagar,True,False,exact normalized name; review boundary changes manually
-gujarat::junagadh,True,False,exact normalized name; review boundary changes manually
-gujarat::kachchh,True,False,exact normalized name; review boundary changes manually
-gujarat::kheda,True,False,exact normalized name; review boundary changes manually
-gujarat::mahesena,True,False,exact normalized name; review boundary changes manually
-gujarat::narmada,True,False,exact normalized name; review boundary changes manually
-gujarat::navsari,True,False,exact normalized name; review boundary changes manually
-gujarat::panchmahal,True,False,exact normalized name; review boundary changes manually
-gujarat::patan,True,False,exact normalized name; review boundary changes manually
-gujarat::porbandar,True,False,exact normalized name; review boundary changes manually
-gujarat::rajkot,True,False,exact normalized name; review boundary changes manually
-gujarat::sabarkantha,True,False,exact normalized name; review boundary changes manually
-gujarat::surat,True,False,exact normalized name; review boundary changes manually
-gujarat::surendranagar,True,False,exact normalized name; review boundary changes manually
-gujarat::tapi,True,False,exact normalized name; review boundary changes manually
-gujarat::the dangs,True,False,exact normalized name; review boundary changes manually
-gujarat::vadodara,True,False,exact normalized name; review boundary changes manually
-gujarat::valsad,True,False,exact normalized name; review boundary changes manually
-haryana::ambala,True,False,exact normalized name; review boundary changes manually
-haryana::bhiwani,True,False,exact normalized name; review boundary changes manually
-haryana::faridabad,True,False,exact normalized name; review boundary changes manually
-haryana::fatehabad,True,False,exact normalized name; review boundary changes manually
-haryana::gurgaon,True,False,exact normalized name; review boundary changes manually
-haryana::hisar,True,False,exact normalized name; review boundary changes manually
-haryana::jhajjar,True,False,exact normalized name; review boundary changes manually
-haryana::jind,True,False,exact normalized name; review boundary changes manually
-haryana::kaithal,True,False,exact normalized name; review boundary changes manually
-haryana::karnal,True,False,exact normalized name; review boundary changes manually
-haryana::kurukshetra,True,False,exact normalized name; review boundary changes manually
-haryana::mahendragarh,True,False,exact normalized name; review boundary changes manually
-haryana::mewat,True,False,exact normalized name; review boundary changes manually
-haryana::palwal,True,False,exact normalized name; review boundary changes manually
-haryana::panchkula,True,False,exact normalized name; review boundary changes manually
-haryana::panipat,True,False,exact normalized name; review boundary changes manually
-haryana::rewari,True,False,exact normalized name; review boundary changes manually
-haryana::rohtak,True,False,exact normalized name; review boundary changes manually
-haryana::sirsa,True,False,exact normalized name; review boundary changes manually
-haryana::sonipat,True,False,exact normalized name; review boundary changes manually
-haryana::yamunanagar,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::bilaspur,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::chamba,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::hamirpur,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::kangra,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::kinnaur,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::kullu,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::lahul and spiti,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::mandi,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::shimla,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::sirmaur,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::solan,True,False,exact normalized name; review boundary changes manually
-himachal pradesh::una,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::anantnag,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::badgam,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::bandipore,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::baramula,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::doda,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::ganderbal,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::jammu,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::kargil,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::kathua,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::kishtwar,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::kulgam,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::kupwara,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::leh(ladakh),True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::pulwama,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::punch,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::rajouri,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::ramban,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::reasi,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::samba,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::shupiyan,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::srinagar,True,False,exact normalized name; review boundary changes manually
-jammu and kashmir::udhampur,True,False,exact normalized name; review boundary changes manually
-jharkhand::bokaro,True,False,exact normalized name; review boundary changes manually
-jharkhand::chatra,True,False,exact normalized name; review boundary changes manually
-jharkhand::deoghar,True,False,exact normalized name; review boundary changes manually
-jharkhand::dhanbad,True,False,exact normalized name; review boundary changes manually
-jharkhand::dumka,True,False,exact normalized name; review boundary changes manually
-jharkhand::garhwa,True,False,exact normalized name; review boundary changes manually
-jharkhand::giridih,True,False,exact normalized name; review boundary changes manually
-jharkhand::godda,True,False,exact normalized name; review boundary changes manually
-jharkhand::gumla,True,False,exact normalized name; review boundary changes manually
-jharkhand::hazaribagh,True,False,exact normalized name; review boundary changes manually
-jharkhand::jamtara,True,False,exact normalized name; review boundary changes manually
-jharkhand::khunti,True,False,exact normalized name; review boundary changes manually
-jharkhand::kodarma,True,False,exact normalized name; review boundary changes manually
-jharkhand::latehar,True,False,exact normalized name; review boundary changes manually
-jharkhand::lohardaga,True,False,exact normalized name; review boundary changes manually
-jharkhand::pakur,True,False,exact normalized name; review boundary changes manually
-jharkhand::palamu,True,False,exact normalized name; review boundary changes manually
-jharkhand::pashchimi singhbhum,True,False,exact normalized name; review boundary changes manually
-jharkhand::purbi singhbhum,True,False,exact normalized name; review boundary changes manually
-jharkhand::ramgarh,True,False,exact normalized name; review boundary changes manually
-jharkhand::ranchi,True,False,exact normalized name; review boundary changes manually
-jharkhand::sahibganj,True,False,exact normalized name; review boundary changes manually
-jharkhand::saraikela kharsawan,True,False,exact normalized name; review boundary changes manually
-jharkhand::simdega,True,False,exact normalized name; review boundary changes manually
-karnataka::bagalkot,True,False,exact normalized name; review boundary changes manually
-karnataka::bangalore,True,False,exact normalized name; review boundary changes manually
-karnataka::bangalore rural,True,False,exact normalized name; review boundary changes manually
-karnataka::belgaum,True,False,exact normalized name; review boundary changes manually
-karnataka::bellary,True,False,exact normalized name; review boundary changes manually
-karnataka::bidar,True,False,exact normalized name; review boundary changes manually
-karnataka::bijapur,True,False,exact normalized name; review boundary changes manually
-karnataka::chamarajanagar,True,False,exact normalized name; review boundary changes manually
-karnataka::chikkaballapura,True,False,exact normalized name; review boundary changes manually
-karnataka::chikmagalur,True,False,exact normalized name; review boundary changes manually
-karnataka::chitradurga,True,False,exact normalized name; review boundary changes manually
-karnataka::dakshina kannada,True,False,exact normalized name; review boundary changes manually
-karnataka::davanagere,True,False,exact normalized name; review boundary changes manually
-karnataka::dharwad,True,False,exact normalized name; review boundary changes manually
-karnataka::gadag,True,False,exact normalized name; review boundary changes manually
-karnataka::gulbarga,True,False,exact normalized name; review boundary changes manually
-karnataka::hassan,True,False,exact normalized name; review boundary changes manually
-karnataka::haveri,True,False,exact normalized name; review boundary changes manually
-karnataka::kodagu,True,False,exact normalized name; review boundary changes manually
-karnataka::kolar,True,False,exact normalized name; review boundary changes manually
-karnataka::koppal,True,False,exact normalized name; review boundary changes manually
-karnataka::mandya,True,False,exact normalized name; review boundary changes manually
-karnataka::mysore,True,False,exact normalized name; review boundary changes manually
-karnataka::raichur,True,False,exact normalized name; review boundary changes manually
-karnataka::ramanagara,True,False,exact normalized name; review boundary changes manually
-karnataka::shimoga,True,False,exact normalized name; review boundary changes manually
-karnataka::tumkur,True,False,exact normalized name; review boundary changes manually
-karnataka::udupi,True,False,exact normalized name; review boundary changes manually
-karnataka::uttara kannada,True,False,exact normalized name; review boundary changes manually
-karnataka::yadgir,True,False,exact normalized name; review boundary changes manually
-kerala::alappuzha,True,False,exact normalized name; review boundary changes manually
-kerala::ernakulam,True,False,exact normalized name; review boundary changes manually
-kerala::idukki,True,False,exact normalized name; review boundary changes manually
-kerala::kannur,True,False,exact normalized name; review boundary changes manually
-kerala::kasaragod,True,False,exact normalized name; review boundary changes manually
-kerala::kollam,True,False,exact normalized name; review boundary changes manually
-kerala::kottayam,True,False,exact normalized name; review boundary changes manually
-kerala::kozhikode,True,False,exact normalized name; review boundary changes manually
-kerala::malappuram,True,False,exact normalized name; review boundary changes manually
-kerala::palakkad,True,False,exact normalized name; review boundary changes manually
-kerala::pathanamthitta,True,False,exact normalized name; review boundary changes manually
-kerala::thiruvananthapuram,True,False,exact normalized name; review boundary changes manually
-kerala::thrissur,True,False,exact normalized name; review boundary changes manually
-kerala::wayanad,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::alirajpur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::anuppur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::ashoknagar,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::balaghat,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::barwani,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::betul,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::bhind,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::bhopal,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::burhanpur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::chhatarpur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::chhindwara,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::damoh,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::datia,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::dewas,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::dhar,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::dindori,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::guna,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::gwalior,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::harda,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::hoshangabad,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::indore,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::jabalpur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::jhabua,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::katni,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::khandwa (east nimar),True,False,exact normalized name; review boundary changes manually
-madhya pradesh::khargone (west nimar),True,False,exact normalized name; review boundary changes manually
-madhya pradesh::mandla,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::mandsaur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::morena,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::narsimhapur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::neemuch,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::panna,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::raisen,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::rajgarh,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::ratlam,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::rewa,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::sagar,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::satna,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::sehore,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::seoni,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::shahdol,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::shajapur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::sheopur,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::shivpuri,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::sidhi,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::singrauli,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::tikamgarh,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::ujjain,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::umaria,True,False,exact normalized name; review boundary changes manually
-madhya pradesh::vidisha,True,False,exact normalized name; review boundary changes manually
-maharashtra::ahmednagar,True,False,exact normalized name; review boundary changes manually
-maharashtra::akola,True,False,exact normalized name; review boundary changes manually
-maharashtra::amravati,True,False,exact normalized name; review boundary changes manually
-maharashtra::aurangabad,True,False,exact normalized name; review boundary changes manually
-maharashtra::bhandara,True,False,exact normalized name; review boundary changes manually
-maharashtra::bid,True,False,exact normalized name; review boundary changes manually
-maharashtra::buldhana,True,False,exact normalized name; review boundary changes manually
-maharashtra::chandrapur,True,False,exact normalized name; review boundary changes manually
-maharashtra::dhule,True,False,exact normalized name; review boundary changes manually
-maharashtra::gadchiroli,True,False,exact normalized name; review boundary changes manually
-maharashtra::gondiya,True,False,exact normalized name; review boundary changes manually
-maharashtra::hingoli,True,False,exact normalized name; review boundary changes manually
-maharashtra::jalgaon,True,False,exact normalized name; review boundary changes manually
-maharashtra::jalna,True,False,exact normalized name; review boundary changes manually
-maharashtra::kolhapur,True,False,exact normalized name; review boundary changes manually
-maharashtra::latur,True,False,exact normalized name; review boundary changes manually
-maharashtra::mumbai,True,False,exact normalized name; review boundary changes manually
-maharashtra::mumbai suburban,True,False,exact normalized name; review boundary changes manually
-maharashtra::nagpur,True,False,exact normalized name; review boundary changes manually
-maharashtra::nanded,True,False,exact normalized name; review boundary changes manually
-maharashtra::nandurbar,True,False,exact normalized name; review boundary changes manually
-maharashtra::nashik,True,False,exact normalized name; review boundary changes manually
-maharashtra::osmanabad,True,False,exact normalized name; review boundary changes manually
-maharashtra::parbhani,True,False,exact normalized name; review boundary changes manually
-maharashtra::pune,True,False,exact normalized name; review boundary changes manually
-maharashtra::raigarh,True,False,exact normalized name; review boundary changes manually
-maharashtra::ratnagiri,True,False,exact normalized name; review boundary changes manually
-maharashtra::sangli,True,False,exact normalized name; review boundary changes manually
-maharashtra::satara,True,False,exact normalized name; review boundary changes manually
-maharashtra::sindhudurg,True,False,exact normalized name; review boundary changes manually
-maharashtra::solapur,True,False,exact normalized name; review boundary changes manually
-maharashtra::thane,True,False,exact normalized name; review boundary changes manually
-maharashtra::wardha,True,False,exact normalized name; review boundary changes manually
-maharashtra::washim,True,False,exact normalized name; review boundary changes manually
-maharashtra::yavatmal,True,False,exact normalized name; review boundary changes manually
-manipur::bishnupur,True,False,exact normalized name; review boundary changes manually
-manipur::chandel,True,False,exact normalized name; review boundary changes manually
-manipur::churachandpur,True,False,exact normalized name; review boundary changes manually
-manipur::imphal east,True,False,exact normalized name; review boundary changes manually
-manipur::imphal west,True,False,exact normalized name; review boundary changes manually
-manipur::senapati,True,False,exact normalized name; review boundary changes manually
-manipur::tamenglong,True,False,exact normalized name; review boundary changes manually
-manipur::thoubal,True,False,exact normalized name; review boundary changes manually
-manipur::ukhrul,True,False,exact normalized name; review boundary changes manually
-meghalaya::east garo hills,True,False,exact normalized name; review boundary changes manually
-meghalaya::east khasi hills,True,False,exact normalized name; review boundary changes manually
-meghalaya::jaintia hills,True,False,exact normalized name; review boundary changes manually
-meghalaya::ribhoi,True,False,exact normalized name; review boundary changes manually
-meghalaya::south garo hills,True,False,exact normalized name; review boundary changes manually
-meghalaya::west garo hills,True,False,exact normalized name; review boundary changes manually
-meghalaya::west khasi hills,True,False,exact normalized name; review boundary changes manually
-mizoram::aizawl,True,False,exact normalized name; review boundary changes manually
-mizoram::champhai,True,False,exact normalized name; review boundary changes manually
-mizoram::kolasib,True,False,exact normalized name; review boundary changes manually
-mizoram::lawngtlai,True,False,exact normalized name; review boundary changes manually
-mizoram::lunglei,True,False,exact normalized name; review boundary changes manually
-mizoram::mamit,True,False,exact normalized name; review boundary changes manually
-mizoram::saiha,True,False,exact normalized name; review boundary changes manually
-mizoram::serchhip,True,False,exact normalized name; review boundary changes manually
-nagaland::dimapur,True,False,exact normalized name; review boundary changes manually
-nagaland::kiphire,True,False,exact normalized name; review boundary changes manually
-nagaland::kohima,True,False,exact normalized name; review boundary changes manually
-nagaland::longleng,True,False,exact normalized name; review boundary changes manually
-nagaland::mokokchung,True,False,exact normalized name; review boundary changes manually
-nagaland::mon,True,False,exact normalized name; review boundary changes manually
-nagaland::peren,True,False,exact normalized name; review boundary changes manually
-nagaland::phek,True,False,exact normalized name; review boundary changes manually
-nagaland::tuensang,True,False,exact normalized name; review boundary changes manually
-nagaland::wokha,True,False,exact normalized name; review boundary changes manually
-nagaland::zunheboto,True,False,exact normalized name; review boundary changes manually
-nct delhi::central,True,False,exact normalized name; review boundary changes manually
-nct delhi::east,True,False,exact normalized name; review boundary changes manually
-nct delhi::new delhi,True,False,exact normalized name; review boundary changes manually
-nct delhi::north,True,False,exact normalized name; review boundary changes manually
-nct delhi::north east,True,False,exact normalized name; review boundary changes manually
-nct delhi::north west,True,False,exact normalized name; review boundary changes manually
-nct delhi::south,True,False,exact normalized name; review boundary changes manually
-nct delhi::south west,True,False,exact normalized name; review boundary changes manually
-nct delhi::west,True,False,exact normalized name; review boundary changes manually
-odisha::anugul,True,False,exact normalized name; review boundary changes manually
-odisha::balangir,True,False,exact normalized name; review boundary changes manually
-odisha::baleshwar,True,False,exact normalized name; review boundary changes manually
-odisha::bargarh,True,False,exact normalized name; review boundary changes manually
-odisha::baudh,True,False,exact normalized name; review boundary changes manually
-odisha::bhadrak,True,False,exact normalized name; review boundary changes manually
-odisha::cuttack,True,False,exact normalized name; review boundary changes manually
-odisha::debagarh,True,False,exact normalized name; review boundary changes manually
-odisha::dhenkanal,True,False,exact normalized name; review boundary changes manually
-odisha::gajapati,True,False,exact normalized name; review boundary changes manually
-odisha::ganjam,True,False,exact normalized name; review boundary changes manually
-odisha::jagatsinghapur,True,False,exact normalized name; review boundary changes manually
-odisha::jajapur,True,False,exact normalized name; review boundary changes manually
-odisha::jharsuguda,True,False,exact normalized name; review boundary changes manually
-odisha::kalahandi,True,False,exact normalized name; review boundary changes manually
-odisha::kandhamal,True,False,exact normalized name; review boundary changes manually
-odisha::kendrapara,True,False,exact normalized name; review boundary changes manually
-odisha::kendujhar,True,False,exact normalized name; review boundary changes manually
-odisha::khordha,True,False,exact normalized name; review boundary changes manually
-odisha::koraput,True,False,exact normalized name; review boundary changes manually
-odisha::malkangiri,True,False,exact normalized name; review boundary changes manually
-odisha::mayurbhanj,True,False,exact normalized name; review boundary changes manually
-odisha::nabarangapur,True,False,exact normalized name; review boundary changes manually
-odisha::nayagarh,True,False,exact normalized name; review boundary changes manually
-odisha::nuapada,True,False,exact normalized name; review boundary changes manually
-odisha::puri,True,False,exact normalized name; review boundary changes manually
-odisha::rayagada,True,False,exact normalized name; review boundary changes manually
-odisha::sambalpur,True,False,exact normalized name; review boundary changes manually
-odisha::subarnapur,True,False,exact normalized name; review boundary changes manually
-odisha::sundargarh,True,False,exact normalized name; review boundary changes manually
-puducherry::karaikal,True,False,exact normalized name; review boundary changes manually
-puducherry::mahe,True,False,exact normalized name; review boundary changes manually
-puducherry::puducherry,True,False,exact normalized name; review boundary changes manually
-puducherry::yanam,True,False,exact normalized name; review boundary changes manually
-punjab::amritsar,True,False,exact normalized name; review boundary changes manually
-punjab::barnala,True,False,exact normalized name; review boundary changes manually
-punjab::bathinda,True,False,exact normalized name; review boundary changes manually
-punjab::faridkot,True,False,exact normalized name; review boundary changes manually
-punjab::fatehgarh sahib,True,False,exact normalized name; review boundary changes manually
-punjab::firozpur,True,False,exact normalized name; review boundary changes manually
-punjab::gurdaspur,True,False,exact normalized name; review boundary changes manually
-punjab::hoshiarpur,True,False,exact normalized name; review boundary changes manually
-punjab::jalandhar,True,False,exact normalized name; review boundary changes manually
-punjab::kapurthala,True,False,exact normalized name; review boundary changes manually
-punjab::ludhiana,True,False,exact normalized name; review boundary changes manually
-punjab::mansa,True,False,exact normalized name; review boundary changes manually
-punjab::moga,True,False,exact normalized name; review boundary changes manually
-punjab::muktsar,True,False,exact normalized name; review boundary changes manually
-punjab::patiala,True,False,exact normalized name; review boundary changes manually
-punjab::rup nagar,True,False,exact normalized name; review boundary changes manually
-punjab::sahibzada ajit singh nagar,True,False,exact normalized name; review boundary changes manually
-punjab::sahid bhagat singh nagar,True,False,exact normalized name; review boundary changes manually
-punjab::sangrur,True,False,exact normalized name; review boundary changes manually
-punjab::tarn taran,True,False,exact normalized name; review boundary changes manually
-rajasthan::ajmer,True,False,exact normalized name; review boundary changes manually
-rajasthan::alwar,True,False,exact normalized name; review boundary changes manually
-rajasthan::banswara,True,False,exact normalized name; review boundary changes manually
-rajasthan::baran,True,False,exact normalized name; review boundary changes manually
-rajasthan::barmer,True,False,exact normalized name; review boundary changes manually
-rajasthan::bharatpur,True,False,exact normalized name; review boundary changes manually
-rajasthan::bhilwara,True,False,exact normalized name; review boundary changes manually
-rajasthan::bikaner,True,False,exact normalized name; review boundary changes manually
-rajasthan::bundi,True,False,exact normalized name; review boundary changes manually
-rajasthan::chittaurgarh,True,False,exact normalized name; review boundary changes manually
-rajasthan::churu,True,False,exact normalized name; review boundary changes manually
-rajasthan::dausa,True,False,exact normalized name; review boundary changes manually
-rajasthan::dhaulpur,True,False,exact normalized name; review boundary changes manually
-rajasthan::dungarpur,True,False,exact normalized name; review boundary changes manually
-rajasthan::ganganagar,True,False,exact normalized name; review boundary changes manually
-rajasthan::hanumangarh,True,False,exact normalized name; review boundary changes manually
-rajasthan::jaipur,True,False,exact normalized name; review boundary changes manually
-rajasthan::jaisalmer,True,False,exact normalized name; review boundary changes manually
-rajasthan::jalor,True,False,exact normalized name; review boundary changes manually
-rajasthan::jhalawar,True,False,exact normalized name; review boundary changes manually
-rajasthan::jhunjhunun,True,False,exact normalized name; review boundary changes manually
-rajasthan::jodhpur,True,False,exact normalized name; review boundary changes manually
-rajasthan::karauli,True,False,exact normalized name; review boundary changes manually
-rajasthan::kota,True,False,exact normalized name; review boundary changes manually
-rajasthan::nagaur,True,False,exact normalized name; review boundary changes manually
-rajasthan::pali,True,False,exact normalized name; review boundary changes manually
-rajasthan::pratapgarh,True,False,exact normalized name; review boundary changes manually
-rajasthan::rajsamand,True,False,exact normalized name; review boundary changes manually
-rajasthan::sawai madhopur,True,False,exact normalized name; review boundary changes manually
-rajasthan::sikar,True,False,exact normalized name; review boundary changes manually
-rajasthan::sirohi,True,False,exact normalized name; review boundary changes manually
-rajasthan::tonk,True,False,exact normalized name; review boundary changes manually
-rajasthan::udaipur,True,False,exact normalized name; review boundary changes manually
-sikkim::east district,True,False,exact normalized name; review boundary changes manually
-sikkim::north district,True,False,exact normalized name; review boundary changes manually
-sikkim::south district,True,False,exact normalized name; review boundary changes manually
-sikkim::west district,True,False,exact normalized name; review boundary changes manually
-tamil nadu::ariyalur,True,False,exact normalized name; review boundary changes manually
-tamil nadu::chennai,True,False,exact normalized name; review boundary changes manually
-tamil nadu::coimbatore,True,False,exact normalized name; review boundary changes manually
-tamil nadu::cuddalore,True,False,exact normalized name; review boundary changes manually
-tamil nadu::dharmapuri,True,False,exact normalized name; review boundary changes manually
-tamil nadu::dindigul,True,False,exact normalized name; review boundary changes manually
-tamil nadu::erode,True,False,exact normalized name; review boundary changes manually
-tamil nadu::kancheepuram,True,False,exact normalized name; review boundary changes manually
-tamil nadu::kanniyakumari,True,False,exact normalized name; review boundary changes manually
-tamil nadu::karur,True,False,exact normalized name; review boundary changes manually
-tamil nadu::krishnagiri,True,False,exact normalized name; review boundary changes manually
-tamil nadu::madurai,True,False,exact normalized name; review boundary changes manually
-tamil nadu::nagapattinam,True,False,exact normalized name; review boundary changes manually
-tamil nadu::namakkal,True,False,exact normalized name; review boundary changes manually
-tamil nadu::perambalur,True,False,exact normalized name; review boundary changes manually
-tamil nadu::pudukkottai,True,False,exact normalized name; review boundary changes manually
-tamil nadu::ramanathapuram,True,False,exact normalized name; review boundary changes manually
-tamil nadu::salem,True,False,exact normalized name; review boundary changes manually
-tamil nadu::sivaganga,True,False,exact normalized name; review boundary changes manually
-tamil nadu::thanjavur,True,False,exact normalized name; review boundary changes manually
-tamil nadu::the nilgiris,True,False,exact normalized name; review boundary changes manually
-tamil nadu::theni,True,False,exact normalized name; review boundary changes manually
-tamil nadu::thiruvallur,True,False,exact normalized name; review boundary changes manually
-tamil nadu::thiruvarur,True,False,exact normalized name; review boundary changes manually
-tamil nadu::thoothukkudi,True,False,exact normalized name; review boundary changes manually
-tamil nadu::tiruchirappalli,True,False,exact normalized name; review boundary changes manually
-tamil nadu::tirunelveli,True,False,exact normalized name; review boundary changes manually
-tamil nadu::tiruppur,True,False,exact normalized name; review boundary changes manually
-tamil nadu::tiruvannamalai,True,False,exact normalized name; review boundary changes manually
-tamil nadu::vellore,True,False,exact normalized name; review boundary changes manually
-tamil nadu::viluppuram,True,False,exact normalized name; review boundary changes manually
-tamil nadu::virudhunagar,True,False,exact normalized name; review boundary changes manually
-telangana::adilabad,True,False,exact normalized name; review boundary changes manually
-telangana::hyderabad,True,False,exact normalized name; review boundary changes manually
-telangana::karimnagar,True,False,exact normalized name; review boundary changes manually
-telangana::khammam,True,False,exact normalized name; review boundary changes manually
-telangana::mahbubnagar,True,False,exact normalized name; review boundary changes manually
-telangana::medak,True,False,exact normalized name; review boundary changes manually
-telangana::nalgonda,True,False,exact normalized name; review boundary changes manually
-telangana::nizamabad,True,False,exact normalized name; review boundary changes manually
-telangana::rangareddy,True,False,exact normalized name; review boundary changes manually
-telangana::warangal,True,False,exact normalized name; review boundary changes manually
-tripura::dhalai,True,False,exact normalized name; review boundary changes manually
-tripura::north tripura,True,False,exact normalized name; review boundary changes manually
-tripura::south tripura,True,False,exact normalized name; review boundary changes manually
-tripura::west tripura,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::agra,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::aligarh,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::allahabad,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::ambedkar nagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::auraiya,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::azamgarh,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::baghpat,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::bahraich,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::ballia,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::balrampur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::banda,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::bara banki,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::bareilly,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::basti,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::bijnor,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::budaun,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::bulandshahr,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::chandauli,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::chitrakoot,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::deoria,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::etah,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::etawah,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::faizabad,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::farrukhabad,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::fatehpur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::firozabad,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::gautam buddha nagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::ghaziabad,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::ghazipur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::gonda,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::gorakhpur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::hamirpur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::hardoi,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::jalaun,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::jaunpur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::jhansi,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::jyotiba phule nagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::kannauj,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::kanpur dehat,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::kanpur nagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::kanshiram nagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::kaushambi,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::kheri,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::kushinagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::lalitpur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::lucknow,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::mahamaya nagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::maharajganj,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::mahoba,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::mainpuri,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::mathura,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::mau,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::meerut,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::mirzapur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::moradabad,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::muzaffarnagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::pilibhit,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::pratapgarh,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::rae bareli,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::rampur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::saharanpur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::sant kabir nagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::sant ravidas nagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::shahjahanpur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::shrawasti,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::siddharthnagar,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::sitapur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::sonbhadra,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::sultanpur,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::unnao,True,False,exact normalized name; review boundary changes manually
-uttar pradesh::varanasi,True,False,exact normalized name; review boundary changes manually
-uttarakhand::almora,True,False,exact normalized name; review boundary changes manually
-uttarakhand::bageshwar,True,False,exact normalized name; review boundary changes manually
-uttarakhand::chamoli,True,False,exact normalized name; review boundary changes manually
-uttarakhand::champawat,True,False,exact normalized name; review boundary changes manually
-uttarakhand::dehradun,True,False,exact normalized name; review boundary changes manually
-uttarakhand::garhwal,True,False,exact normalized name; review boundary changes manually
-uttarakhand::hardwar,True,False,exact normalized name; review boundary changes manually
-uttarakhand::nainital,True,False,exact normalized name; review boundary changes manually
-uttarakhand::pithoragarh,True,False,exact normalized name; review boundary changes manually
-uttarakhand::rudraprayag,True,False,exact normalized name; review boundary changes manually
-uttarakhand::tehri garhwal,True,False,exact normalized name; review boundary changes manually
-uttarakhand::udham singh nagar,True,False,exact normalized name; review boundary changes manually
-uttarakhand::uttarkashi,True,False,exact normalized name; review boundary changes manually
-west bengal::bankura,True,False,exact normalized name; review boundary changes manually
-west bengal::barddhaman,True,False,exact normalized name; review boundary changes manually
-west bengal::birbhum,True,False,exact normalized name; review boundary changes manually
-west bengal::dakshin dinajpur,True,False,exact normalized name; review boundary changes manually
-west bengal::darjiling,True,False,exact normalized name; review boundary changes manually
-west bengal::haora,True,False,exact normalized name; review boundary changes manually
-west bengal::hugli,True,False,exact normalized name; review boundary changes manually
-west bengal::jalpaiguri,True,False,exact normalized name; review boundary changes manually
-west bengal::koch bihar,True,False,exact normalized name; review boundary changes manually
-west bengal::kolkata,True,False,exact normalized name; review boundary changes manually
-west bengal::maldah,True,False,exact normalized name; review boundary changes manually
-west bengal::murshidabad,True,False,exact normalized name; review boundary changes manually
-west bengal::nadia,True,False,exact normalized name; review boundary changes manually
-west bengal::north twenty four parganas,True,False,exact normalized name; review boundary changes manually
-west bengal::paschim medinipur,True,False,exact normalized name; review boundary changes manually
-west bengal::purba medinipur,True,False,exact normalized name; review boundary changes manually
-west bengal::puruliya,True,False,exact normalized name; review boundary changes manually
-west bengal::south twenty four parganas,True,False,exact normalized name; review boundary changes manually
-west bengal::uttar dinajpur,True,False,exact normalized name; review boundary changes manually
+district_id,nfhs4_present,nfhs5_present,geography_status,comparison_eligible,mapping_decision
+andamannicobarislands::nicobar,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andamannicobarislands::nicobars,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andamannicobarislands::northmiddleandaman,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andamannicobarislands::southandaman,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::anantapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::chittoor,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::eastgodavari,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::guntur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::krishna,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::kurnool,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::prakasam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::srikakulam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::sripottisriramulunello,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::sripottisriramulunellore,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::visakhapatnam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::vizianagaram,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::westgodavari,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::ysr,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+andhrapradesh::ysrcuddapah,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::anjaw,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::changlang,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::dibangvalley,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::eastkameng,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::eastsiang,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::kradaadi,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::kurungkumey,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::lohit,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::longding,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::lowerdibangvalley,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::lowersubansiri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::namsai,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::papumpare,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::siang,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::tawang,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::tirap,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::uppersiang,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::uppersubansiri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::westkameng,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+arunachalpradesh::westsiang,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::baksa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::barpeta,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::biswanath,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::bongaigaon,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::cachar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::charaideo,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::chirang,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::darrang,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::dhemaji,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::dhubri,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::dibrugarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::dimahasao,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::goalpara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::golaghat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::hailakandi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::hojai,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::jorhat,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::kamrup,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::kamrupmetropolitan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::karbianglong,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::karimganj,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::kokrajhar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::lakhimpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::majuli,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::morigaon,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::nagaon,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::nalbari,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::sivasagar,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::sonitpur,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::southsalmaramancachar,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::tinsukia,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::udalguri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+assam::westkarbianglong,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::araria,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::arwal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::aurangabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::banka,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::begusarai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::bhagalpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::bhojpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::buxar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::darbhanga,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::gaya,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::gopalganj,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::jamui,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::jehanabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::kaimur,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::kaimurbhabua,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::katihar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::khagaria,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::kishanganj,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::lakhisarai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::madhepura,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::madhubani,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::munger,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::muzaffarpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::nalanda,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::nawada,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::pashchimchamparan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::patna,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::purbachamparan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::purnia,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::rohtas,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::saharsa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::samastipur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::saran,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::sheikhpura,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::sheohar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::sitamarhi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::siwan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::supaul,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+bihar::vaishali,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chandigarh::chandigarh,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::balod,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::balodabazar,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::balrampur,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::bastar,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::bemetara,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::bijapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::bilaspur,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::dakshinbastardantewada,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::dantewada,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::dhamtari,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::durg,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::gariyaband,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::janjgirchampa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::jashpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::kabeerdham,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::kabirdham,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::kodagaon,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::korba,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::korea,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::koriya,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::mahasamund,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::mungeli,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::narayanpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::raigarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::raipur,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::rajnandgaon,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::sukma,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::surajpur,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::surguja,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+chhattisgarh::uttarbastarkanker,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+dadraandnagarhavelidamananddiu::dadranagarhaveli,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+dadraandnagarhavelidamananddiu::daman,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+dadraandnagarhavelidamananddiu::diu,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+damandiu::daman,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+damandiu::diu,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+goa::northgoa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+goa::southgoa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::ahmadabad,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::amreli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::anand,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::aravali,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::banaskantha,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::bharuch,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::bhavnagar,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::botad,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::chhotaudaipur,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::devbhumidwarka,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::dohad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::gandhinagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::girsomnath,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::jamnagar,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::junagadh,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::kachchh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::kheda,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::mahesana,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::mahesena,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::mahisagar,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::morbi,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::narmada,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::navsari,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::panchmahal,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::panchmahals,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::patan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::porbandar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::rajkot,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::sabarkantha,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::surat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::surendranagar,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::tapi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::thedangs,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::vadodara,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+gujarat::valsad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::ambala,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::bhiwani,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::charkhidadri,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::faridabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::fatehabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::gurgaon,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::hisar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::jhajjar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::jind,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::kaithal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::karnal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::kurukshetra,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::mahendragarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::mewat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::palwal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::panchkula,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::panipat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::rewari,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::rohtak,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::sirsa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::sonipat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+haryana::yamunanagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::bilaspur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::chamba,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::hamirpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::kangra,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::kinnaur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::kullu,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::lahulandspiti,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::lahulspiti,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::mandi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::shimla,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::sirmaur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::solan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+himachalpradesh::una,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::anantnag,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::badgam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::bandipore,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::baramula,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::doda,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::ganderbal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::jammu,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::kargil,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::kathua,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::kishtwar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::kulgam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::kupwara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::lehladakh,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::pulwama,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::punch,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::rajouri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::ramban,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::reasi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::samba,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::shupiyan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::srinagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jammukashmir::udhampur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::bokaro,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::chatra,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::deoghar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::dhanbad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::dumka,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::garhwa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::giridih,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::godda,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::gumla,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::hazaribagh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::jamtara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::khunti,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::kodarma,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::latehar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::lohardaga,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::pakur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::palamu,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::pashchimisinghbhum,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::purbisinghbhum,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::ramgarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::ranchi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::sahibganj,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::saraikelakharsawan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+jharkhand::simdega,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::bagalkot,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::bangalore,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::bangalorerural,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::belgaum,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::bellary,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::bidar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::bijapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::chamarajanagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::chikkaballapura,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::chikmagalur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::chitradurga,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::dakshinakannada,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::davanagere,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::dharwad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::gadag,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::gulbarga,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::hassan,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::haveri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::kodagu,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::kolar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::koppal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::mandya,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::mysore,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::raichur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::ramanagara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::shimoga,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::tumkur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::udupi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::uttarakannada,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+karnataka::yadgir,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::alappuzha,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::ernakulam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::idukki,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::kannur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::kasaragod,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::kollam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::kottayam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::kozhikode,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::malappuram,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::palakkad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::pathanamthitta,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::thiruvananthapuram,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::thrissur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+kerala::wayanad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+ladakh::kargil,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+ladakh::lehladakh,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+lakshadweep::lakshadweep,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::agarmalwa,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::alirajpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::anuppur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::ashoknagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::balaghat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::barwani,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::betul,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::bhind,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::bhopal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::burhanpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::chhatarpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::chhindwara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::damoh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::datia,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::dewas,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::dhar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::dindori,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::guna,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::gwalior,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::harda,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::hoshangabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::indore,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::jabalpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::jhabua,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::katni,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::khandwaeastnimar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::khargonewestnimar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::mandla,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::mandsaur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::morena,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::narsimhapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::neemuch,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::panna,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::raisen,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::rajgarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::ratlam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::rewa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::sagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::satna,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::sehore,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::seoni,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::shahdol,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::shajapur,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::sheopur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::shivpuri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::sidhi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::singrauli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::tikamgarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::ujjain,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::umaria,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+madhyapradesh::vidisha,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::ahmadnagar,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::ahmednagar,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::akola,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::amravati,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::aurangabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::bhandara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::bid,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::buldana,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::buldhana,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::chandrapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::dhule,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::gadchiroli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::gondiya,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::hingoli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::jalgaon,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::jalna,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::kolhapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::latur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::mumbai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::mumbaisuburban,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::nagpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::nanded,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::nandurbar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::nashik,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::osmanabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::palghar,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::parbhani,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::pune,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::raigarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::ratnagiri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::sangli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::satara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::sindhudurg,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::solapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::thane,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::wardha,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::washim,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+maharashtra::yavatmal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::bishnupur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::chandel,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::churachandpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::imphaleast,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::imphalwest,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::senapati,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::tamenglong,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::thoubal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+manipur::ukhrul,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::eastgarohills,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::eastjantiahills,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::eastkhasihills,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::jaintiahills,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::northgarohills,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::ribhoi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::southgarohills,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::southwestgarohills,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::southwestkhasihills,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::westgarohills,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::westjaintiahills,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+meghalaya::westkhasihills,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::aizawl,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::champhai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::chandel,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::kolasib,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::lawngtlai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::lunglei,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::mamit,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::saiha,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+mizoram::serchhip,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::dimapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::kiphire,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::kohima,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::longleng,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::mokokchung,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::mon,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::peren,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::phek,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::tuensang,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::wokha,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nagaland::zunheboto,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::central,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::east,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::newdelhi,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::north,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::northeast,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::northwest,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::shahdara,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::south,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::southeast,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::southwest,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+nctdelhi::west,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::anugul,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::balangir,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::baleshwar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::bargarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::baudh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::bhadrak,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::cuttack,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::debagarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::dhenkanal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::gajapati,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::ganjam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::jagatsinghapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::jajapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::jharsuguda,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::kalahandi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::kandhamal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::kendrapara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::kendujhar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::khordha,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::koraput,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::malkangiri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::mayurbhanj,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::nabarangapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::nayagarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::nuapada,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::puri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::rayagada,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::sambalpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::subarnapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+odisha::sundargarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+puducherry::karaikal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+puducherry::mahe,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+puducherry::puducherry,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+puducherry::yanam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::amritsar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::barnala,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::bathinda,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::faridkot,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::fatehgarhsahib,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::fazilka,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::firozpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::gurdaspur,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::hoshiarpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::jalandhar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::kapurthala,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::ludhiana,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::mansa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::moga,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::muktsar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::pathankot,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::patiala,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::rupnagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::sahibzadaajitsinghnagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::sahidbhagatsinghnagar,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::sangrur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::shahidbhagatsinghnagar,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+punjab::tarntaran,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::ajmer,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::alwar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::banswara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::baran,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::barmer,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::bharatpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::bhilwara,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::bikaner,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::bundi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::chittaurgarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::churu,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::dausa,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::dhaulpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::dungarpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::ganganagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::hanumangarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::jaipur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::jaisalmer,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::jalor,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::jhalawar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::jhunjhunun,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::jodhpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::karauli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::kota,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::nagaur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::pali,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::pratapgarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::rajsamand,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::sawaimadhopur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::sikar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::sirohi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::tonk,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+rajasthan::udaipur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+sikkim::eastdistrict,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+sikkim::northdistrict,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+sikkim::southdistrict,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+sikkim::westdistrict,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::ariyalur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::chennai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::coimbatore,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::cuddalore,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::dharmapuri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::dindigul,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::erode,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::kancheepuram,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::kanniyakumari,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::karur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::krishnagiri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::madurai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::nagapattinam,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::namakkal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::perambalur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::pudukkottai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::ramanathapuram,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::salem,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::sivaganga,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::thanjavur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::theni,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::thenilgiris,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::thiruvallur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::thiruvarur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::thoothukkudi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::tiruchirappalli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::tirunelveli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::tiruppur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::tiruvannamalai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::vellore,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::viluppuram,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tamilnadu::virudhunagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::adilabad,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::bhadradrikothagudem,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::hyderabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::jagitial,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::jangoan,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::jayashankarbhupalapally,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::jogulambagadwal,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::kamareddy,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::karimnagar,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::khammam,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::komarambheemasifabad,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::mahabubabad,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::mahabubnagar,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::mahbubnagar,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::mancherial,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::medak,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::medchalmalkajgiri,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::nagarkurnool,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::nalgonda,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::nirmal,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::nizamabad,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::peddapalli,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::rajannasircilla,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::rangareddy,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::sangareddy,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::siddipet,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::suryapet,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::vikarabad,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::wanaparthy,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::warangal,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::warangalrural,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::warangalurban,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+telangana::yadadribhuvanagiri,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tripura::dhalai,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tripura::gomati,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tripura::khowai,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tripura::northtripura,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tripura::sepahijala,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tripura::southtripura,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tripura::unakoti,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+tripura::westtripura,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::almora,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::bageshwar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::chamoli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::champawat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::dehradun,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::garhwal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::hardwar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::nainital,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::pithoragarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::rudraprayag,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::tehrigarhwal,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::udhamsinghnagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarakhand::uttarkashi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::agra,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::aligarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::allahabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::ambedkarnagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::amethi,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::auraiya,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::azamgarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::baghpat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::bahraich,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::ballia,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::balrampur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::banda,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::barabanki,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::bareilly,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::basti,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::bijnor,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::budaun,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::bulandshahr,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::chandauli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::chitrakoot,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::deoria,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::etah,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::etawah,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::faizabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::farrukhabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::fatehpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::firozabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::gautambuddhanagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::ghaziabad,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::ghazipur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::gonda,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::gorakhpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::hamirpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::hapur,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::hardoi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::jalaun,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::jaunpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::jhansi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::jyotibaphulenagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::kannauj,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::kanpurdehat,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::kanpurnagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::kanshiramnagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::kaushambi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::kheri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::kushinagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::lalitpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::lucknow,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::mahamayanagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::maharajganj,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::mahoba,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::mahrajganj,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::mainpuri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::mathura,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::mau,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::meerut,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::mirzapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::moradabad,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::muzaffarnagar,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::pilibhit,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::pratapgarh,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::raebareli,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::rampur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::saharanpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::sambhal,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::santkabirnagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::santravidasnagar,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::santravidasnagarbhadohi,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::shahjahanpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::shamli,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::shrawasti,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::siddharthnagar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::sitapur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::sonbhadra,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::sultanpur,True,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::unnao,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+uttarpradesh::varanasi,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::bankura,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::barddhaman,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::birbhum,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::dakshindinajpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::darjiling,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::haora,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::hugli,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::jalpaiguri,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::kochbihar,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::kolkata,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::maldah,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::murshidabad,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::nadia,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::northtwentyfourpargana,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::northtwentyfourparganas,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::paschimbarddhaman,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::paschimmedinipur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::purbabarddhaman,False,True,changed_or_new_per_Harvard_Appendix_A,False,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::purbamedinipur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::puruliya,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::southtwentyfourpargana,False,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::southtwentyfourparganas,True,False,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
+westbengal::uttardinajpur,True,True,unchanged_name_candidate,True,normalized exact name; changed/new geographies excluded per Harvard Appendix A
