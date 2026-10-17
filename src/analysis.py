@@ -3,11 +3,25 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 ROOT=Path(__file__).resolve().parents[1]
-CORE_TERMS=['bank','mobile','literate','10 or more years of schooling','married before age 18','clean fuel','improved sanitation']
+COMPARABLE_INDICATORS=(
+    'Women who are literate (%)',
+    'Women with 10 or more years of schooling (%)',
+    'Women age 20-24 years married before age 18 years (%)',
+    'Households using clean fuel for cooking (%)',
+)
 
 def calculate_changes(panel):
-    p=panel.copy(); p=p[p.indicator.str.lower().map(lambda x:any(t in x for t in CORE_TERMS))]
-    wide=p.pivot_table(index=['district_id','state','district','indicator'],columns='round',values='value',aggfunc='first').reset_index()
+    p=panel.copy()
+    p=p[p.indicator.isin(COMPARABLE_INDICATORS)]
+    if 'comparison_eligible' in p: p=p[p.comparison_eligible.fillna(False)]
+    p=p[p.value.notna()]
+    # Geography is keyed by normalized state and district; use one display name
+    # per ID to prevent punctuation differences from creating duplicate rows.
+    attrs=p.groupby('district_id',as_index=False).agg(state=('state','first'),district=('district','first'))
+    wide=p.pivot_table(index=['district_id','indicator'],columns='round',values='value',aggfunc='first').reset_index()
+    if not {'NFHS-4','NFHS-5'}.issubset(wide.columns): return pd.DataFrame()
+    wide=wide.dropna(subset=['NFHS-4','NFHS-5']).copy()
+    wide=wide.merge(attrs,on='district_id',how='left')
     if not {'NFHS-4','NFHS-5'}.issubset(wide.columns): return pd.DataFrame(columns=list(wide.columns)+['change_pp','pct_change'])
     if 'aspirational_flag' in p:
         flags=p.groupby('district_id',as_index=False)['aspirational_flag'].first()
@@ -19,7 +33,10 @@ def calculate_changes(panel):
 def build_quality_report(panel,cross):
     lines=['# Data quality report','',f'- Rows in tidy panel: {len(panel):,}',f"- Rounds present: {', '.join(sorted(panel['round'].unique()))}",f'- District identifiers in crosswalk: {len(cross):,}',f"- Missing values: {panel.value.isna().sum():,} ({panel.value.isna().mean():.1%})",'','## Round availability','']
     lines += [f"- {r}: {panel.loc[panel['round']==r,'district_id'].nunique():,} district identifiers; {len(panel[panel['round']==r]):,} indicator rows" for r in sorted(panel['round'].unique())]
-    lines += ['', '## Match availability','', f"- NFHS-4 round presence: {int(cross.nfhs4_present.sum()):,}/{len(cross):,} provisional district identifiers (100% of the NFHS-4 identifiers by construction).", '- NFHS-5 round presence: unavailable; the official workbook could not be retrieved.', '', '## Interpretation and limits', '', 'The NFHS-5 workbook could not be retrieved from data.gov.in in this environment (HTTP 403). Consequently no two-round changes, index, typology, matched comparison, or UP change analysis is computed. Crosswalk rows are normalized-name candidates, not a completed parent/child boundary crosswalk. Add the official workbook at `data/raw/NFHS_5_India_Districts_Factsheet_Data.xls`, review `data/processed/crosswalk_suggestions.csv`, and document approved mappings in the override file before interpreting changes.']
+    elig=cross[cross.comparison_eligible] if 'comparison_eligible' in cross else cross.iloc[0:0]
+    both=int((elig.nfhs4_present & elig.nfhs5_present).sum())
+    changed=int((~cross.comparison_eligible).sum()) if 'comparison_eligible' in cross else 0
+    lines += ['', '## Match availability','', f"- NFHS-4 district identifiers: {int(cross.nfhs4_present.sum()):,}; NFHS-5: {int(cross.nfhs5_present.sum()):,}.", f'- {both:,} normalized name candidates are present in both rounds and not listed as changed/new in Harvard Appendix A.', f'- {changed:,} district identifiers are screened out because Appendix A lists them as changed/new; parent/child baseline values are not imputed.', '', '## Interpretation and limits', '', 'Direct changes use only the four consistently worded indicators (women’s literacy, schooling, marriage before 18, and clean cooking fuel) and name-matched districts outside Harvard Appendix A. The appendix provides no complete parent crosswalk, so its 130 entries (128 unique district IDs) are excluded. Name normalization is not proof of boundary identity; these are candidate direct comparisons. Sanitation is excluded because the two rounds use different denominators. Neither factsheet source contains the requested bank-account-use or mobile-phone indicators, so the empowerment index and finance-linked typology remain unavailable.']
     (ROOT/'data_quality_report.md').write_text('\n'.join(lines)+'\n')
 
 def baseline_summaries(panel):
@@ -87,11 +104,18 @@ def index_sensitivity(panel):
 def cluster_districts(panel, changes):
     from sklearn.cluster import KMeans
     from sklearn.metrics import silhouette_score
-    p=panel.pivot_table(index=['district_id','state','district'],columns=['round','indicator'],values='value',aggfunc='first')
-    base=[c for c in p.columns if c[0]=='NFHS-4' and any(t in c[1].lower() for t in ['bank','mobile','literate','10 or more years of schooling'])]
-    if not any(any(t in c[1].lower() for t in ['bank','mobile']) for c in base) or not any(any(t in c[1].lower() for t in ['literate','literacy','schooling']) for c in base) or changes.empty: return pd.DataFrame(),{'status':'unavailable','reason':'Requires NFHS-4 and NFHS-5 values for candidate indicators'}
+    p=panel.copy()
+    if 'comparison_eligible' in p: p=p[p.comparison_eligible.fillna(False)]
+    p=p[p.indicator.isin(COMPARABLE_INDICATORS)]
+    p=p.pivot_table(index=['district_id','state','district'],columns=['round','indicator'],values='value',aggfunc='first')
+    base=[c for c in p.columns if c[0]=='NFHS-4']
+    if len(base)<2 or changes.empty: return pd.DataFrame(),{'status':'unavailable','reason':'Requires paired values for common indicators'}
     levels=p[base].copy(); levels.columns=[c[1] for c in levels.columns]
     ch=changes.pivot_table(index=['district_id','state','district'],columns='indicator',values='change_pp')
+    early='Women age 20-24 years married before age 18 years (%)'
+    # Orient all features so higher values mean a better outcome / faster progress.
+    if early in levels: levels[early]=-levels[early]
+    if early in ch: ch[early]=-ch[early]
     X=levels.join(ch,rsuffix='_change').dropna()
     if len(X)<4:return pd.DataFrame(),{'status':'unavailable','reason':'Fewer than four complete districts'}
     from sklearn.preprocessing import StandardScaler
@@ -109,7 +133,7 @@ def cluster_districts(panel, changes):
     for cid,g in X.assign(cluster_id=labels).groupby('cluster_id'):
         hb=g[baseline_cols].mean().mean()>=overall_base if baseline_cols else False
         fc=g[change_cols].mean().mean()>=overall_change if change_cols else False
-        names[cid]=('Higher' if hb else 'Lower')+' baseline, '+('faster improvement' if fc else 'slower improvement')
+        names[cid]=('Stronger' if hb else 'Weaker')+' baseline, '+('faster improvement' if fc else 'slower improvement')
     result['cluster_name']=result['cluster_id'].map(names)
     return result,{'status':'computed','k':k,'silhouette':float(score),'names':names}
 
@@ -127,6 +151,8 @@ def run_analysis(panel):
     else:
         pd.DataFrame(columns=['state','indicator','count','mean','median','min','max']).to_csv(out/'change_state_summary.csv',index=False)
         pd.DataFrame(columns=list(changes.columns)+['rank_group']).to_csv(out/'district_rankings.csv',index=False)
+    # Explicitly label this as a descriptive four-indicator typology, not a
+    # finance or empowerment index (bank/mobile indicators are unavailable).
     index,meta=construct_index(panel)
     if index.empty:index=pd.DataFrame(columns=['district_id','state','district','round','index_score'])
     index.to_csv(out/'empowerment_index.csv',index=False)
@@ -139,7 +165,20 @@ def run_analysis(panel):
     did=aspirational_did(changes)
     if did.empty:did=pd.DataFrame(columns=['indicator','comparison','aspirational_mean_change','comparison_mean_change','descriptive_difference','ci_low','ci_high','n_aspirational','n_comparison','interpretation'])
     did.to_csv(out/'aspirational_comparison.csv',index=False)
+    # Transparent UP cross-section ranking. Marriage before 18 is reversed so
+    # lower mean rank indicates comparatively weaker outcomes; this is not the
+    # finance-linked index requested in the original design.
+    up=panel[(panel['round']=='NFHS-5') & (panel.state=='Uttar Pradesh') & panel.indicator.isin(COMPARABLE_INDICATORS)].pivot_table(index=['district_id','state','district'],columns='indicator',values='value',aggfunc='first').reset_index()
+    rank_cols=[]
+    for indicator in COMPARABLE_INDICATORS:
+        if indicator not in up: continue
+        better_high=indicator!='Women age 20-24 years married before age 18 years (%)'
+        col=indicator+'__rank'; up[col]=up[indicator].rank(ascending=not better_high,method='average'); rank_cols.append(col)
+    up['mean_rank']=up[rank_cols].mean(axis=1) if rank_cols else np.nan
+    up['rank']=up['mean_rank'].rank(method='min').astype('Int64') if rank_cols else pd.NA
+    up['ranking_note']='Mean rank across available NFHS-5 literacy, schooling, early marriage (reverse), and clean-fuel indicators; descriptive, not a financial inclusion index.'
+    up.sort_values(['rank','district']).to_csv(out/'up_district_rankings.csv',index=False)
     import json
     (out/'index_sensitivity_status.json').write_text(json.dumps(smeta,indent=2,ensure_ascii=False))
-    (out/'analysis_status.md').write_text('# Analysis status\n\n'+f"- Change rows: {len(changes)}\n- Index: {meta['status']} ({meta['reason'] if 'reason' in meta else 'computed'})\n- NFHS-5 present: {'NFHS-5' in set(panel['round'])}\n- Aspirational district comparison: pending official 112-district crosswalk and both rounds.\n- Index sensitivity: {smeta['status']} ({smeta.get('reason','rank correlations computed')}).\n- Typology: {cmeta['status']} ({cmeta.get('reason','k selected using silhouette score')}).\n- UP deep dive: baseline data may be summarized, but cross-round ranking and map are pending NFHS-5 and reviewed geography.\n\nAll remaining comparative outputs are withheld until required source data and boundary decisions are available.\n")
+    (out/'analysis_status.md').write_text('# Analysis status\n\n'+f"- Change rows: {len(changes)}\n- Comparable indicators: {len(COMPARABLE_INDICATORS)}\n- Complete matched districts with all four indicators: {changes.district_id.nunique() if not changes.empty else 0}\n- NFHS-5 present: {'NFHS-5' in set(panel['round'])}\n- District screen: Harvard Appendix A changed/new geography entries excluded from direct comparisons; parent values not imputed.\n- Index: {meta['status']} ({meta['reason'] if 'reason' in meta else 'computed'})\n- Aspirational district comparison: {len(did)} descriptive contrasts; unknown roster mappings retained as missing.\n- Index sensitivity: {smeta['status']} ({smeta.get('reason','rank correlations computed')}).\n- Typology: {cmeta['status']} ({cmeta.get('reason','four-indicator descriptive typology; silhouette-selected k')}).\n- UP rankings: {len(up)} NFHS-5 district records, using a mean rank over the four comparable indicators (not a finance index).\n\nChanges are descriptive and do not establish causal effects. Finance/mobile indicators are absent from both factsheet sources; no finance-linked index is computed.\n")
     return changes,base,meta

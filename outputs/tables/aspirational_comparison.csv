@@ -1,1 +1,9 @@
 indicator,comparison,aspirational_mean_change,comparison_mean_change,descriptive_difference,ci_low,ci_high,n_aspirational,n_comparison,interpretation
+Households using clean fuel for cooking (%),all districts,17.091808510638298,16.982551020408163,0.10925749023013509,-1.7766202778983908,2.0469090678824657,94,294,descriptive association; not causal
+Households using clean fuel for cooking (%),NFHS-4 bottom quartile,16.172500000000003,15.87,0.30250000000000377,-2.749645833333334,3.292147321428574,56,42,descriptive association; not causal
+Women age 20-24 years married before age 18 years (%),all districts,-3.6382978723404267,-2.5933673469387757,-1.044930525401651,-2.721991912722537,0.5932623208857996,94,294,descriptive association; not causal
+Women age 20-24 years married before age 18 years (%),NFHS-4 bottom quartile,-0.7020000000000006,-0.45967391304347816,-0.24232608695652247,-3.45925597826087,2.9630788043478242,5,92,descriptive association; not causal
+Women who are literate (%),all districts,7.261914893617021,5.2762925170068025,1.9856223766102188,0.763163627152989,3.142927413518597,94,294,descriptive association; not causal
+Women who are literate (%),NFHS-4 bottom quartile,8.964339622641509,9.008666666666667,-0.04432704402515775,-1.6730109014675054,1.5406047169811297,53,45,descriptive association; not causal
+Women with 10 or more years of schooling (%),all districts,5.690531914893615,5.6558503401360545,0.03468157475756062,-0.9237918114054128,0.9887161492256468,94,294,descriptive association; not causal
+Women with 10 or more years of schooling (%),NFHS-4 bottom quartile,5.502586206896552,6.435750000000001,-0.9331637931034491,-2.516210560344827,0.5458510775862057,58,40,descriptive association; not causal
