@@ -15,3 +15,13 @@ Acquisition date: 2026-10-18 (UTC date). Source URLs and status are recorded her
 The NFHS-4 source contains district indicators for literacy, schooling, marriage before 18, clean cooking fuel, and sanitation. Bank-account and mobile-phone core indicators are not present in this compilation under the requested wording. Exact common indicators will be determined only after the NFHS-5 workbook is available.
 
 Underlying survey data belong to their original publishers (IIPS/MoHFW NFHS, data.gov.in, and NITI Aayog). This repository's MIT licence applies to code, not source data.
+
+Additional files downloaded to `data/raw/docs/` on 2026-10-18:
+
+| Source | URL | Local file | Status |
+|---|---|---|---|
+| NITI Aayog, List of 112 Aspirational Districts | https://www.niti.gov.in/sites/default/files/2022-09/List-of-Aspirational-Districts.pdf | `data/raw/docs/aspirational_112.pdf` | Downloaded (143 KB); parsed to `data/processed/aspirational_districts_112.csv`, 112 rows. List vintage is 2022; retained as the requested 112-district cohort. |
+| Department of Financial Services, PMJDY Mission Document/Brochure | https://pmjdy.gov.in/files/E-Documents/PMJDY_BROCHURE_ENG.pdf | `data/raw/docs/pmjdy_brochure.pdf` | Downloaded (4.2 MB); text extracted with physical page markers. |
+| NITI Aayog / UNDP, Aspirational Districts Programme: An Appraisal | https://www.niti.gov.in/sites/default/files/2023-03/Aspirational-Districts-Programme-An-Appraisal.pdf | `data/raw/docs/adp_appraisal.pdf` | Downloaded (4.0 MB); text extracted with physical page markers. |
+
+PMJDY material is a 2014 mission brochure. The coded excerpts are paraphrases, cited by physical PDF page, and should be read as policy design statements rather than independent evidence of district-level results.

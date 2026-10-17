@@ -28,7 +28,12 @@ def build():
     cross=pd.DataFrame([{'district_id':x,'nfhs4_present':x in r4,'nfhs5_present':x in r5,'mapping_decision':'exact normalized name; review boundary changes manually'} for x in sorted(r4|r5)])
     for col in ('nfhs4_present','nfhs5_present'): cross[col]=cross[col].astype(bool)
     outdir=ROOT/'data'/'processed'; outdir.mkdir(parents=True,exist_ok=True)
-    panel['aspirational_flag']=pd.NA
+    asp_path=ROOT/'data'/'processed'/'aspirational_districts_112.csv'
+    panel['aspirational_flag']=False
+    if asp_path.exists():
+        asp=pd.read_csv(asp_path)
+        aset={(norm(r.state),norm(r.district)) for r in asp.itertuples()}
+        panel['aspirational_flag']=[(norm(s),norm(d)) in aset for s,d in zip(panel.state,panel.district)]
     panel.to_csv(outdir/'tidy_panel.csv',index=False)
     cross.to_csv(outdir/'district_crosswalk.csv',index=False)
     # Name suggestions are audit aids and never applied without an override.
