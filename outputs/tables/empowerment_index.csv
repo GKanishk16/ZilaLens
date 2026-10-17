@@ -1,0 +1,638 @@
+district_id,state,district,round,index_score
+andaman and nicobar islands::nicobar,Andaman & Nicobar Islands,Nicobar,NFHS-4,0.7053645153789044
+andaman and nicobar islands::north and middle andaman,Andaman & Nicobar Islands,North & Middle Andaman,NFHS-4,0.6668700413435604
+andaman and nicobar islands::south andaman,Andaman & Nicobar Islands,South Andaman,NFHS-4,0.7830441237958266
+andhra pradesh::anantapur,Andhra Pradesh,Anantapur,NFHS-4,0.5465811743184446
+andhra pradesh::chittoor,Andhra Pradesh,Chittoor,NFHS-4,0.6273784191848684
+andhra pradesh::east godavari,Andhra Pradesh,East Godavari,NFHS-4,0.6232886486097117
+andhra pradesh::guntur,Andhra Pradesh,Guntur,NFHS-4,0.5358321059972664
+andhra pradesh::krishna,Andhra Pradesh,Krishna,NFHS-4,0.6492485172214877
+andhra pradesh::kurnool,Andhra Pradesh,Kurnool,NFHS-4,0.46409735135913666
+andhra pradesh::prakasam,Andhra Pradesh,Prakasam,NFHS-4,0.4981236951523589
+andhra pradesh::sri potti sriramulu nellore,Andhra Pradesh,Sri Potti Sriramulu Nellore,NFHS-4,0.5582293090246051
+andhra pradesh::srikakulam,Andhra Pradesh,Srikakulam,NFHS-4,0.5578742480470025
+andhra pradesh::visakhapatnam,Andhra Pradesh,Visakhapatnam,NFHS-4,0.6051180971345523
+andhra pradesh::vizianagaram,Andhra Pradesh,Vizianagaram,NFHS-4,0.5146626713949854
+andhra pradesh::west godavari,Andhra Pradesh,West Godavari,NFHS-4,0.5774237253742712
+andhra pradesh::y s r cuddapah,Andhra Pradesh,Y.S.R. Cuddapah,NFHS-4,0.6017011370273588
+arunachal pradesh::anjaw,Arunachal Pradesh,Anjaw,NFHS-4,0.5484349471081224
+arunachal pradesh::changlang,Arunachal Pradesh,Changlang,NFHS-4,0.5413149015371037
+arunachal pradesh::dibang valley,Arunachal Pradesh,Dibang Valley,NFHS-4,0.5814665203554172
+arunachal pradesh::east kameng,Arunachal Pradesh,East Kameng,NFHS-4,0.46583640878465415
+arunachal pradesh::east siang,Arunachal Pradesh,East Siang,NFHS-4,0.744372202447657
+arunachal pradesh::kurung kumey,Arunachal Pradesh,Kurung Kumey,NFHS-4,0.39440810739776144
+arunachal pradesh::lohit,Arunachal Pradesh,Lohit,NFHS-4,0.5025010945291433
+arunachal pradesh::lower dibang valley,Arunachal Pradesh,Lower Dibang Valley,NFHS-4,0.5528675643473084
+arunachal pradesh::lower subansiri,Arunachal Pradesh,Lower Subansiri,NFHS-4,0.6025504688869081
+arunachal pradesh::papumpare,Arunachal Pradesh,Papumpare,NFHS-4,0.7097391181596734
+arunachal pradesh::tawang,Arunachal Pradesh,Tawang,NFHS-4,0.3582443544600704
+arunachal pradesh::tirap,Arunachal Pradesh,Tirap,NFHS-4,0.5689828029354371
+arunachal pradesh::upper siang,Arunachal Pradesh,Upper Siang,NFHS-4,0.6698102304802365
+arunachal pradesh::upper subansiri,Arunachal Pradesh,Upper Subansiri,NFHS-4,0.5008274934578367
+arunachal pradesh::west kameng,Arunachal Pradesh,West Kameng,NFHS-4,0.541781915808728
+arunachal pradesh::west siang,Arunachal Pradesh,West Siang,NFHS-4,0.6856928290028663
+assam::baksa,Assam,Baksa,NFHS-4,0.5941090615164416
+assam::barpeta,Assam,Barpeta,NFHS-4,0.554552381620479
+assam::bongaigaon,Assam,Bongaigaon,NFHS-4,0.576574767021934
+assam::cachar,Assam,Cachar,NFHS-4,0.6142618722621813
+assam::chirang,Assam,Chirang,NFHS-4,0.5095443671051727
+assam::darrang,Assam,Darrang,NFHS-4,0.5304148248778872
+assam::dhemaji,Assam,Dhemaji,NFHS-4,0.642851071571397
+assam::dhubri,Assam,Dhubri,NFHS-4,0.46117059278850947
+assam::dibrugarh,Assam,Dibrugarh,NFHS-4,0.5829596829174867
+assam::dima hasao,Assam,Dima Hasao,NFHS-4,0.5970016065125848
+assam::goalpara,Assam,Goalpara,NFHS-4,0.5431866528924112
+assam::golaghat,Assam,Golaghat,NFHS-4,0.6120502827021944
+assam::hailakandi,Assam,Hailakandi,NFHS-4,0.575466497364322
+assam::jorhat,Assam,Jorhat,NFHS-4,0.6955317324390503
+assam::kamrup,Assam,Kamrup,NFHS-4,0.6396447805172361
+assam::kamrup metropolitan,Assam,Kamrup Metropolitan,NFHS-4,0.7539266205063542
+assam::karbi anglong,Assam,Karbi Anglong,NFHS-4,0.47679722744654973
+assam::karimganj,Assam,Karimganj,NFHS-4,0.5989548232434008
+assam::kokrajhar,Assam,Kokrajhar,NFHS-4,0.5175806635316386
+assam::lakhimpur,Assam,Lakhimpur,NFHS-4,0.6811478912398786
+assam::morigaon,Assam,Morigaon,NFHS-4,0.566602174682967
+assam::nagaon,Assam,Nagaon,NFHS-4,0.5531782250474329
+assam::nalbari,Assam,Nalbari,NFHS-4,0.6526141624597082
+assam::sivasagar,Assam,Sivasagar,NFHS-4,0.6439287324699274
+assam::sonitpur,Assam,Sonitpur,NFHS-4,0.5670994508855475
+assam::tinsukia,Assam,Tinsukia,NFHS-4,0.48564943311452946
+assam::udalguri,Assam,Udalguri,NFHS-4,0.538703566668232
+bihar::araria,Bihar,Araria,NFHS-4,0.3422026057699252
+bihar::arwal,Bihar,Arwal,NFHS-4,0.526176684055546
+bihar::aurangabad,Bihar,Aurangabad,NFHS-4,0.5651600774619431
+bihar::banka,Bihar,Banka,NFHS-4,0.4057478789439586
+bihar::begusarai,Bihar,Begusarai,NFHS-4,0.45168683350590383
+bihar::bhagalpur,Bihar,Bhagalpur,NFHS-4,0.4943451125816257
+bihar::bhojpur,Bihar,Bhojpur,NFHS-4,0.5297944560779648
+bihar::buxar,Bihar,Buxar,NFHS-4,0.5740574696557758
+bihar::darbhanga,Bihar,Darbhanga,NFHS-4,0.4152078059554705
+bihar::gaya,Bihar,Gaya,NFHS-4,0.4710231841654599
+bihar::gopalganj,Bihar,Gopalganj,NFHS-4,0.5218007849850415
+bihar::jamui,Bihar,Jamui,NFHS-4,0.40211922342357886
+bihar::jehanabad,Bihar,Jehanabad,NFHS-4,0.527783061675496
+bihar::kaimur,Bihar,Kaimur,NFHS-4,0.5342992292608061
+bihar::katihar,Bihar,Katihar,NFHS-4,0.35996466747323824
+bihar::khagaria,Bihar,Khagaria,NFHS-4,0.4207181500062245
+bihar::kishanganj,Bihar,Kishanganj,NFHS-4,0.2834663964546005
+bihar::lakhisarai,Bihar,Lakhisarai,NFHS-4,0.48106985961974685
+bihar::madhepura,Bihar,Madhepura,NFHS-4,0.3434294451350274
+bihar::madhubani,Bihar,Madhubani,NFHS-4,0.39788025398019594
+bihar::munger,Bihar,Munger,NFHS-4,0.5602347869472882
+bihar::muzaffarpur,Bihar,Muzaffarpur,NFHS-4,0.47841688026610346
+bihar::nalanda,Bihar,Nalanda,NFHS-4,0.4598994127815345
+bihar::nawada,Bihar,Nawada,NFHS-4,0.4471016103222013
+bihar::pashchim champaran,Bihar,Pashchim Champaran,NFHS-4,0.4044341599181328
+bihar::patna,Bihar,Patna,NFHS-4,0.6128305094501051
+bihar::purba champaran,Bihar,Purba Champaran,NFHS-4,0.3734256445422102
+bihar::purnia,Bihar,Purnia,NFHS-4,0.38618676953494696
+bihar::rohtas,Bihar,Rohtas,NFHS-4,0.5727201192366846
+bihar::saharsa,Bihar,Saharsa,NFHS-4,0.3612616179084781
+bihar::samastipur,Bihar,Samastipur,NFHS-4,0.46529786945130414
+bihar::saran,Bihar,Saran,NFHS-4,0.5239801681794689
+bihar::sheikhpura,Bihar,Sheikhpura,NFHS-4,0.44981167507430614
+bihar::sheohar,Bihar,Sheohar,NFHS-4,0.3638302301436091
+bihar::sitamarhi,Bihar,Sitamarhi,NFHS-4,0.3359535413525253
+bihar::siwan,Bihar,Siwan,NFHS-4,0.5607497121503111
+bihar::supaul,Bihar,Supaul,NFHS-4,0.35881781044030336
+bihar::vaishali,Bihar,Vaishali,NFHS-4,0.5093069091105118
+chhattisgarh::bastar,Chhattisgarh,Bastar,NFHS-4,0.41036814746190275
+chhattisgarh::bijapur,Chhattisgarh,Bijapur,NFHS-4,0.5313124804099979
+chhattisgarh::bilaspur,Chhattisgarh,Bilaspur,NFHS-4,0.5845103577434027
+chhattisgarh::dakshin bastar dantewada,Chhattisgarh,Dakshin Bastar Dantewada,NFHS-4,0.33193598949534503
+chhattisgarh::dhamtari,Chhattisgarh,Dhamtari,NFHS-4,0.6232902634791277
+chhattisgarh::durg,Chhattisgarh,Durg,NFHS-4,0.6581006428522077
+chhattisgarh::janjgir champa,Chhattisgarh,Janjgir Champa,NFHS-4,0.6311270929302029
+chhattisgarh::jashpur,Chhattisgarh,Jashpur,NFHS-4,0.5315126096544787
+chhattisgarh::kabirdham,Chhattisgarh,Kabirdham,NFHS-4,0.45010044793794
+chhattisgarh::korba,Chhattisgarh,Korba,NFHS-4,0.5640937190799685
+chhattisgarh::korea,Chhattisgarh,Korea,NFHS-4,0.5207646712710846
+chhattisgarh::mahasamund,Chhattisgarh,Mahasamund,NFHS-4,0.5342745715073868
+chhattisgarh::narayanpur,Chhattisgarh,Narayanpur,NFHS-4,0.4252137518607191
+chhattisgarh::raigarh,Chhattisgarh,Raigarh,NFHS-4,0.5677393927188613
+chhattisgarh::raipur,Chhattisgarh,Raipur,NFHS-4,0.59217519183146
+chhattisgarh::rajnandgaon,Chhattisgarh,Rajnandgaon,NFHS-4,0.6327049239275273
+chhattisgarh::surguja,Chhattisgarh,Surguja,NFHS-4,0.463084619510518
+chhattisgarh::uttar bastar kanker,Chhattisgarh,Uttar Bastar Kanker,NFHS-4,0.5652938872052946
+daman and diu::daman,Daman & Diu,Daman,NFHS-4,0.7551963174699876
+daman and diu::diu,Daman & Diu,Diu,NFHS-4,0.721295357536836
+goa::north goa,Goa,North Goa,NFHS-4,0.8442852435343529
+goa::south goa,Goa,South Goa,NFHS-4,0.7853915820969047
+gujarat::ahmadabad,Gujarat,Ahmadabad,NFHS-4,0.7327702665032808
+gujarat::amreli,Gujarat,Amreli,NFHS-4,0.654056870161007
+gujarat::anand,Gujarat,Anand,NFHS-4,0.6415685466751992
+gujarat::banaskantha,Gujarat,Banaskantha,NFHS-4,0.4672442061165023
+gujarat::bharuch,Gujarat,Bharuch,NFHS-4,0.6040553639696347
+gujarat::bhavnagar,Gujarat,Bhavnagar,NFHS-4,0.5469371533704964
+gujarat::dohad,Gujarat,Dohad,NFHS-4,0.47946378017782315
+gujarat::gandhinagar,Gujarat,Gandhinagar,NFHS-4,0.5764395950758097
+gujarat::jamnagar,Gujarat,Jamnagar,NFHS-4,0.6005547335388957
+gujarat::junagadh,Gujarat,Junagadh,NFHS-4,0.6714648344725499
+gujarat::kachchh,Gujarat,Kachchh,NFHS-4,0.4797449934438106
+gujarat::kheda,Gujarat,Kheda,NFHS-4,0.578248149952474
+gujarat::mahesena,Gujarat,Mahesena,NFHS-4,0.6412797424244046
+gujarat::narmada,Gujarat,Narmada,NFHS-4,0.5681466175881328
+gujarat::navsari,Gujarat,Navsari,NFHS-4,0.7182199823298132
+gujarat::panchmahal,Gujarat,Panchmahal,NFHS-4,0.5771646039613186
+gujarat::patan,Gujarat,Patan,NFHS-4,0.49243964670768886
+gujarat::porbandar,Gujarat,Porbandar,NFHS-4,0.6583381981470667
+gujarat::rajkot,Gujarat,Rajkot,NFHS-4,0.7213324163574345
+gujarat::sabarkantha,Gujarat,Sabarkantha,NFHS-4,0.6066414557145406
+gujarat::surat,Gujarat,Surat,NFHS-4,0.719746377617596
+gujarat::surendranagar,Gujarat,Surendranagar,NFHS-4,0.5469364706997519
+gujarat::tapi,Gujarat,Tapi,NFHS-4,0.5991610635680633
+gujarat::the dangs,Gujarat,The Dangs,NFHS-4,0.4574967366180546
+gujarat::vadodara,Gujarat,Vadodara,NFHS-4,0.6112259789645603
+gujarat::valsad,Gujarat,Valsad,NFHS-4,0.7033003434657757
+haryana::ambala,Haryana,Ambala,NFHS-4,0.8544058184890699
+haryana::bhiwani,Haryana,Bhiwani,NFHS-4,0.6932739582415014
+haryana::faridabad,Haryana,Faridabad,NFHS-4,0.6856794188384718
+haryana::fatehabad,Haryana,Fatehabad,NFHS-4,0.6428586484319818
+haryana::gurgaon,Haryana,Gurgaon,NFHS-4,0.7168296503835176
+haryana::hisar,Haryana,Hisar,NFHS-4,0.6728540474665676
+haryana::jhajjar,Haryana,Jhajjar,NFHS-4,0.7694984955545383
+haryana::jind,Haryana,Jind,NFHS-4,0.7125220011245235
+haryana::kaithal,Haryana,Kaithal,NFHS-4,0.655394532882347
+haryana::karnal,Haryana,Karnal,NFHS-4,0.7075875534057443
+haryana::kurukshetra,Haryana,Kurukshetra,NFHS-4,0.7389629281929638
+haryana::mahendragarh,Haryana,Mahendragarh,NFHS-4,0.7352440863744844
+haryana::mewat,Haryana,Mewat,NFHS-4,0.34967061725087784
+haryana::palwal,Haryana,Palwal,NFHS-4,0.5743131698682159
+haryana::panchkula,Haryana,Panchkula,NFHS-4,0.8456544644763843
+haryana::panipat,Haryana,Panipat,NFHS-4,0.7518509969876563
+haryana::rewari,Haryana,Rewari,NFHS-4,0.7088694505587286
+haryana::rohtak,Haryana,Rohtak,NFHS-4,0.7105772306786425
+haryana::sirsa,Haryana,Sirsa,NFHS-4,0.6123066451837245
+haryana::sonipat,Haryana,Sonipat,NFHS-4,0.7687883249492341
+haryana::yamunanagar,Haryana,Yamunanagar,NFHS-4,0.7659555065811224
+himachal pradesh::bilaspur,Himachal Pradesh,Bilaspur,NFHS-4,0.8495130497809391
+himachal pradesh::chamba,Himachal Pradesh,Chamba,NFHS-4,0.710447327067436
+himachal pradesh::hamirpur,Himachal Pradesh,Hamirpur,NFHS-4,0.9098546213415665
+himachal pradesh::kangra,Himachal Pradesh,Kangra,NFHS-4,0.881427262079535
+himachal pradesh::kinnaur,Himachal Pradesh,Kinnaur,NFHS-4,0.8169536759642106
+himachal pradesh::kullu,Himachal Pradesh,Kullu,NFHS-4,0.7427740011830605
+himachal pradesh::lahul and spiti,Himachal Pradesh,Lahul and Spiti,NFHS-4,0.7498520523024659
+himachal pradesh::mandi,Himachal Pradesh,Mandi,NFHS-4,0.8386833823698867
+himachal pradesh::shimla,Himachal Pradesh,Shimla,NFHS-4,0.8292625072636755
+himachal pradesh::sirmaur,Himachal Pradesh,Sirmaur,NFHS-4,0.7492304907904381
+himachal pradesh::solan,Himachal Pradesh,Solan,NFHS-4,0.7925415082448773
+himachal pradesh::una,Himachal Pradesh,Una,NFHS-4,0.8314976136537915
+jammu and kashmir::anantnag,Jammu & Kashmir,Anantnag,NFHS-4,0.5803596788136155
+jammu and kashmir::badgam,Jammu & Kashmir,Badgam,NFHS-4,0.5199288500148441
+jammu and kashmir::bandipore,Jammu & Kashmir,Bandipore,NFHS-4,0.5454006828041399
+jammu and kashmir::baramula,Jammu & Kashmir,Baramula,NFHS-4,0.5998807382056173
+jammu and kashmir::doda,Jammu & Kashmir,Doda,NFHS-4,0.5332071428232334
+jammu and kashmir::ganderbal,Jammu & Kashmir,Ganderbal,NFHS-4,0.5428694793564486
+jammu and kashmir::jammu,Jammu & Kashmir,Jammu,NFHS-4,0.7779121707991983
+jammu and kashmir::kargil,Jammu & Kashmir,Kargil,NFHS-4,0.646135216908232
+jammu and kashmir::kathua,Jammu & Kashmir,Kathua,NFHS-4,0.7134736818069305
+jammu and kashmir::kishtwar,Jammu & Kashmir,Kishtwar,NFHS-4,0.5299960134382559
+jammu and kashmir::kulgam,Jammu & Kashmir,Kulgam,NFHS-4,0.5461334866910004
+jammu and kashmir::kupwara,Jammu & Kashmir,Kupwara,NFHS-4,0.5709542100952172
+jammu and kashmir::leh(ladakh),Jammu & Kashmir,Leh(Ladakh),NFHS-4,0.674348236388791
+jammu and kashmir::pulwama,Jammu & Kashmir,Pulwama,NFHS-4,0.6258812877163324
+jammu and kashmir::punch,Jammu & Kashmir,Punch,NFHS-4,0.6058656765272963
+jammu and kashmir::rajouri,Jammu & Kashmir,Rajouri,NFHS-4,0.6123729850865083
+jammu and kashmir::ramban,Jammu & Kashmir,Ramban,NFHS-4,0.4457246775547942
+jammu and kashmir::reasi,Jammu & Kashmir,Reasi,NFHS-4,0.5755624447757621
+jammu and kashmir::samba,Jammu & Kashmir,Samba,NFHS-4,0.7330636736811871
+jammu and kashmir::shupiyan,Jammu & Kashmir,Shupiyan,NFHS-4,0.5983406486996359
+jammu and kashmir::srinagar,Jammu & Kashmir,Srinagar,NFHS-4,0.6796925015563127
+jammu and kashmir::udhampur,Jammu & Kashmir,Udhampur,NFHS-4,0.6217213228950622
+jharkhand::bokaro,Jharkhand,Bokaro,NFHS-4,0.5929011956899621
+jharkhand::chatra,Jharkhand,Chatra,NFHS-4,0.4468662348656506
+jharkhand::deoghar,Jharkhand,Deoghar,NFHS-4,0.48111022507772144
+jharkhand::dhanbad,Jharkhand,Dhanbad,NFHS-4,0.5968024549781585
+jharkhand::dumka,Jharkhand,Dumka,NFHS-4,0.4277501404673524
+jharkhand::garhwa,Jharkhand,Garhwa,NFHS-4,0.45382686661700433
+jharkhand::giridih,Jharkhand,Giridih,NFHS-4,0.44668252424491406
+jharkhand::godda,Jharkhand,Godda,NFHS-4,0.4019115141797971
+jharkhand::gumla,Jharkhand,Gumla,NFHS-4,0.5760575960675653
+jharkhand::hazaribagh,Jharkhand,Hazaribagh,NFHS-4,0.586295392651222
+jharkhand::jamtara,Jharkhand,Jamtara,NFHS-4,0.41338114068710174
+jharkhand::khunti,Jharkhand,Khunti,NFHS-4,0.5094456199590013
+jharkhand::kodarma,Jharkhand,Kodarma,NFHS-4,0.5376607674890534
+jharkhand::latehar,Jharkhand,Latehar,NFHS-4,0.44482240497134956
+jharkhand::lohardaga,Jharkhand,Lohardaga,NFHS-4,0.5501811969015066
+jharkhand::pakur,Jharkhand,Pakur,NFHS-4,0.35121394748119794
+jharkhand::palamu,Jharkhand,Palamu,NFHS-4,0.5164003179676311
+jharkhand::pashchimi singhbhum,Jharkhand,Pashchimi Singhbhum,NFHS-4,0.4342486559135038
+jharkhand::purbi singhbhum,Jharkhand,Purbi Singhbhum,NFHS-4,0.6583589497683411
+jharkhand::ramgarh,Jharkhand,Ramgarh,NFHS-4,0.6493200077573367
+jharkhand::ranchi,Jharkhand,Ranchi,NFHS-4,0.6732389858824082
+jharkhand::sahibganj,Jharkhand,Sahibganj,NFHS-4,0.379963811388431
+jharkhand::saraikela kharsawan,Jharkhand,Saraikela Kharsawan,NFHS-4,0.5493128397145196
+jharkhand::simdega,Jharkhand,Simdega,NFHS-4,0.49887974907848276
+karnataka::bagalkot,Karnataka,Bagalkot,NFHS-4,0.5321247299085782
+karnataka::bangalore,Karnataka,Bangalore,NFHS-4,0.8485899502470345
+karnataka::bangalore rural,Karnataka,Bangalore Rural,NFHS-4,0.710792565433108
+karnataka::belgaum,Karnataka,Belgaum,NFHS-4,0.6589604564540614
+karnataka::bellary,Karnataka,Bellary,NFHS-4,0.4913636775771183
+karnataka::bidar,Karnataka,Bidar,NFHS-4,0.6847277208931263
+karnataka::bijapur,Karnataka,Bijapur,NFHS-4,0.5957198239227367
+karnataka::chamarajanagar,Karnataka,Chamarajanagar,NFHS-4,0.5281268891882962
+karnataka::chikkaballapura,Karnataka,Chikkaballapura,NFHS-4,0.596809730522001
+karnataka::chikmagalur,Karnataka,Chikmagalur,NFHS-4,0.6310122426012517
+karnataka::chitradurga,Karnataka,Chitradurga,NFHS-4,0.6764935033089325
+karnataka::dakshina kannada,Karnataka,Dakshina Kannada,NFHS-4,0.7609213167431786
+karnataka::davanagere,Karnataka,Davanagere,NFHS-4,0.6481274478797561
+karnataka::dharwad,Karnataka,Dharwad,NFHS-4,0.6947215670479383
+karnataka::gadag,Karnataka,Gadag,NFHS-4,0.617690343610549
+karnataka::gulbarga,Karnataka,Gulbarga,NFHS-4,0.5280764688534023
+karnataka::hassan,Karnataka,Hassan,NFHS-4,0.6724950144437828
+karnataka::haveri,Karnataka,Haveri,NFHS-4,0.5996385485964859
+karnataka::kodagu,Karnataka,Kodagu,NFHS-4,0.7499908463269311
+karnataka::kolar,Karnataka,Kolar,NFHS-4,0.6671805953273384
+karnataka::koppal,Karnataka,Koppal,NFHS-4,0.5165959447239145
+karnataka::mandya,Karnataka,Mandya,NFHS-4,0.6857706487596636
+karnataka::mysore,Karnataka,Mysore,NFHS-4,0.6577390486371126
+karnataka::raichur,Karnataka,Raichur,NFHS-4,0.4631962887507357
+karnataka::ramanagara,Karnataka,Ramanagara,NFHS-4,0.6698486483648918
+karnataka::shimoga,Karnataka,Shimoga,NFHS-4,0.6851818585820872
+karnataka::tumkur,Karnataka,Tumkur,NFHS-4,0.6613755478089427
+karnataka::udupi,Karnataka,Udupi,NFHS-4,0.7664743033904136
+karnataka::uttara kannada,Karnataka,Uttara Kannada,NFHS-4,0.7301363470029518
+karnataka::yadgir,Karnataka,Yadgir,NFHS-4,0.3867705063796562
+kerala::alappuzha,Kerala,Alappuzha,NFHS-4,0.9396728053283157
+kerala::ernakulam,Kerala,Ernakulam,NFHS-4,0.9839306478714069
+kerala::idukki,Kerala,Idukki,NFHS-4,0.9168168616849044
+kerala::kannur,Kerala,Kannur,NFHS-4,0.9269006132227281
+kerala::kasaragod,Kerala,Kasaragod,NFHS-4,0.8678838623266542
+kerala::kollam,Kerala,Kollam,NFHS-4,0.9553191621087604
+kerala::kottayam,Kerala,Kottayam,NFHS-4,0.9788702026735662
+kerala::kozhikode,Kerala,Kozhikode,NFHS-4,0.9374888019438382
+kerala::malappuram,Kerala,Malappuram,NFHS-4,0.9017985996539801
+kerala::palakkad,Kerala,Palakkad,NFHS-4,0.8806130477446971
+kerala::pathanamthitta,Kerala,Pathanamthitta,NFHS-4,0.9527853174314992
+kerala::thiruvananthapuram,Kerala,Thiruvananthapuram,NFHS-4,0.9130707350076578
+kerala::thrissur,Kerala,Thrissur,NFHS-4,0.9524397463619241
+kerala::wayanad,Kerala,Wayanad,NFHS-4,0.8507282570642982
+madhya pradesh::alirajpur,Madhya Pradesh,Alirajpur,NFHS-4,0.25676498263171843
+madhya pradesh::anuppur,Madhya Pradesh,Anuppur,NFHS-4,0.5198060618729605
+madhya pradesh::ashoknagar,Madhya Pradesh,Ashoknagar,NFHS-4,0.4234281001951928
+madhya pradesh::balaghat,Madhya Pradesh,Balaghat,NFHS-4,0.5948083800109454
+madhya pradesh::barwani,Madhya Pradesh,Barwani,NFHS-4,0.3588215816076573
+madhya pradesh::betul,Madhya Pradesh,Betul,NFHS-4,0.5962025113730396
+madhya pradesh::bhind,Madhya Pradesh,Bhind,NFHS-4,0.5164692504498859
+madhya pradesh::bhopal,Madhya Pradesh,Bhopal,NFHS-4,0.6947264885547307
+madhya pradesh::burhanpur,Madhya Pradesh,Burhanpur,NFHS-4,0.48184555563101555
+madhya pradesh::chhatarpur,Madhya Pradesh,Chhatarpur,NFHS-4,0.43997857669348733
+madhya pradesh::chhindwara,Madhya Pradesh,Chhindwara,NFHS-4,0.5700018153549049
+madhya pradesh::damoh,Madhya Pradesh,Damoh,NFHS-4,0.4941206237617519
+madhya pradesh::datia,Madhya Pradesh,Datia,NFHS-4,0.4964749103396329
+madhya pradesh::dewas,Madhya Pradesh,Dewas,NFHS-4,0.5279992831172504
+madhya pradesh::dhar,Madhya Pradesh,Dhar,NFHS-4,0.4538442488265812
+madhya pradesh::dindori,Madhya Pradesh,Dindori,NFHS-4,0.42227328180895507
+madhya pradesh::guna,Madhya Pradesh,Guna,NFHS-4,0.4113061339261112
+madhya pradesh::gwalior,Madhya Pradesh,Gwalior,NFHS-4,0.5873471136308199
+madhya pradesh::harda,Madhya Pradesh,Harda,NFHS-4,0.4860776795346571
+madhya pradesh::hoshangabad,Madhya Pradesh,Hoshangabad,NFHS-4,0.5862037641130896
+madhya pradesh::indore,Madhya Pradesh,Indore,NFHS-4,0.6656535864205646
+madhya pradesh::jabalpur,Madhya Pradesh,Jabalpur,NFHS-4,0.6478097815653711
+madhya pradesh::jhabua,Madhya Pradesh,Jhabua,NFHS-4,0.264534494469955
+madhya pradesh::katni,Madhya Pradesh,Katni,NFHS-4,0.5370042924688587
+madhya pradesh::khandwa (east nimar),Madhya Pradesh,Khandwa (East Nimar),NFHS-4,0.4352571206776299
+madhya pradesh::khargone (west nimar),Madhya Pradesh,Khargone (West Nimar),NFHS-4,0.45153815409518683
+madhya pradesh::mandla,Madhya Pradesh,Mandla,NFHS-4,0.4777319386605427
+madhya pradesh::mandsaur,Madhya Pradesh,Mandsaur,NFHS-4,0.4650733461055536
+madhya pradesh::morena,Madhya Pradesh,Morena,NFHS-4,0.5003775804807014
+madhya pradesh::narsimhapur,Madhya Pradesh,Narsimhapur,NFHS-4,0.5638213507158567
+madhya pradesh::neemuch,Madhya Pradesh,Neemuch,NFHS-4,0.4814768035739304
+madhya pradesh::panna,Madhya Pradesh,Panna,NFHS-4,0.4791381525101352
+madhya pradesh::raisen,Madhya Pradesh,Raisen,NFHS-4,0.5280770055738496
+madhya pradesh::rajgarh,Madhya Pradesh,Rajgarh,NFHS-4,0.44663361834052234
+madhya pradesh::ratlam,Madhya Pradesh,Ratlam,NFHS-4,0.4670820961397363
+madhya pradesh::rewa,Madhya Pradesh,Rewa,NFHS-4,0.5339030919060398
+madhya pradesh::sagar,Madhya Pradesh,Sagar,NFHS-4,0.5388680510837025
+madhya pradesh::satna,Madhya Pradesh,Satna,NFHS-4,0.56163832818015
+madhya pradesh::sehore,Madhya Pradesh,Sehore,NFHS-4,0.5230156454402752
+madhya pradesh::seoni,Madhya Pradesh,Seoni,NFHS-4,0.5095653713930904
+madhya pradesh::shahdol,Madhya Pradesh,Shahdol,NFHS-4,0.479610802346457
+madhya pradesh::shajapur,Madhya Pradesh,Shajapur,NFHS-4,0.462422758453553
+madhya pradesh::sheopur,Madhya Pradesh,Sheopur,NFHS-4,0.363217226340937
+madhya pradesh::shivpuri,Madhya Pradesh,Shivpuri,NFHS-4,0.4057776763449368
+madhya pradesh::sidhi,Madhya Pradesh,Sidhi,NFHS-4,0.4816565939382996
+madhya pradesh::singrauli,Madhya Pradesh,Singrauli,NFHS-4,0.460293161573374
+madhya pradesh::tikamgarh,Madhya Pradesh,Tikamgarh,NFHS-4,0.4253824091992002
+madhya pradesh::ujjain,Madhya Pradesh,Ujjain,NFHS-4,0.5050429005597076
+madhya pradesh::umaria,Madhya Pradesh,Umaria,NFHS-4,0.4562831410653955
+madhya pradesh::vidisha,Madhya Pradesh,Vidisha,NFHS-4,0.4311404293347699
+maharashtra::ahmednagar,Maharashtra,Ahmednagar,NFHS-4,0.7232575274552322
+maharashtra::akola,Maharashtra,Akola,NFHS-4,0.735338844212535
+maharashtra::amravati,Maharashtra,Amravati,NFHS-4,0.7542344186974257
+maharashtra::aurangabad,Maharashtra,Aurangabad,NFHS-4,0.6967621107065174
+maharashtra::bhandara,Maharashtra,Bhandara,NFHS-4,0.8226267608736599
+maharashtra::bid,Maharashtra,Bid,NFHS-4,0.5981056718600255
+maharashtra::buldhana,Maharashtra,Buldhana,NFHS-4,0.6437771277758363
+maharashtra::chandrapur,Maharashtra,Chandrapur,NFHS-4,0.7084824672693707
+maharashtra::dhule,Maharashtra,Dhule,NFHS-4,0.554699830654498
+maharashtra::gadchiroli,Maharashtra,Gadchiroli,NFHS-4,0.6432235806716139
+maharashtra::gondiya,Maharashtra,Gondiya,NFHS-4,0.7273084470029164
+maharashtra::hingoli,Maharashtra,Hingoli,NFHS-4,0.5818590732964353
+maharashtra::jalgaon,Maharashtra,Jalgaon,NFHS-4,0.6174350106278886
+maharashtra::jalna,Maharashtra,Jalna,NFHS-4,0.5579257182824208
+maharashtra::kolhapur,Maharashtra,Kolhapur,NFHS-4,0.7342946027933238
+maharashtra::latur,Maharashtra,Latur,NFHS-4,0.659317496392144
+maharashtra::mumbai,Maharashtra,Mumbai,NFHS-4,0.8107911930295078
+maharashtra::mumbai suburban,Maharashtra,Mumbai Suburban,NFHS-4,0.7239811254878692
+maharashtra::nagpur,Maharashtra,Nagpur,NFHS-4,0.8062843922360876
+maharashtra::nanded,Maharashtra,Nanded,NFHS-4,0.6136271815008469
+maharashtra::nandurbar,Maharashtra,Nandurbar,NFHS-4,0.41353663111168343
+maharashtra::nashik,Maharashtra,Nashik,NFHS-4,0.7058416363162631
+maharashtra::osmanabad,Maharashtra,Osmanabad,NFHS-4,0.6800748018812993
+maharashtra::parbhani,Maharashtra,Parbhani,NFHS-4,0.5676822445460786
+maharashtra::pune,Maharashtra,Pune,NFHS-4,0.7977302453232247
+maharashtra::raigarh,Maharashtra,Raigarh,NFHS-4,0.7614739489116679
+maharashtra::ratnagiri,Maharashtra,Ratnagiri,NFHS-4,0.6924110906689149
+maharashtra::sangli,Maharashtra,Sangli,NFHS-4,0.7594441945895675
+maharashtra::satara,Maharashtra,Satara,NFHS-4,0.7290828856052949
+maharashtra::sindhudurg,Maharashtra,Sindhudurg,NFHS-4,0.7838635436912611
+maharashtra::solapur,Maharashtra,Solapur,NFHS-4,0.6611149151042041
+maharashtra::thane,Maharashtra,Thane,NFHS-4,0.7208254493689984
+maharashtra::wardha,Maharashtra,Wardha,NFHS-4,0.7117320004147814
+maharashtra::washim,Maharashtra,Washim,NFHS-4,0.678103807462682
+maharashtra::yavatmal,Maharashtra,Yavatmal,NFHS-4,0.6635932892524202
+manipur::bishnupur,Manipur,Bishnupur,NFHS-4,0.7401472458021536
+manipur::chandel,Manipur,Chandel,NFHS-4,0.675803012453366
+manipur::churachandpur,Manipur,Churachandpur,NFHS-4,0.6951330166290354
+manipur::imphal east,Manipur,Imphal East,NFHS-4,0.7643290709961488
+manipur::imphal west,Manipur,Imphal West,NFHS-4,0.8490942932688388
+manipur::senapati,Manipur,Senapati,NFHS-4,0.6728661158298438
+manipur::tamenglong,Manipur,Tamenglong,NFHS-4,0.5868174505865064
+manipur::thoubal,Manipur,Thoubal,NFHS-4,0.7240753010940896
+manipur::ukhrul,Manipur,Ukhrul,NFHS-4,0.7252612932083009
+meghalaya::east garo hills,Meghalaya,East Garo Hills,NFHS-4,0.5617442504312498
+meghalaya::east khasi hills,Meghalaya,East Khasi Hills,NFHS-4,0.7686992403404738
+meghalaya::jaintia hills,Meghalaya,Jaintia Hills,NFHS-4,0.605650826704463
+meghalaya::ribhoi,Meghalaya,Ribhoi,NFHS-4,0.550317505062847
+meghalaya::south garo hills,Meghalaya,South Garo Hills,NFHS-4,0.7859835988745976
+meghalaya::west garo hills,Meghalaya,West Garo Hills,NFHS-4,0.6501935501032657
+meghalaya::west khasi hills,Meghalaya,West Khasi Hills,NFHS-4,0.6444668135507318
+mizoram::aizawl,Mizoram,Aizawl,NFHS-4,0.8411163126175325
+mizoram::champhai,Mizoram,Champhai,NFHS-4,0.7461428416342368
+mizoram::kolasib,Mizoram,Kolasib,NFHS-4,0.7430754246418008
+mizoram::lawngtlai,Mizoram,Lawngtlai,NFHS-4,0.6021260658246042
+mizoram::lunglei,Mizoram,Lunglei,NFHS-4,0.7448695853665838
+mizoram::mamit,Mizoram,Mamit,NFHS-4,0.6257574073012577
+mizoram::saiha,Mizoram,Saiha,NFHS-4,0.7903629599489237
+mizoram::serchhip,Mizoram,Serchhip,NFHS-4,0.7760824374358744
+nagaland::dimapur,Nagaland,Dimapur,NFHS-4,0.6993487187702165
+nagaland::kiphire,Nagaland,Kiphire,NFHS-4,0.5764394977756115
+nagaland::kohima,Nagaland,Kohima,NFHS-4,0.771184210500504
+nagaland::longleng,Nagaland,Longleng,NFHS-4,0.5789509932251206
+nagaland::mokokchung,Nagaland,Mokokchung,NFHS-4,0.8159024085290842
+nagaland::mon,Nagaland,Mon,NFHS-4,0.4993200293360097
+nagaland::peren,Nagaland,Peren,NFHS-4,0.5999547930724927
+nagaland::phek,Nagaland,Phek,NFHS-4,0.5852680406631651
+nagaland::tuensang,Nagaland,Tuensang,NFHS-4,0.603378248752586
+nagaland::wokha,Nagaland,Wokha,NFHS-4,0.73996046080903
+nagaland::zunheboto,Nagaland,Zunheboto,NFHS-4,0.6763003435834775
+nct delhi::central,NCT Delhi,Central,NFHS-4,0.8280328257911751
+nct delhi::east,NCT Delhi,East,NFHS-4,0.8153984782484426
+nct delhi::new delhi,NCT Delhi,New Delhi,NFHS-4,0.8044224085651794
+nct delhi::north,NCT Delhi,North,NFHS-4,0.44736838549428243
+nct delhi::north east,NCT Delhi,North East,NFHS-4,0.7492435509879913
+nct delhi::north west,NCT Delhi,North West,NFHS-4,0.7199479522408255
+nct delhi::south,NCT Delhi,South,NFHS-4,0.7517919043802704
+nct delhi::south west,NCT Delhi,South West,NFHS-4,0.7638837201428162
+nct delhi::west,NCT Delhi,West,NFHS-4,0.8329971022980933
+odisha::anugul,Odisha,Anugul,NFHS-4,0.5904972232367467
+odisha::balangir,Odisha,Balangir,NFHS-4,0.5223372825835901
+odisha::baleshwar,Odisha,Baleshwar,NFHS-4,0.6398761698043822
+odisha::bargarh,Odisha,Bargarh,NFHS-4,0.5700854888171666
+odisha::baudh,Odisha,Baudh,NFHS-4,0.5137679646866193
+odisha::bhadrak,Odisha,Bhadrak,NFHS-4,0.6374095940898603
+odisha::cuttack,Odisha,Cuttack,NFHS-4,0.6789779665663178
+odisha::debagarh,Odisha,Debagarh,NFHS-4,0.5531438561065035
+odisha::dhenkanal,Odisha,Dhenkanal,NFHS-4,0.6204253187827165
+odisha::gajapati,Odisha,Gajapati,NFHS-4,0.3843597197738602
+odisha::ganjam,Odisha,Ganjam,NFHS-4,0.5327528277968148
+odisha::jagatsinghapur,Odisha,Jagatsinghapur,NFHS-4,0.7178770383655857
+odisha::jajapur,Odisha,Jajapur,NFHS-4,0.666765034028194
+odisha::jharsuguda,Odisha,Jharsuguda,NFHS-4,0.6523588922513692
+odisha::kalahandi,Odisha,Kalahandi,NFHS-4,0.4160800347487256
+odisha::kandhamal,Odisha,Kandhamal,NFHS-4,0.4750849244367838
+odisha::kendrapara,Odisha,Kendrapara,NFHS-4,0.6386306346770294
+odisha::kendujhar,Odisha,Kendujhar,NFHS-4,0.5727073085670588
+odisha::khordha,Odisha,Khordha,NFHS-4,0.69348067251229
+odisha::koraput,Odisha,Koraput,NFHS-4,0.3717097194541035
+odisha::malkangiri,Odisha,Malkangiri,NFHS-4,0.3118564159809455
+odisha::mayurbhanj,Odisha,Mayurbhanj,NFHS-4,0.5073739057111646
+odisha::nabarangapur,Odisha,Nabarangapur,NFHS-4,0.34070411209861656
+odisha::nayagarh,Odisha,Nayagarh,NFHS-4,0.5902054136653184
+odisha::nuapada,Odisha,Nuapada,NFHS-4,0.44681741213723447
+odisha::puri,Odisha,Puri,NFHS-4,0.6709085174513986
+odisha::rayagada,Odisha,Rayagada,NFHS-4,0.3204988706703422
+odisha::sambalpur,Odisha,Sambalpur,NFHS-4,0.582959034772619
+odisha::subarnapur,Odisha,Subarnapur,NFHS-4,0.5765258925047028
+odisha::sundargarh,Odisha,Sundargarh,NFHS-4,0.6087351723620041
+puducherry::karaikal,Puducherry,Karaikal,NFHS-4,0.8284361617912401
+puducherry::mahe,Puducherry,Mahe,NFHS-4,0.9925599733114971
+puducherry::puducherry,Puducherry,Puducherry,NFHS-4,0.8002319322850256
+puducherry::yanam,Puducherry,Yanam,NFHS-4,0.7021129514841987
+punjab::amritsar,Punjab,Amritsar,NFHS-4,0.733438124077291
+punjab::barnala,Punjab,Barnala,NFHS-4,0.6886450315752873
+punjab::bathinda,Punjab,Bathinda,NFHS-4,0.7192777971266546
+punjab::faridkot,Punjab,Faridkot,NFHS-4,0.7120727158906014
+punjab::fatehgarh sahib,Punjab,Fatehgarh Sahib,NFHS-4,0.8201832170576349
+punjab::firozpur,Punjab,Firozpur,NFHS-4,0.5990025270195392
+punjab::gurdaspur,Punjab,Gurdaspur,NFHS-4,0.8289316599111689
+punjab::hoshiarpur,Punjab,Hoshiarpur,NFHS-4,0.8306426980183597
+punjab::jalandhar,Punjab,Jalandhar,NFHS-4,0.8586874933032549
+punjab::kapurthala,Punjab,Kapurthala,NFHS-4,0.805915852042337
+punjab::ludhiana,Punjab,Ludhiana,NFHS-4,0.8077277276805999
+punjab::mansa,Punjab,Mansa,NFHS-4,0.6262675396848469
+punjab::moga,Punjab,Moga,NFHS-4,0.7058616911425707
+punjab::muktsar,Punjab,Muktsar,NFHS-4,0.7116995931713936
+punjab::patiala,Punjab,Patiala,NFHS-4,0.7933366941135614
+punjab::rup nagar,Punjab,Rup Nagar,NFHS-4,0.8327457068347385
+punjab::sahibzada ajit singh nagar,Punjab,Sahibzada Ajit Singh Nagar,NFHS-4,0.7982569830841643
+punjab::sahid bhagat singh nagar,Punjab,Sahid Bhagat Singh Nagar,NFHS-4,0.8138708211968011
+punjab::sangrur,Punjab,Sangrur,NFHS-4,0.6930321154604953
+punjab::tarn taran,Punjab,Tarn Taran,NFHS-4,0.6737249454442105
+rajasthan::ajmer,Rajasthan,Ajmer,NFHS-4,0.5757120736480893
+rajasthan::alwar,Rajasthan,Alwar,NFHS-4,0.5493860769458598
+rajasthan::banswara,Rajasthan,Banswara,NFHS-4,0.4167180494103745
+rajasthan::baran,Rajasthan,Baran,NFHS-4,0.4731960058739501
+rajasthan::barmer,Rajasthan,Barmer,NFHS-4,0.3372196507636947
+rajasthan::bharatpur,Rajasthan,Bharatpur,NFHS-4,0.48453770459181206
+rajasthan::bhilwara,Rajasthan,Bhilwara,NFHS-4,0.48016190282150567
+rajasthan::bikaner,Rajasthan,Bikaner,NFHS-4,0.5079550703780571
+rajasthan::bundi,Rajasthan,Bundi,NFHS-4,0.4599335149315981
+rajasthan::chittaurgarh,Rajasthan,Chittaurgarh,NFHS-4,0.4369423506919633
+rajasthan::churu,Rajasthan,Churu,NFHS-4,0.5067208346285441
+rajasthan::dausa,Rajasthan,Dausa,NFHS-4,0.5375528176273747
+rajasthan::dhaulpur,Rajasthan,Dhaulpur,NFHS-4,0.5042005005545915
+rajasthan::dungarpur,Rajasthan,Dungarpur,NFHS-4,0.48785877692317076
+rajasthan::ganganagar,Rajasthan,Ganganagar,NFHS-4,0.5997484601557062
+rajasthan::hanumangarh,Rajasthan,Hanumangarh,NFHS-4,0.5521718679311455
+rajasthan::jaipur,Rajasthan,Jaipur,NFHS-4,0.6379000043510451
+rajasthan::jaisalmer,Rajasthan,Jaisalmer,NFHS-4,0.32537652018318014
+rajasthan::jalor,Rajasthan,Jalor,NFHS-4,0.37939619185072393
+rajasthan::jhalawar,Rajasthan,Jhalawar,NFHS-4,0.44916648216901284
+rajasthan::jhunjhunun,Rajasthan,Jhunjhunun,NFHS-4,0.6408394621668777
+rajasthan::jodhpur,Rajasthan,Jodhpur,NFHS-4,0.5149048986687096
+rajasthan::karauli,Rajasthan,Karauli,NFHS-4,0.4566784152732434
+rajasthan::kota,Rajasthan,Kota,NFHS-4,0.6280193104797923
+rajasthan::nagaur,Rajasthan,Nagaur,NFHS-4,0.48867497021848877
+rajasthan::pali,Rajasthan,Pali,NFHS-4,0.5038503438208429
+rajasthan::pratapgarh,Rajasthan,Pratapgarh,NFHS-4,0.40039070266789684
+rajasthan::rajsamand,Rajasthan,Rajsamand,NFHS-4,0.5110123665805364
+rajasthan::sawai madhopur,Rajasthan,Sawai Madhopur,NFHS-4,0.4109211955102707
+rajasthan::sikar,Rajasthan,Sikar,NFHS-4,0.5736780491027803
+rajasthan::sirohi,Rajasthan,Sirohi,NFHS-4,0.4048362168914007
+rajasthan::tonk,Rajasthan,Tonk,NFHS-4,0.48653432348839726
+rajasthan::udaipur,Rajasthan,Udaipur,NFHS-4,0.46720554968942596
+sikkim::east district,Sikkim,East District,NFHS-4,0.7503074721569402
+sikkim::north district,Sikkim,North District,NFHS-4,0.7009790291001744
+sikkim::south district,Sikkim,South District,NFHS-4,0.41017442119819775
+sikkim::west district,Sikkim,West District,NFHS-4,0.6892996688772252
+tamil nadu::ariyalur,Tamil Nadu,Ariyalur,NFHS-4,0.6517732046946247
+tamil nadu::chennai,Tamil Nadu,Chennai,NFHS-4,0.8837064846933252
+tamil nadu::coimbatore,Tamil Nadu,Coimbatore,NFHS-4,0.7500614391899852
+tamil nadu::cuddalore,Tamil Nadu,Cuddalore,NFHS-4,0.717210619892892
+tamil nadu::dharmapuri,Tamil Nadu,Dharmapuri,NFHS-4,0.6908024955460638
+tamil nadu::dindigul,Tamil Nadu,Dindigul,NFHS-4,0.6683052035714352
+tamil nadu::erode,Tamil Nadu,Erode,NFHS-4,0.69666731834259
+tamil nadu::kancheepuram,Tamil Nadu,Kancheepuram,NFHS-4,0.7849479292889643
+tamil nadu::kanniyakumari,Tamil Nadu,Kanniyakumari,NFHS-4,0.9138498176935624
+tamil nadu::karur,Tamil Nadu,Karur,NFHS-4,0.7200512332623552
+tamil nadu::krishnagiri,Tamil Nadu,Krishnagiri,NFHS-4,0.6921877537578376
+tamil nadu::madurai,Tamil Nadu,Madurai,NFHS-4,0.7407573729715508
+tamil nadu::nagapattinam,Tamil Nadu,Nagapattinam,NFHS-4,0.7227750895328566
+tamil nadu::namakkal,Tamil Nadu,Namakkal,NFHS-4,0.7194097283484402
+tamil nadu::perambalur,Tamil Nadu,Perambalur,NFHS-4,0.7080719671498839
+tamil nadu::pudukkottai,Tamil Nadu,Pudukkottai,NFHS-4,0.7219602584403115
+tamil nadu::ramanathapuram,Tamil Nadu,Ramanathapuram,NFHS-4,0.6909668826613362
+tamil nadu::salem,Tamil Nadu,Salem,NFHS-4,0.7186939567043151
+tamil nadu::sivaganga,Tamil Nadu,Sivaganga,NFHS-4,0.7494857923859377
+tamil nadu::thanjavur,Tamil Nadu,Thanjavur,NFHS-4,0.7219684347956651
+tamil nadu::the nilgiris,Tamil Nadu,The Nilgiris,NFHS-4,0.8113494544852625
+tamil nadu::theni,Tamil Nadu,Theni,NFHS-4,0.6800748160055217
+tamil nadu::thiruvallur,Tamil Nadu,Thiruvallur,NFHS-4,0.7891458851295048
+tamil nadu::thiruvarur,Tamil Nadu,Thiruvarur,NFHS-4,0.7484940475622985
+tamil nadu::thoothukkudi,Tamil Nadu,Thoothukkudi,NFHS-4,0.712004417428992
+tamil nadu::tiruchirappalli,Tamil Nadu,Tiruchirappalli,NFHS-4,0.7646713495525701
+tamil nadu::tirunelveli,Tamil Nadu,Tirunelveli,NFHS-4,0.6926192613039583
+tamil nadu::tiruppur,Tamil Nadu,Tiruppur,NFHS-4,0.6934508405854349
+tamil nadu::tiruvannamalai,Tamil Nadu,Tiruvannamalai,NFHS-4,0.6670181557853854
+tamil nadu::vellore,Tamil Nadu,Vellore,NFHS-4,0.7251733809099914
+tamil nadu::viluppuram,Tamil Nadu,Viluppuram,NFHS-4,0.6247135723457771
+tamil nadu::virudhunagar,Tamil Nadu,Virudhunagar,NFHS-4,0.6516015420355099
+telangana::adilabad,Telangana,Adilabad,NFHS-4,0.4756920917969302
+telangana::hyderabad,Telangana,Hyderabad,NFHS-4,0.7638529277688448
+telangana::karimnagar,Telangana,Karimnagar,NFHS-4,0.6504266970714091
+telangana::khammam,Telangana,Khammam,NFHS-4,0.571515778188348
+telangana::mahbubnagar,Telangana,Mahbubnagar,NFHS-4,0.47374638915237754
+telangana::medak,Telangana,Medak,NFHS-4,0.559573570896475
+telangana::nalgonda,Telangana,Nalgonda,NFHS-4,0.5536835049759832
+telangana::nizamabad,Telangana,Nizamabad,NFHS-4,0.560250886991352
+telangana::rangareddy,Telangana,Rangareddy,NFHS-4,0.7377346230474586
+telangana::warangal,Telangana,Warangal,NFHS-4,0.654842614771763
+tripura::dhalai,Tripura,Dhalai,NFHS-4,0.5201111387972024
+tripura::north tripura,Tripura,North Tripura,NFHS-4,0.5939366706751994
+tripura::south tripura,Tripura,South Tripura,NFHS-4,0.6044189198822715
+tripura::west tripura,Tripura,West Tripura,NFHS-4,0.659566170588669
+uttar pradesh::agra,Uttar Pradesh,Agra,NFHS-4,0.5933091173542004
+uttar pradesh::aligarh,Uttar Pradesh,Aligarh,NFHS-4,0.5323912335817195
+uttar pradesh::allahabad,Uttar Pradesh,Allahabad,NFHS-4,0.6300819161736038
+uttar pradesh::ambedkar nagar,Uttar Pradesh,Ambedkar Nagar,NFHS-4,0.6690538265872712
+uttar pradesh::auraiya,Uttar Pradesh,Auraiya,NFHS-4,0.6552350500109285
+uttar pradesh::azamgarh,Uttar Pradesh,Azamgarh,NFHS-4,0.6756691509211994
+uttar pradesh::baghpat,Uttar Pradesh,Baghpat,NFHS-4,0.6558267999977558
+uttar pradesh::bahraich,Uttar Pradesh,Bahraich,NFHS-4,0.343470756915896
+uttar pradesh::ballia,Uttar Pradesh,Ballia,NFHS-4,0.6175355641051565
+uttar pradesh::balrampur,Uttar Pradesh,Balrampur,NFHS-4,0.3532358754147862
+uttar pradesh::banda,Uttar Pradesh,Banda,NFHS-4,0.5491238121087664
+uttar pradesh::bara banki,Uttar Pradesh,Bara Banki,NFHS-4,0.46303433100169883
+uttar pradesh::bareilly,Uttar Pradesh,Bareilly,NFHS-4,0.4482613816023922
+uttar pradesh::basti,Uttar Pradesh,Basti,NFHS-4,0.5383709035684808
+uttar pradesh::bijnor,Uttar Pradesh,Bijnor,NFHS-4,0.5931282488408623
+uttar pradesh::budaun,Uttar Pradesh,Budaun,NFHS-4,0.3847332756358853
+uttar pradesh::bulandshahr,Uttar Pradesh,Bulandshahr,NFHS-4,0.5264506327631973
+uttar pradesh::chandauli,Uttar Pradesh,Chandauli,NFHS-4,0.61989543445892
+uttar pradesh::chitrakoot,Uttar Pradesh,Chitrakoot,NFHS-4,0.4656240479636618
+uttar pradesh::deoria,Uttar Pradesh,Deoria,NFHS-4,0.6214605175609398
+uttar pradesh::etah,Uttar Pradesh,Etah,NFHS-4,0.5772151215964105
+uttar pradesh::etawah,Uttar Pradesh,Etawah,NFHS-4,0.658671336762302
+uttar pradesh::faizabad,Uttar Pradesh,Faizabad,NFHS-4,0.5879195024475904
+uttar pradesh::farrukhabad,Uttar Pradesh,Farrukhabad,NFHS-4,0.5890149300484159
+uttar pradesh::fatehpur,Uttar Pradesh,Fatehpur,NFHS-4,0.5580419245367128
+uttar pradesh::firozabad,Uttar Pradesh,Firozabad,NFHS-4,0.5683626146116885
+uttar pradesh::gautam buddha nagar,Uttar Pradesh,Gautam Buddha Nagar,NFHS-4,0.6894918022425263
+uttar pradesh::ghaziabad,Uttar Pradesh,Ghaziabad,NFHS-4,0.6868371938952442
+uttar pradesh::ghazipur,Uttar Pradesh,Ghazipur,NFHS-4,0.6334683820848521
+uttar pradesh::gonda,Uttar Pradesh,Gonda,NFHS-4,0.4228660095058371
+uttar pradesh::gorakhpur,Uttar Pradesh,Gorakhpur,NFHS-4,0.6217873442181652
+uttar pradesh::hamirpur,Uttar Pradesh,Hamirpur,NFHS-4,0.5831803346569691
+uttar pradesh::hardoi,Uttar Pradesh,Hardoi,NFHS-4,0.47780449008242226
+uttar pradesh::jalaun,Uttar Pradesh,Jalaun,NFHS-4,0.6501129510133912
+uttar pradesh::jaunpur,Uttar Pradesh,Jaunpur,NFHS-4,0.6351912704145526
+uttar pradesh::jhansi,Uttar Pradesh,Jhansi,NFHS-4,0.617335965303691
+uttar pradesh::jyotiba phule nagar,Uttar Pradesh,Jyotiba Phule Nagar,NFHS-4,0.5326328095718598
+uttar pradesh::kannauj,Uttar Pradesh,Kannauj,NFHS-4,0.538363326707896
+uttar pradesh::kanpur dehat,Uttar Pradesh,Kanpur Dehat,NFHS-4,0.6251888492874468
+uttar pradesh::kanpur nagar,Uttar Pradesh,Kanpur Nagar,NFHS-4,0.7789101616678101
+uttar pradesh::kanshiram nagar,Uttar Pradesh,Kanshiram Nagar,NFHS-4,0.46529389740612187
+uttar pradesh::kaushambi,Uttar Pradesh,Kaushambi,NFHS-4,0.4156288223431386
+uttar pradesh::kheri,Uttar Pradesh,Kheri,NFHS-4,0.4024546250530982
+uttar pradesh::kushinagar,Uttar Pradesh,Kushinagar,NFHS-4,0.5143158071743908
+uttar pradesh::lalitpur,Uttar Pradesh,Lalitpur,NFHS-4,0.4987836808264742
+uttar pradesh::lucknow,Uttar Pradesh,Lucknow,NFHS-4,0.7552449393205753
+uttar pradesh::mahamaya nagar,Uttar Pradesh,Mahamaya Nagar,NFHS-4,0.609740743229917
+uttar pradesh::maharajganj,Uttar Pradesh,Maharajganj,NFHS-4,0.44192176679582873
+uttar pradesh::mahoba,Uttar Pradesh,Mahoba,NFHS-4,0.5255616039921958
+uttar pradesh::mainpuri,Uttar Pradesh,Mainpuri,NFHS-4,0.6516953676748889
+uttar pradesh::mathura,Uttar Pradesh,Mathura,NFHS-4,0.5745651820892778
+uttar pradesh::mau,Uttar Pradesh,Mau,NFHS-4,0.6265097292939783
+uttar pradesh::meerut,Uttar Pradesh,Meerut,NFHS-4,0.6335962926113565
+uttar pradesh::mirzapur,Uttar Pradesh,Mirzapur,NFHS-4,0.555833308910199
+uttar pradesh::moradabad,Uttar Pradesh,Moradabad,NFHS-4,0.4662285427070774
+uttar pradesh::muzaffarnagar,Uttar Pradesh,Muzaffarnagar,NFHS-4,0.5687886011562481
+uttar pradesh::pilibhit,Uttar Pradesh,Pilibhit,NFHS-4,0.47041009718681187
+uttar pradesh::pratapgarh,Uttar Pradesh,Pratapgarh,NFHS-4,0.6005115400977451
+uttar pradesh::rae bareli,Uttar Pradesh,Rae Bareli,NFHS-4,0.5673210489479239
+uttar pradesh::rampur,Uttar Pradesh,Rampur,NFHS-4,0.40816938583448
+uttar pradesh::saharanpur,Uttar Pradesh,Saharanpur,NFHS-4,0.5852225355576315
+uttar pradesh::sant kabir nagar,Uttar Pradesh,Sant Kabir Nagar,NFHS-4,0.5110235482565236
+uttar pradesh::sant ravidas nagar,Uttar Pradesh,Sant Ravidas Nagar,NFHS-4,0.57934596297751
+uttar pradesh::shahjahanpur,Uttar Pradesh,Shahjahanpur,NFHS-4,0.4554381626050307
+uttar pradesh::shrawasti,Uttar Pradesh,Shrawasti,NFHS-4,0.27805222109476924
+uttar pradesh::siddharthnagar,Uttar Pradesh,Siddharthnagar,NFHS-4,0.4295069441935106
+uttar pradesh::sitapur,Uttar Pradesh,Sitapur,NFHS-4,0.4475160652239322
+uttar pradesh::sonbhadra,Uttar Pradesh,Sonbhadra,NFHS-4,0.5238197044592798
+uttar pradesh::sultanpur,Uttar Pradesh,Sultanpur,NFHS-4,0.5572290551417092
+uttar pradesh::unnao,Uttar Pradesh,Unnao,NFHS-4,0.5258300003111251
+uttar pradesh::varanasi,Uttar Pradesh,Varanasi,NFHS-4,0.6589985761606902
+uttarakhand::almora,Uttarakhand,Almora,NFHS-4,0.7107797233763216
+uttarakhand::bageshwar,Uttarakhand,Bageshwar,NFHS-4,0.709451263370489
+uttarakhand::chamoli,Uttarakhand,Chamoli,NFHS-4,0.7719443337720081
+uttarakhand::champawat,Uttarakhand,Champawat,NFHS-4,0.6533253939510428
+uttarakhand::dehradun,Uttarakhand,Dehradun,NFHS-4,0.8110016235401193
+uttarakhand::garhwal,Uttarakhand,Garhwal,NFHS-4,0.78718142394838
+uttarakhand::hardwar,Uttarakhand,Hardwar,NFHS-4,0.5754764314006728
+uttarakhand::nainital,Uttarakhand,Nainital,NFHS-4,0.7751653658061759
+uttarakhand::pithoragarh,Uttarakhand,Pithoragarh,NFHS-4,0.6868338558707074
+uttarakhand::rudraprayag,Uttarakhand,Rudraprayag,NFHS-4,0.7740620804296776
+uttarakhand::tehri garhwal,Uttarakhand,Tehri Garhwal,NFHS-4,0.7421570881095273
+uttarakhand::udham singh nagar,Uttarakhand,Udham Singh Nagar,NFHS-4,0.5987101493405027
+uttarakhand::uttarkashi,Uttarakhand,Uttarkashi,NFHS-4,0.6576159937043633
+west bengal::bankura,West Bengal,Bankura,NFHS-4,0.5410670936262132
+west bengal::barddhaman,West Bengal,Barddhaman,NFHS-4,0.5417778605875699
+west bengal::birbhum,West Bengal,Birbhum,NFHS-4,0.5264683335524549
+west bengal::dakshin dinajpur,West Bengal,Dakshin Dinajpur,NFHS-4,0.5433744532601824
+west bengal::darjiling,West Bengal,Darjiling,NFHS-4,0.658604369116305
+west bengal::haora,West Bengal,Haora,NFHS-4,0.6537703430487188
+west bengal::hugli,West Bengal,Hugli,NFHS-4,0.6087321183912714
+west bengal::jalpaiguri,West Bengal,Jalpaiguri,NFHS-4,0.5181303531538153
+west bengal::koch bihar,West Bengal,Koch Bihar,NFHS-4,0.5334042039727591
+west bengal::kolkata,West Bengal,Kolkata,NFHS-4,0.727688813878806
+west bengal::maldah,West Bengal,Maldah,NFHS-4,0.4981123989132352
+west bengal::murshidabad,West Bengal,Murshidabad,NFHS-4,0.5433554420569668
+west bengal::nadia,West Bengal,Nadia,NFHS-4,0.5791485785402294
+west bengal::north twenty four parganas,West Bengal,North Twenty Four Parganas,NFHS-4,0.6692676045385677
+west bengal::paschim medinipur,West Bengal,Paschim Medinipur,NFHS-4,0.5696906618763582
+west bengal::purba medinipur,West Bengal,Purba Medinipur,NFHS-4,0.6243184189784977
+west bengal::puruliya,West Bengal,Puruliya,NFHS-4,0.417439969799274
+west bengal::south twenty four parganas,West Bengal,South Twenty Four Parganas,NFHS-4,0.570599301345344
+west bengal::uttar dinajpur,West Bengal,Uttar Dinajpur,NFHS-4,0.41678616739581
